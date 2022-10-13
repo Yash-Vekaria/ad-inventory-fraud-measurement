@@ -1,0 +1,24 @@
+amazon-adsystem.com, 3030, DIRECT
+appnexus.com, 3661, DIRECT
+google.com, pub-4177862836555934, DIRECT
+google.com, pub-9542126426993714, DIRECT
+indexexchange.com, 184733, DIRECT
+liveintent.com, 130, DIRECT
+openx.com, 537145107, DIRECT
+openx.com, 539936340, DIRECT
+openx.com, 539052954, DIRECT
+openx.com, 544071378, DIRECT, 6a698e2ec38604c6
+rubiconproject.com, 12330, DIRECT
+rubiconproject.com, 17470, DIRECT
+triplelift.com, 746, DIRECT
+pubmatic.com, 158573, DIRECT, 5d62403b186f2ace
+pubmatic.com, 158945, DIRECT, 5d62403b186f2ace
+media.net, 8CU2553YN, DIRECT
+yahoo.com, 55861, DIRECT, e1a5b5b6e3255540
+yahoo.com, 55792, DIRECT, e1a5b5b6e3255540
+google.com, pub-1793726897772453, DIRECT, f08c47fec0942fa0
+aps.amazon.com, 3030, DIRECT
+indexexchange.com, 196165, DIRECT, 50b1c356f2c5c8fc
+adswizz.com, nytimes, DIRECT
+triplelift.com, 746-EB, DIRECT, 6c33edb13117fd86
+liveintent.com, 74445, DIRECT

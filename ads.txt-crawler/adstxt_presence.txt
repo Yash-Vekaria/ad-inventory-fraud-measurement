@@ -1,0 +1,3 @@
+http://nytimes.com, Yes
+http://breitbart.com, Yes
+http://tmz.com, Yes
