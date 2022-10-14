@@ -6,6 +6,9 @@ from selenium.webdriver.chrome.options import Options
 
 
 def get_chromedriver():
+    '''
+    Returns an instance of chromedriver
+    '''
     # Download appropriate chromedriver from: https://chromedriver.chromium.org/downloads based on your chrome browser version
     chrome_options = Options()
     chrome_options.add_argument("--headless")
