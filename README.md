@@ -31,6 +31,7 @@ The following scenarios describe different misrepresentations in ads.txt:
 </p>
 
 In order to study these ads.txt misrepresentations, first step is to crawl ads.txt using the codes present in `ads.txt-crawler` directory.
+
 1. Enter the list of _valid_ websites in the file `websites_to_crawl.txt` by adding each website on a new line.
 2. Download the appropriate version of chrome webdriver corresponding to the current version of your chrome browser and OS from the following link:
    https://chromedriver.chromium.org/downloads 
@@ -57,6 +58,7 @@ The following scenarios describe different misrepresentations in ads.txt:
 </p>
 
 In order to study sellers.json misrepresentations, first step is to crawl sellers.json using the codes present in `sellers.json-crawler` directory.
+
 1. 
 
 ### Citation
