@@ -24,7 +24,7 @@ In order to study ads.txt misrepresentations, first step is to crawl ads.txt usi
    ```
    python crawl_adstxt.py
    ```
-5. Next, the downloaded ads.txt can be parsed to eliminate irrelevant text by running the following command. It will generate a unified summary file ```summary_adstxt.csv``` containing entries of all the ads.txt files downloaded in Step 4. 
+5. Next, the downloaded ads.txt can be parsed to eliminate irrelevant text by running the following command. It will generate a unified summary file ```summary_adstxt.csv``` containing entries of all the ads.txt files downloaded in Step 4.
    
 
 If you find this work useful, please cite our research paper:
