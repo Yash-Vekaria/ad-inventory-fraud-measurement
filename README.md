@@ -1,7 +1,13 @@
 # Ad Inventory Fraud Measurement
 
 This repository is associated with the measurement study based research titled "**The Inventory is Dark and Full of Misinformation:
-Understanding the Abuse of Ad Inventory Pooling in the Ad-Tech Supply Chain**". In this work, for the first time, we study and measure different mechanisms employed in the ad-tech ecosystem to misrepresent the ad inventory in order to fraud the advertisers. We perform our study on a set of 669 misinformation websites as they are more prone to engage in this kind of ad fraud so as to deceive brands in monetizing their misinformative websites. However, this repository contains the template code to repeat the work done in our research for any set of websites. The dataset associated with our work can be accessed in our [OSF Project Repository](https://osf.io/hxfkw/?view_only=bda006ebbd7d4ec2be869cbb198c6bd5) and can be used to reproduce the results detailed in our paper. For further details, please check out the research paper associated with this work here: XXX.
+Understanding the Abuse of Ad Inventory Pooling in the Ad-Tech Supply Chain**". In this work, for the first time, we study and measure different mechanisms employed in the ad-tech ecosystem to misrepresent the ad inventory in order to fraud the advertisers. We perform our study on a set of 669 misinformation websites as they are more prone to engage in this kind of ad fraud so as to deceive brands in monetizing their misinformative websites. However, this repository contains the template code to repeat the work done in our research for any set of websites. 
+
+The dataset associated with our work can be accessed below. It can be used to reproduce the results detailed in our paper.
+**Dataset:** [OSF Project Repository](https://osf.io/hxfkw/?view_only=bda006ebbd7d4ec2be869cbb198c6bd5)  
+
+For further details, please check out the research paper associated with this work
+**Paper:** XXX
 
 We study Ad Inventory Fraud in three ways:
 1. ads.txt misrepresentations
