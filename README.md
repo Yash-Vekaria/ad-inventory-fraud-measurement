@@ -31,12 +31,18 @@ In order to study ads.txt misrepresentations, first step is to crawl ads.txt usi
    python crawl_adstxt.py
    ```
 5. Next, the downloaded ads.txt can be parsed to eliminate irrelevant text by running the following command. It will generate a unified summary file `summary_adstxt.csv` containing entries of all the ads.txt files downloaded in Step 4.
-   
+6. Finally, `xxx.py` can be ran as follows to obtain all the different types of ads.txt misrepresentations described in the figure above.
 
-If you find this work useful, please cite our research paper:
+
+## sellers.json misrepresentations
+
+In order to study sellers.json misrepresentations, first step is to crawl ads.txt using the codes present in `ads.txt-crawler` directory.
+
 
 ### Citation
+
 If you find this work useful, please cite our research paper:
+
 ```
 
 ```
