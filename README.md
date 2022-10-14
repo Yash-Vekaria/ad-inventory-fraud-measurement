@@ -21,7 +21,10 @@ pip install -r requirements.txt
 
 ## ads.txt misrepresentations
 
-The following scenarios describe correct representations and corresponding misrepresentations in ads.txt:
+The ads.txt standard (introduced in 2017) aims to address ad slot inventory fraud by requiring each publisher domain to maintain an ads.txt file
+at the root level directory (e.g., publisher.com/ads.txt). The ads.txt file should contain entries for all ad exchanges that are authorized to sell or resell the ad inventory of the publisher. (**Note**: "ads" in "ads.txt" stands for `Authorized Digital Sellers`.)
+
+The following scenarios describe different misrepresentations in ads.txt:
 
 <p align="center">
   <img src="https://github.com/Yash-Vekaria/Ad-Inventory-Fraud-Measurement/files/9781761/adstxt-inventory-fraud-toy-examples.pdf">
