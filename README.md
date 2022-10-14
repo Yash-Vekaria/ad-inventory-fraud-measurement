@@ -24,7 +24,7 @@ pip install -r requirements.txt
 The following scenarios describe correct representations and corresponding misrepresentations in ads.txt:
 
 <p align="center">
-  <img width="700" height="900" src="https://github.com/Yash-Vekaria/Ad-Inventory-Fraud-Measurement/files/9781761/adstxt-inventory-fraud-toy-examples.pdf">
+  <img src="https://github.com/Yash-Vekaria/Ad-Inventory-Fraud-Measurement/files/9781761/adstxt-inventory-fraud-toy-examples.pdf">
 </p>
 
 In order to study these ads.txt misrepresentations, first step is to crawl ads.txt using the codes present in `ads.txt-crawler` directory.
