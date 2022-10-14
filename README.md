@@ -19,16 +19,10 @@ It is recommended to follow the same directory structure as used in the reposito
 pip install -r requirements.txt
 ```
 
-## ads.txt misrepresentations
+## ads.txt crawler
 
 The ads.txt standard (introduced in 2017) aims to address ad slot inventory fraud by requiring each publisher domain to maintain an ads.txt file
 at the root level directory (e.g., publisher.com/ads.txt). The ads.txt file should contain entries for all ad exchanges that are authorized to sell or resell the ad inventory of the publisher. Our work is based on [2021 IAB Specification](https://iabtechlab.com/wp-content/uploads/2021/03/ads.txt-1.0.3.pdf) for ads.txt. (**Note**: "ads" in "ads.txt" stands for `Authorized Digital Sellers`.)
-
-The following scenarios describe different misrepresentations in ads.txt:
-
-<p align="center">
-  <img src="https://github.com/Yash-Vekaria/Ad-Inventory-Fraud-Measurement/files/9781761/adstxt-inventory-fraud-toy-examples.pdf">
-</p>
 
 In order to study these ads.txt misrepresentations, first step is to crawl ads.txt using the codes present in `ads.txt-crawler` directory.
 
@@ -44,28 +38,44 @@ In order to study these ads.txt misrepresentations, first step is to crawl ads.t
    ```
    python parse_adstxt.py
    ```
-6. Finally, `xxx.py` can be ran as follows to obtain all the different types of ads.txt misrepresentations described in the figure above.
-   ```
-   python xxx.py
-   ```
 
 
-## sellers.json misrepresentations
+## sellers.json crawler
 
 The sellers.json standard (introduced in 2019), aims to mitigate inventory fraud by requiring each AdX and SSP to maintain a sellers.json file at the root level directory (e.g., adx.com/sellers.json). This sellers.json file must contain an entry for each entity that may be paid for inventory purchased through an AdX — i.e., one entry for each partner that is an inventory source for the AdX. Our work is based on [2019 IAB Specification](https://iabtechlab.com/wp-content/uploads/2019/07/Sellers.json_Final.pdf) for sellers.json.
-
-The following scenarios describe different misrepresentations in ads.txt:
-
-<p align="center">
-  <img src="https://github.com/Yash-Vekaria/Ad-Inventory-Fraud-Measurement/files/9781965/sellersjson-inventory-fraud.pdf">
-</p>
 
 In order to study sellers.json misrepresentations, first step is to crawl sellers.json using the codes present in `sellers.json-crawler` directory.
 
 1. 
 
 
-### Citation
+
+## Discovering misrepresentations
+
+The following scenarios describe different misrepresentations in `ads.txt` file:
+
+<p align="center">
+  <img src="https://github.com/Yash-Vekaria/Ad-Inventory-Fraud-Measurement/files/9781761/adstxt-inventory-fraud-toy-examples.pdf">
+</p>
+
+The following scenarios describe different misrepresentations in `sellers.json` file:
+
+<p align="center">
+  <img src="https://github.com/Yash-Vekaria/Ad-Inventory-Fraud-Measurement/files/9781965/sellersjson-inventory-fraud.pdf">
+</p>
+
+The counts for above misrepresentations can be discovered in ads.txt and sellers.json files using the `summary_adstxt.csv` and `summary_sellersjson.csv` files generated above. The following commands need to be run:
+* **ads.txt misrepresentations**: Output file: `adstxt_misrepresentations.csv`
+  ```
+  python discover_adstxt_misrepresentations.py
+  ``` 
+* **sellers.json misrepresentations**: Output file: `sellersjson_misrepresentations.csv`
+  ```
+  python discover_sellersjson_misrepresentations.py
+  ``` 
+
+
+## Citation
 
 If you find this work useful, please cite our research paper:
 
