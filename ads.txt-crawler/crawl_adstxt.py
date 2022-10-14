@@ -6,6 +6,7 @@ from selenium.webdriver.chrome.options import Options
 
 
 def get_chromedriver():
+    # Download appropriate chromedriver from: https://chromedriver.chromium.org/downloads based on your chrome browser version
     chrome_options = Options()
     chrome_options.add_argument("--headless")
     driver = webdriver.Chrome(executable_path="./chromedriver", options=chrome_options)
@@ -30,6 +31,10 @@ def crawl_adstxt(websites, driver, output_directory, adstxt_presence_filepath):
 
     for site in websites:
 
+        termination_char = ""
+        if websites.index(site) != len(websites)-1:
+            termination_char = "\n"
+
         # Check for ads.txt presence at the root level of a website
         site_adstxt_location = str(site) + "/ads.txt"
         
@@ -38,7 +43,7 @@ def crawl_adstxt(websites, driver, output_directory, adstxt_presence_filepath):
             driver.get(site_adstxt_location)
         except:
             # Store ads.txt presence in a file
-            fm.write(str(site) + ", No\n")
+            fm.write(str(site) + f", No{termination_char}")
             print(site, "Failed!!")
             continue
         
@@ -52,10 +57,10 @@ def crawl_adstxt(websites, driver, output_directory, adstxt_presence_filepath):
             output_filename = site.replace("https://","").replace("http://","").replace("www.","").replace(".","_") + ".txt"
             output_filepath = os.path.join(output_directory, output_filename)
             save_adstxt(output_filepath, str_content)
-            fm.write(str(site) + ", Yes\n")
+            fm.write(str(site) + f", Yes{termination_char}")
             print(site, "Crawled!")
         else:
-            fm.write(str(site) + ", No\n")
+            fm.write(str(site) + f", No{termination_char}")
             print(site, "Failed!!")     
 
     driver.quit()
