@@ -147,7 +147,7 @@ def generate_adstxt_summary(dataframe, outpath_filepath):
 def main():
 
     # Define path to list of websites that are under study
-    input_directory, input_filename = "", "websites_to_crawl.txt"
+    input_directory, input_filename = "..", "websites_to_crawl.txt"
     input_filepath = os.path.join(input_directory, input_filename)
 
     # Enter the path to the file to store output about the presence of the ads.txt

@@ -12,7 +12,7 @@ def get_chromedriver():
     # Download appropriate chromedriver from: https://chromedriver.chromium.org/downloads based on your chrome browser version
     chrome_options = Options()
     chrome_options.add_argument("--headless")
-    driver = webdriver.Chrome(executable_path="./chromedriver", options=chrome_options)
+    driver = webdriver.Chrome(executable_path="../chromedriver", options=chrome_options)
     return driver
 
 
@@ -87,7 +87,7 @@ def save_adstxt(filepath, content):
 def main():
 
     # Define path to list of websites to crawl
-    input_directory, input_filename = "", "websites_to_crawl.txt"
+    input_directory, input_filename = "..", "websites_to_crawl.txt"
     input_filepath = os.path.join(input_directory, input_filename)
 
     # Enter the path to the file to store output about the presence of the ads.txt

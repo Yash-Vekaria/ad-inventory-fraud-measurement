@@ -27,7 +27,7 @@ at the root level directory (e.g., publisher.com/ads.txt). The ads.txt file shou
 In order to study these ads.txt misrepresentations, first step is to crawl ads.txt using the codes present in `ads.txt-crawler` directory.
 
 1. Enter the list of _valid_ websites in the file `websites_to_crawl.txt` by adding each website on a new line.
-2. Download the appropriate version of chrome webdriver corresponding to the current version of your chrome browser and OS from the following link:
+2. Download the appropriate version of chrome webdriver corresponding to the current version of your chrome browser and OS from the following link and place it at the location as shown above.
    https://chromedriver.chromium.org/downloads 
 3. Replace the executable `chromedriver` inside the `ads.txt-crawler` directory with the executable obtained by unzipping the downloaded file in Step 2.
 4. Run ads.txt crawler using the following command to download ads.txt for your websites (wherever available). ads.txt will be downloaded in `ads.txt-crawler/adstxt` directory. The subset of websites for whom ads.txt was _not_ found are associated with "No" in the `adstxt_presence.txt` file:
