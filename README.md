@@ -7,7 +7,7 @@ The dataset associated with our work can be accessed below. It can be used to re
 **Dataset:** [OSF Project Repository](https://osf.io/hxfkw/?view_only=bda006ebbd7d4ec2be869cbb198c6bd5)  
 
 For further details, please check out the research paper associated with this work.\
-**Paper:** XXX
+**Paper:** https://doi.org/10.48550/arXiv.2210.06654
 
 We study Ad Inventory Fraud in three ways:
 1. ads.txt misrepresentations
@@ -21,7 +21,13 @@ pip install -r requirements.txt
 
 ## ads.txt misrepresentations
 
-In order to study ads.txt misrepresentations, first step is to crawl ads.txt using the codes present in `ads.txt-crawler` directory.
+The following scenarios describe correct representations and corresponding misrepresentations in ads.txt:
+
+<p align="center">
+  <img width="550" height="550" src="https://github.com/Yash-Vekaria/Ad-Inventory-Fraud-Measurement/files/9781761/adstxt-inventory-fraud-toy-examples.pdf">
+</p>
+
+In order to study these ads.txt misrepresentations, first step is to crawl ads.txt using the codes present in `ads.txt-crawler` directory.
 1. Enter the list of _valid_ websites in the file `websites_to_crawl.txt` by adding each website on a new line.
 2. Download the appropriate version of chrome webdriver corresponding to the current version of your chrome browser and OS from the following link:
    https://chromedriver.chromium.org/downloads 
@@ -47,5 +53,21 @@ In order to study sellers.json misrepresentations, first step is to crawl ads.tx
 If you find this work useful, please cite our research paper:
 
 ```
-
+@misc{https://doi.org/10.48550/arxiv.2210.06654,
+  doi = {10.48550/ARXIV.2210.06654},
+  
+  url = {https://arxiv.org/abs/2210.06654},
+  
+  author = {Vekaria, Yash and Nithyanand, Rishab and Shafiq, Zubair},
+  
+  keywords = {Cryptography and Security (cs.CR), Computers and Society (cs.CY), Networking and Internet Architecture (cs.NI), Social and Information Networks (cs.SI), FOS: Computer and information sciences, FOS: Computer and information sciences},
+  
+  title = {The Inventory is Dark and Full of Misinformation: Understanding the Abuse of Ad Inventory Pooling in the Ad-Tech Supply Chain},
+  
+  publisher = {arXiv},
+  
+  year = {2022},
+  
+  copyright = {Creative Commons Attribution 4.0 International}
+}
 ```
