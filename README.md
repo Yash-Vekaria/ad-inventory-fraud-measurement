@@ -40,7 +40,10 @@ In order to study these ads.txt misrepresentations, first step is to crawl ads.t
    ```
    python crawl_adstxt.py
    ```
-5. Next, the downloaded ads.txt can be parsed to eliminate irrelevant text by running the following command. It will generate a unified summary file `summary_adstxt.csv` containing entries of all the ads.txt files downloaded in Step 4.
+5. Next, the downloaded ads.txt files can be parsed and pre-processed to eliminate irrelevant text by running the following command. It will generate a unified summary file `summary_adstxt.csv` containing entries of all the ads.txt files downloaded in Step 4.
+   ```
+   python parse_adstxt.py
+   ```
 6. Finally, `xxx.py` can be ran as follows to obtain all the different types of ads.txt misrepresentations described in the figure above.
    ```
    python xxx.py
@@ -60,6 +63,7 @@ The following scenarios describe different misrepresentations in ads.txt:
 In order to study sellers.json misrepresentations, first step is to crawl sellers.json using the codes present in `sellers.json-crawler` directory.
 
 1. 
+
 
 ### Citation
 
