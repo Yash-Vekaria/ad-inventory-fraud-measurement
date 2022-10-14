@@ -52,24 +52,30 @@ In order to study sellers.json misrepresentations, first step is to crawl seller
 
 ## Discovering misrepresentations
 
-The following scenarios describe different misrepresentations in `ads.txt`:
+The following scenarios describe different misrepresentations in `ads.txt` file:
 
 <p align="center">
   <img src="https://github.com/Yash-Vekaria/Ad-Inventory-Fraud-Measurement/files/9781761/adstxt-inventory-fraud-toy-examples.pdf">
 </p>
 
-The following scenarios describe different misrepresentations in `sellers.json`:
+The following scenarios describe different misrepresentations in `sellers.json` file:
 
 <p align="center">
   <img src="https://github.com/Yash-Vekaria/Ad-Inventory-Fraud-Measurement/files/9781965/sellersjson-inventory-fraud.pdf">
 </p>
 
-The counts for above misrepresentations can be discovered in ads.txt and sellers.json files using the `summary_adstxt.csv` and `summary_sellersjson.csv` generated above. The following commands need to be run:
-* **ads.txt misrepresentations**: `python discover_adstxt_misrepresentations.py` 
-* **sellers.json misrepresentations**: `python discover_sellersjson_misrepresentations.py` 
+The counts for above misrepresentations can be discovered in ads.txt and sellers.json files using the `summary_adstxt.csv` and `summary_sellersjson.csv` files generated above. The following commands need to be run:
+* **ads.txt misrepresentations**: Output file: `adstxt_misrepresentations.csv`
+  ```
+  python discover_adstxt_misrepresentations.py
+  ``` 
+* **sellers.json misrepresentations**: Output file: `sellersjson_misrepresentations.csv`
+  ```
+  python discover_sellersjson_misrepresentations.py
+  ``` 
 
 
-### Citation
+## Citation
 
 If you find this work useful, please cite our research paper:
 
