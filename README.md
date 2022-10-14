@@ -22,7 +22,7 @@ pip install -r requirements.txt
 ## ads.txt misrepresentations
 
 The ads.txt standard (introduced in 2017) aims to address ad slot inventory fraud by requiring each publisher domain to maintain an ads.txt file
-at the root level directory (e.g., publisher.com/ads.txt). The ads.txt file should contain entries for all ad exchanges that are authorized to sell or resell the ad inventory of the publisher. Our work is based on [2021 IAB Specification](https://iabtechlab.com/wp-content/uploads/2021/03/ads.txt-1.0.3.pdf). (**Note**: "ads" in "ads.txt" stands for `Authorized Digital Sellers`.)
+at the root level directory (e.g., publisher.com/ads.txt). The ads.txt file should contain entries for all ad exchanges that are authorized to sell or resell the ad inventory of the publisher. Our work is based on [2021 IAB Specification](https://iabtechlab.com/wp-content/uploads/2021/03/ads.txt-1.0.3.pdf) for ads.txt. (**Note**: "ads" in "ads.txt" stands for `Authorized Digital Sellers`.)
 
 The following scenarios describe different misrepresentations in ads.txt:
 
@@ -48,8 +48,16 @@ In order to study these ads.txt misrepresentations, first step is to crawl ads.t
 
 ## sellers.json misrepresentations
 
-In order to study sellers.json misrepresentations, first step is to crawl ads.txt using the codes present in `ads.txt-crawler` directory.
+The sellers.json standard (introduced in 2019), aims to mitigate inventory fraud by requiring each AdX and SSP to maintain a sellers.json file at the root level directory (e.g., adx.com/sellers.json). This sellers.json file must contain an entry for each entity that may be paid for inventory purchased through an AdX — i.e., one entry for each partner that is an inventory source for the AdX. Our work is based on [2019 IAB Specification](https://iabtechlab.com/wp-content/uploads/2019/07/Sellers.json_Final.pdf) for sellers.json.
 
+The following scenarios describe different misrepresentations in ads.txt:
+
+<p align="center">
+  <img src="https://github.com/Yash-Vekaria/Ad-Inventory-Fraud-Measurement/files/9781965/sellersjson-inventory-fraud.pdf">
+</p>
+
+In order to study sellers.json misrepresentations, first step is to crawl sellers.json using the codes present in `sellers.json-crawler` directory.
+1. 
 
 ### Citation
 
