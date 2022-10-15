@@ -1,0 +1,1 @@
+"{\n  \"contact_email\": \"ben@adstxtmarket.com\",\n  \"contact_address\": \"Israel\",\n  \"version\": \"1\",\n  \"identifiers\": [],\n  \"sellers\": [\n    {\n      \"seller_id\": \"1234\",\n      \"seller_type\": \"INTERMEDIARY\",\n      \"domain\": \"adstxtmarket.com\",\n      \"name\": \"Easybrain\"\n    }\n  ]\n}"
