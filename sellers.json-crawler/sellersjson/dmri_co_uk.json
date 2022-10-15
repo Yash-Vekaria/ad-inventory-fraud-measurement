@@ -1,0 +1,1 @@
+"{\n\t\"contact_email\": \"enquiries@dmri.co.uk\",\n\t\"contact_address\": \"DMRi, First Floor, 145 Bradfield Road, Hillsborough, Sheffield, S6 2BY\",\n\t\"version\": \"1.0\",\n\t\"sellers\": [\n\t\t{\n\t\t\t\"seller_id\": \"12345\", \n\t\t\t\"name\": \"Future plc\",\n\t\t\t\"domain\": \"futureplc.com\",\n\t\t\t\"seller_type\": \"PUBLISHER\"\n\t\t}\n\t]\n}"
