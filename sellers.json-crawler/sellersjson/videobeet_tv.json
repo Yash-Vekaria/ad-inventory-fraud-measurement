@@ -1,0 +1,1 @@
+"{\n    \"version\": 1,\n    \"identifiers\": [ \n        {      \n\t\t   \"name\": \"TAG-ID\",\n\t\t   \"value\": \"e1a5b5b6e3255540\"\n\t\t}\n\t],\n    \"sellers\": [\n        {\n            \"seller_id\": \"434341818\",\n\t\t\t\"is_confidential\":\t1,\n            \"seller_type\": \"INTERMEDIARY\"\n        }\n    ]\n}\n"
