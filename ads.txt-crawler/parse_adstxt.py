@@ -88,7 +88,7 @@ def parse_adstxt(websites, adstxt_directory, adstxt_presence_dict):
                         if temp[1].strip() == "":
                             item_list.append("NA")
                         else:
-                            # Extract and append current "seller id"
+                            # Extract and append current "seller_id"
                             item_list.append(temp[1].strip())
 
                         if len(temp) >= 3:
@@ -138,7 +138,7 @@ def parse_adstxt(websites, adstxt_directory, adstxt_presence_dict):
 
 
 def generate_adstxt_summary(dataframe, outpath_filepath):
-    header = ["website_domain", "adstxt_presence", "ad_domain", "seller id", "seller_account_type", "certification_authority_id"]
+    header = ["website_domain", "adstxt_presence", "ad_domain", "seller_id", "seller_account_type", "certification_authority_id"]
     df = pd.DataFrame(dataframe, columns=header)
     df.to_csv(outpath_filepath, index=False)
 

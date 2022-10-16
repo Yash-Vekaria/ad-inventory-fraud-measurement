@@ -1,4 +1,4 @@
-website_domain,adstxt_presence,ad_domain,seller id,seller_account_type,certification_authority_id
+website_domain,adstxt_presence,ad_domain,seller_id,seller_account_type,certification_authority_id
 http://nytimes.com,Yes,amazon-adsystem.com,3030,DIRECT,NA
 http://nytimes.com,Yes,appnexus.com,3661,DIRECT,NA
 http://nytimes.com,Yes,google.com,pub-4177862836555934,DIRECT,NA
