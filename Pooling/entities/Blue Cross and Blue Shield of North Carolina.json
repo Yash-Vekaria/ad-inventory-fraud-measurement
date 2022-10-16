@@ -1,0 +1,12 @@
+{
+    "name": "Blue Cross and Blue Shield of North Carolina",
+    "displayName": "Blue Cross and Blue Shield of North Carolina",
+    "properties": [
+        "bluecrossnc.com"
+    ],
+    "prevalence": {
+        "tracking": 0.00000683,
+        "nonTracking": 0,
+        "total": 0.00000683
+    }
+}

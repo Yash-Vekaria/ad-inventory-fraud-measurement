@@ -1,0 +1,12 @@
+{
+    "name": "proNet Informationssysteme GmbH",
+    "displayName": "proNet Informationssysteme",
+    "properties": [
+        "pronet-webengine.net"
+    ],
+    "prevalence": {
+        "tracking": 0.00000683,
+        "nonTracking": 0,
+        "total": 0.00000683
+    }
+}

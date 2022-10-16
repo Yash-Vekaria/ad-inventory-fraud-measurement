@@ -1,0 +1,13 @@
+{
+    "name": "Flightradar24 AB",
+    "displayName": "Flightradar24",
+    "properties": [
+        "flightradar24.com",
+        "jetphotos.com"
+    ],
+    "prevalence": {
+        "tracking": 0.00000681,
+        "nonTracking": 0,
+        "total": 0.00000681
+    }
+}

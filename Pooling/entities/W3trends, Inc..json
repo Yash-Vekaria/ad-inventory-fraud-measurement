@@ -1,0 +1,12 @@
+{
+    "name": "W3trends, Inc.",
+    "displayName": "W3trends",
+    "properties": [
+        "w3apps.co"
+    ],
+    "prevalence": {
+        "tracking": 0.0000478,
+        "nonTracking": 0.000375,
+        "total": 0.000423
+    }
+}

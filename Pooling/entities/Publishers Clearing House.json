@@ -1,0 +1,13 @@
+{
+    "name": "Publishers Clearing House",
+    "displayName": "Publishers Clearing House",
+    "properties": [
+        "pch.com",
+        "pchassets.com"
+    ],
+    "prevalence": {
+        "tracking": 0.0000136,
+        "nonTracking": 0,
+        "total": 0.0000136
+    }
+}

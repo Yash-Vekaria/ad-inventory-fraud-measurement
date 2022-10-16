@@ -1,0 +1,12 @@
+{
+    "name": "City of New York, Dept of IT & Telecommunications",
+    "displayName": "City of New York, Dept of IT & Telecommunications",
+    "properties": [
+        "nyc.gov"
+    ],
+    "prevalence": {
+        "tracking": 0.00000683,
+        "nonTracking": 0,
+        "total": 0.00000683
+    }
+}

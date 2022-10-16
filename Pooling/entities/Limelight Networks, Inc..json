@@ -1,0 +1,22 @@
+{
+    "name": "Limelight Networks, Inc.",
+    "displayName": "Limelight Networks",
+    "properties": [
+        "atkingdom-network.com",
+        "delvenetworks.com",
+        "limelight.com",
+        "lldns.net",
+        "llnw.com",
+        "llnw.net",
+        "llnwd.net",
+        "llnwi.net",
+        "mcstatic.com",
+        "opus-static.com",
+        "xosnetwork.com"
+    ],
+    "prevalence": {
+        "tracking": 0.000293,
+        "nonTracking": 0.000607,
+        "total": 0.0009
+    }
+}

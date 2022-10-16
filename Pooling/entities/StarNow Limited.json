@@ -1,0 +1,13 @@
+{
+    "name": "StarNow Limited",
+    "displayName": "StarNow",
+    "properties": [
+        "starnow.com",
+        "staticsn.com"
+    ],
+    "prevalence": {
+        "tracking": 0.0001,
+        "nonTracking": 0,
+        "total": 0.0001
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "name": "ITEDI Spa",
+    "displayName": "ITEDI",
+    "properties": [
+        "ilsecoloxix.it"
+    ],
+    "prevalence": {
+        "tracking": 0,
+        "nonTracking": 0.00000691,
+        "total": 0.00000691
+    }
+}

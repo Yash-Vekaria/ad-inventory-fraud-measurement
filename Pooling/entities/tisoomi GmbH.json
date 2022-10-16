@@ -1,0 +1,12 @@
+{
+    "name": "tisoomi GmbH",
+    "displayName": "tisoomi",
+    "properties": [
+        "adternal.com"
+    ],
+    "prevalence": {
+        "tracking": 0,
+        "nonTracking": 0.0000137,
+        "total": 0.0000137
+    }
+}

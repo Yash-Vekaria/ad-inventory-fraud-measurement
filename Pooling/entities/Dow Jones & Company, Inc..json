@@ -1,0 +1,22 @@
+{
+    "name": "Dow Jones & Company, Inc.",
+    "displayName": "Dow Jones & Company",
+    "properties": [
+        "barrons.com",
+        "dowjones.com",
+        "dowjoneson.com",
+        "factiva.com",
+        "fnlondon.com",
+        "mansionglobal.com",
+        "marketwatch.com",
+        "onservo.com",
+        "penews.com",
+        "wsj.com",
+        "wsj.net"
+    ],
+    "prevalence": {
+        "tracking": 0.0000546,
+        "nonTracking": 0.0000751,
+        "total": 0.00013
+    }
+}

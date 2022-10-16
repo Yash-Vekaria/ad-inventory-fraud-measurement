@@ -1,0 +1,17 @@
+{
+    "name": "Arkose Labs, Inc.",
+    "displayName": "Arkose Labs",
+    "properties": [
+        "arkoselabs.com",
+        "funcaptcha.co",
+        "funcaptcha.com",
+        "funcaptcha.net",
+        "swipeads.co",
+        "swipeads.com"
+    ],
+    "prevalence": {
+        "tracking": 0.000287,
+        "nonTracking": 0.0000137,
+        "total": 0.000301
+    }
+}

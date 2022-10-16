@@ -1,0 +1,13 @@
+{
+    "name": "miniOrange Inc.",
+    "displayName": "miniOrange",
+    "properties": [
+        "miniorange.com",
+        "xecurify.com"
+    ],
+    "prevalence": {
+        "tracking": 0.0000273,
+        "nonTracking": 0.0000137,
+        "total": 0.000041
+    }
+}

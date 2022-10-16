@@ -1,0 +1,13 @@
+{
+    "name": "NewsBank",
+    "displayName": "NewsBank",
+    "properties": [
+        "genealogybank.com",
+        "obitsarchive.com"
+    ],
+    "prevalence": {
+        "tracking": 0.00000691,
+        "nonTracking": 0,
+        "total": 0.00000691
+    }
+}

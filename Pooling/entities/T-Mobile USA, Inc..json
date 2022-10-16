@@ -1,0 +1,13 @@
+{
+    "name": "T-Mobile USA, Inc.",
+    "displayName": "T-Mobile USA",
+    "properties": [
+        "metropcs.com",
+        "t-mobile.com"
+    ],
+    "prevalence": {
+        "tracking": 0.0000341,
+        "nonTracking": 0.00000683,
+        "total": 0.0000409
+    }
+}

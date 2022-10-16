@@ -1,0 +1,13 @@
+{
+    "name": "Sosyo Plus Bilgi Bilişim Tekn. Dan. Hiz. Tic. A.Ş.",
+    "displayName": "Insider",
+    "properties": [
+        "useinsider.co",
+        "useinsider.com"
+    ],
+    "prevalence": {
+        "tracking": 0.00105,
+        "nonTracking": 0.00000683,
+        "total": 0.00106
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "name": "Holidaycheck AG",
+    "displayName": "Holidaycheck",
+    "properties": [
+        "holidaycheck.at",
+        "holidaycheck.de"
+    ],
+    "prevalence": {
+        "tracking": 0.0000137,
+        "nonTracking": 0,
+        "total": 0.0000137
+    }
+}

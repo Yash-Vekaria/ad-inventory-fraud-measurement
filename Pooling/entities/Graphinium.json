@@ -1,0 +1,13 @@
+{
+    "name": "Graphinium",
+    "displayName": "Graphinium",
+    "properties": [
+        "crm4d.com",
+        "graphinium.com"
+    ],
+    "prevalence": {
+        "tracking": 0.0000614,
+        "nonTracking": 0,
+        "total": 0.0000614
+    }
+}

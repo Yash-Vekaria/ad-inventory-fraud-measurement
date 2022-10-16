@@ -1,0 +1,13 @@
+{
+    "name": "DHI Group, Inc.",
+    "displayName": "DHI Group",
+    "properties": [
+        "efinancialcareers.com",
+        "rigzone.com"
+    ],
+    "prevalence": {
+        "tracking": 0.00000678,
+        "nonTracking": 0,
+        "total": 0.00000678
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "name": "STORETAIL MARKETING SERVICES",
+    "displayName": "STORETAIL MARKETING SERVICES",
+    "properties": [
+        "storetail.io",
+        "storetail.net"
+    ],
+    "prevalence": {
+        "tracking": 0.0000273,
+        "nonTracking": 0.0000205,
+        "total": 0.0000478
+    }
+}

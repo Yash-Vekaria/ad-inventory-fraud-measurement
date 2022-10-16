@@ -1,0 +1,12 @@
+{
+    "name": "ADS4ALL",
+    "displayName": "ADS4ALL",
+    "properties": [
+        "leparking.fr"
+    ],
+    "prevalence": {
+        "tracking": 0,
+        "nonTracking": 0.0000136,
+        "total": 0.0000136
+    }
+}

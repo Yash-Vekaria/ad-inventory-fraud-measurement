@@ -1,0 +1,12 @@
+{
+    "name": "C & A Mode GmbH & Co. KG",
+    "displayName": "C & A Mode",
+    "properties": [
+        "c-and-a.com"
+    ],
+    "prevalence": {
+        "tracking": 0.0001,
+        "nonTracking": 0,
+        "total": 0.0001
+    }
+}

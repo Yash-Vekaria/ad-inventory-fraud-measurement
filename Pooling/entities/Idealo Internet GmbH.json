@@ -1,0 +1,14 @@
+{
+    "name": "Idealo Internet GmbH",
+    "displayName": "Idealo Internet",
+    "properties": [
+        "idealo.com",
+        "idealo.fr",
+        "idealo.net"
+    ],
+    "prevalence": {
+        "tracking": 0.0000478,
+        "nonTracking": 0.0000751,
+        "total": 0.000123
+    }
+}

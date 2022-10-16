@@ -1,0 +1,31 @@
+{
+    "name": "BCE Inc.",
+    "displayName": "BCE",
+    "properties": [
+        "9c9media.ca",
+        "9c9media.com",
+        "bell.ca",
+        "bell.net",
+        "bellmedia.ca",
+        "bnnbloomberg.ca",
+        "canalvie.com",
+        "cookieless.ca",
+        "cp24.com",
+        "crave.ca",
+        "ctv.ca",
+        "ctvnews.ca",
+        "etalk.ca",
+        "gustotv.com",
+        "marilyn.ca",
+        "rds.ca",
+        "standardinteractive.com",
+        "theloop.ca",
+        "tsn.ca",
+        "virginmobile.ca"
+    ],
+    "prevalence": {
+        "tracking": 0.0000137,
+        "nonTracking": 0.0000478,
+        "total": 0.0000615
+    }
+}

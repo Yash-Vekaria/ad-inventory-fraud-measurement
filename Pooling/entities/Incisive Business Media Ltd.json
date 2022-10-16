@@ -1,0 +1,12 @@
+{
+    "name": "Incisive Business Media Ltd",
+    "displayName": "Incisive Business Media",
+    "properties": [
+        "incisivemedia.com"
+    ],
+    "prevalence": {
+        "tracking": 0,
+        "nonTracking": 0.000101,
+        "total": 0.000101
+    }
+}

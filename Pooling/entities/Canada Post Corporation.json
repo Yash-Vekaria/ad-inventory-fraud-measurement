@@ -1,0 +1,13 @@
+{
+    "name": "Canada Post Corporation",
+    "displayName": "Canada Post",
+    "properties": [
+        "canadapost.ca",
+        "postescanada-canadapost.ca"
+    ],
+    "prevalence": {
+        "tracking": 0.0000478,
+        "nonTracking": 0.00000683,
+        "total": 0.0000546
+    }
+}

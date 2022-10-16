@@ -1,0 +1,19 @@
+{
+    "name": "Orange",
+    "displayName": "Orange",
+    "properties": [
+        "118712.fr",
+        "francetelecom.com",
+        "localmedia.fr",
+        "orange.com",
+        "orange.fr",
+        "orangeads.fr",
+        "purpledrm.com",
+        "woopic.com"
+    ],
+    "prevalence": {
+        "tracking": 0.0000273,
+        "nonTracking": 0.00000683,
+        "total": 0.0000341
+    }
+}

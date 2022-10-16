@@ -1,0 +1,13 @@
+{
+    "name": "Stubhub, Inc.",
+    "displayName": "Stubhub",
+    "properties": [
+        "stubhub.com",
+        "stubhubstatic.com"
+    ],
+    "prevalence": {
+        "tracking": 0.00000683,
+        "nonTracking": 0,
+        "total": 0.00000683
+    }
+}

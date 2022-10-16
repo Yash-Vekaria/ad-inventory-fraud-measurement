@@ -1,0 +1,13 @@
+{
+    "name": "Ciliara Trading Limited",
+    "displayName": "Ciliara Trading",
+    "properties": [
+        "bookcdn.com",
+        "booked.net"
+    ],
+    "prevalence": {
+        "tracking": 0.0000273,
+        "nonTracking": 0.00000683,
+        "total": 0.0000341
+    }
+}

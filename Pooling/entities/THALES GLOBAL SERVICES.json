@@ -1,0 +1,12 @@
+{
+    "name": "THALES GLOBAL SERVICES",
+    "displayName": "THALES GLOBAL SERVICES",
+    "properties": [
+        "thalesgroup.com"
+    ],
+    "prevalence": {
+        "tracking": 0.0000069,
+        "nonTracking": 0,
+        "total": 0.0000069
+    }
+}

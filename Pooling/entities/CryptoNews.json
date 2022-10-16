@@ -1,0 +1,12 @@
+{
+    "name": "CryptoNews",
+    "displayName": "CryptoNews",
+    "properties": [
+        "cryptonews.com"
+    ],
+    "prevalence": {
+        "tracking": 0.000894,
+        "nonTracking": 0.00000683,
+        "total": 0.000901
+    }
+}

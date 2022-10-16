@@ -1,0 +1,20 @@
+{
+    "name": "Hanley Wood LLC",
+    "displayName": "Hanley Wood",
+    "properties": [
+        "architectmagazine.com",
+        "builderonline.com",
+        "concreteconstruction.net",
+        "dreamhomesource.com",
+        "eplans.com",
+        "homeplans.com",
+        "houseplans.com",
+        "houseplansservices.com",
+        "jlconline.com"
+    ],
+    "prevalence": {
+        "tracking": 0,
+        "nonTracking": 0.0000138,
+        "total": 0.0000138
+    }
+}

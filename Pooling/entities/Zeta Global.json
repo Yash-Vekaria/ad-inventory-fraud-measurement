@@ -1,0 +1,19 @@
+{
+    "name": "Zeta Global",
+    "displayName": "Zeta Global",
+    "properties": [
+        "boomtrain.com",
+        "rezync.com",
+        "rfihub.com",
+        "rfihub.net",
+        "ru4.com",
+        "zetaglobal.com",
+        "zetaglobal.net",
+        "zetazync.com"
+    ],
+    "prevalence": {
+        "tracking": 0.066,
+        "nonTracking": 0.000758,
+        "total": 0.0668
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "name": "EMX Digital, LLC",
+    "displayName": "EMX Digital",
+    "properties": [
+        "brealtime.com",
+        "clrstm.com",
+        "enginemediaexchange.com"
+    ],
+    "prevalence": {
+        "tracking": 0.00444,
+        "nonTracking": 0.00264,
+        "total": 0.00708
+    }
+}

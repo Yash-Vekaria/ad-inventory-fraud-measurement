@@ -1,0 +1,16 @@
+{
+    "name": "Novum Capital Beratungsgesellschaft mbH & O3 Industries",
+    "displayName": "Novum Capital & O3 Industries",
+    "properties": [
+        "autoexposure.co.uk",
+        "flex-motors.co.uk",
+        "gumtree.com",
+        "motors.co.uk",
+        "raccars.co.uk"
+    ],
+    "prevalence": {
+        "tracking": 0.00000683,
+        "nonTracking": 0,
+        "total": 0.00000683
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "name": "TokenEx, LLC",
+    "displayName": "TokenEx",
+    "properties": [
+        "auricsystems.com",
+        "tokenex.com"
+    ],
+    "prevalence": {
+        "tracking": 0.0000137,
+        "nonTracking": 0.000116,
+        "total": 0.00013
+    }
+}

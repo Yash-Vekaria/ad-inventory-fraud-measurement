@@ -1,0 +1,14 @@
+{
+    "name": "Vertigo Studio SRL",
+    "displayName": "Vertigo Studio",
+    "properties": [
+        "codeinwp.com",
+        "optimole.com",
+        "themeisle.com"
+    ],
+    "prevalence": {
+        "tracking": 0.000212,
+        "nonTracking": 0.000205,
+        "total": 0.000417
+    }
+}

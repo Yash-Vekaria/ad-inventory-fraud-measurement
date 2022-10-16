@@ -1,0 +1,12 @@
+{
+    "name": "WyzAnt Inc",
+    "displayName": "WyzAnt",
+    "properties": [
+        "wyzant.com"
+    ],
+    "prevalence": {
+        "tracking": 0.00000683,
+        "nonTracking": 0,
+        "total": 0.00000683
+    }
+}

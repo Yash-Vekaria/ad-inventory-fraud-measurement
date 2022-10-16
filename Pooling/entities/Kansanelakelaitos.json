@@ -1,0 +1,13 @@
+{
+    "name": "Kansanelakelaitos",
+    "displayName": "Kansanelakelaitos",
+    "properties": [
+        "kanta.fi",
+        "kela.fi"
+    ],
+    "prevalence": {
+        "tracking": 0.00000735,
+        "nonTracking": 0,
+        "total": 0.00000735
+    }
+}

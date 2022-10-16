@@ -1,0 +1,17 @@
+{
+    "name": "Dailymotion SA",
+    "displayName": "Dailymotion",
+    "properties": [
+        "dailymotion.com",
+        "dm-event.net",
+        "dmcdn.net",
+        "dmleonyc.com",
+        "dmxleo.com",
+        "pxlad.io"
+    ],
+    "prevalence": {
+        "tracking": 0.00124,
+        "nonTracking": 0.00637,
+        "total": 0.00761
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "name": "LINE Corporation",
+    "displayName": "LINE",
+    "properties": [
+        "line-apps-beta.com",
+        "line-apps.com",
+        "line-cdn.net",
+        "line-scdn.net",
+        "line.biz",
+        "line.me",
+        "lineblog.me",
+        "linecorp.com",
+        "linepluscorp.com"
+    ],
+    "prevalence": {
+        "tracking": 0.00219,
+        "nonTracking": 0.000293,
+        "total": 0.00248
+    }
+}

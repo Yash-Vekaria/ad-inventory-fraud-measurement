@@ -1,0 +1,13 @@
+{
+    "name": "Standard Verlagsgesellschaft m.b.H.",
+    "displayName": "Standard Verlagsgesellschaft",
+    "properties": [
+        "derstandard.at",
+        "staticfiles.at"
+    ],
+    "prevalence": {
+        "tracking": 0.00000683,
+        "nonTracking": 0,
+        "total": 0.00000683
+    }
+}

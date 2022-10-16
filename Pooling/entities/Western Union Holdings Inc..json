@@ -1,0 +1,12 @@
+{
+    "name": "Western Union Holdings Inc.",
+    "displayName": "Western Union Holdings",
+    "properties": [
+        "westernunion.com"
+    ],
+    "prevalence": {
+        "tracking": 0.0000137,
+        "nonTracking": 0,
+        "total": 0.0000137
+    }
+}

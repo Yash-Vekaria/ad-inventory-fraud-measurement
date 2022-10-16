@@ -1,0 +1,13 @@
+{
+    "name": "Bigtree Entertainment Pvt Ltd",
+    "displayName": "Bigtree Entertainment",
+    "properties": [
+        "bmscdn.com",
+        "bookmyshow.com"
+    ],
+    "prevalence": {
+        "tracking": 0,
+        "nonTracking": 0.00000683,
+        "total": 0.00000683
+    }
+}

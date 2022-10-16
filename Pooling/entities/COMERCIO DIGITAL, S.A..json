@@ -1,0 +1,12 @@
+{
+    "name": "COMERCIO DIGITAL, S.A.",
+    "displayName": "COMERCIO DIGITAL",
+    "properties": [
+        "solostocks.com"
+    ],
+    "prevalence": {
+        "tracking": 0.00000693,
+        "nonTracking": 0,
+        "total": 0.00000693
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Texas Department of Transportation",
+    "displayName": "Texas Department of Transportation",
+    "properties": [
+        "txdot.gov"
+    ],
+    "prevalence": {
+        "tracking": 0.00000683,
+        "nonTracking": 0,
+        "total": 0.00000683
+    }
+}

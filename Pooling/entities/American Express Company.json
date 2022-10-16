@@ -1,0 +1,14 @@
+{
+    "name": "American Express Company",
+    "displayName": "American Express Company",
+    "properties": [
+        "aexp-static.com",
+        "americanexpress.com",
+        "thecenturionlounge.com"
+    ],
+    "prevalence": {
+        "tracking": 0.0000341,
+        "nonTracking": 0,
+        "total": 0.0000341
+    }
+}

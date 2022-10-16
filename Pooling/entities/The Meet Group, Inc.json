@@ -1,0 +1,14 @@
+{
+    "name": "The Meet Group, Inc",
+    "displayName": "The Meet Group",
+    "properties": [
+        "hi5.com",
+        "meetmecdna.com",
+        "tagged.com"
+    ],
+    "prevalence": {
+        "tracking": 0.00000683,
+        "nonTracking": 0,
+        "total": 0.00000683
+    }
+}

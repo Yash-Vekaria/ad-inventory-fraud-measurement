@@ -1,0 +1,22 @@
+{
+    "name": "Brightcove, Inc.",
+    "displayName": "Brightcove",
+    "properties": [
+        "bcove.video",
+        "bcovlive.io",
+        "boltdns.net",
+        "brightcove.co.jp",
+        "brightcove.com",
+        "brightcove.net",
+        "brightcovecdn.com",
+        "gallerysites.net",
+        "ooyala.com",
+        "videoplaza.tv",
+        "zencdn.net"
+    ],
+    "prevalence": {
+        "tracking": 0.00686,
+        "nonTracking": 0.00274,
+        "total": 0.0096
+    }
+}

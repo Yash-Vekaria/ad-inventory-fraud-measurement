@@ -1,0 +1,8 @@
+{
+    "name": "Netwell LLC",
+    "displayName": "Netwell",
+    "properties": [
+        "weather-forecast.us",
+        "weather.ng"
+    ]
+}

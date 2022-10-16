@@ -1,0 +1,13 @@
+{
+    "name": "Glance Networks Inc",
+    "displayName": "Glance Networks",
+    "properties": [
+        "glance.net",
+        "glancecdn.net"
+    ],
+    "prevalence": {
+        "tracking": 0.000498,
+        "nonTracking": 0.0000478,
+        "total": 0.000546
+    }
+}

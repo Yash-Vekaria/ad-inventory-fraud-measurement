@@ -1,0 +1,16 @@
+{
+    "name": "SLI Systems, Inc",
+    "displayName": "SLI Systems",
+    "properties": [
+        "resultspage.com",
+        "resultsstage.com",
+        "sli-r.com",
+        "sli-spark.com",
+        "sli-systems.com"
+    ],
+    "prevalence": {
+        "tracking": 0.000403,
+        "nonTracking": 0.000143,
+        "total": 0.000546
+    }
+}

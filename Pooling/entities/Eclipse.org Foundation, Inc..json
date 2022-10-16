@@ -1,0 +1,13 @@
+{
+    "name": "Eclipse.org Foundation, Inc.",
+    "displayName": "Eclipse.org Foundation",
+    "properties": [
+        "eclipse.org",
+        "mosquitto.org"
+    ],
+    "prevalence": {
+        "tracking": 0.0001,
+        "nonTracking": 0,
+        "total": 0.0001
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "name": "Envato Pty Ltd",
+    "displayName": "Envato",
+    "properties": [
+        "audiojungle.net",
+        "codecanyon.net",
+        "envato-static.com",
+        "envato.com",
+        "envato.market",
+        "graphicriver.net",
+        "themeforest.net",
+        "tutsplus.com",
+        "videohive.net"
+    ],
+    "prevalence": {
+        "tracking": 0.0000273,
+        "nonTracking": 0.0000273,
+        "total": 0.0000546
+    }
+}

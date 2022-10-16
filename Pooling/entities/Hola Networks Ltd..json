@@ -1,0 +1,13 @@
+{
+    "name": "Hola Networks Ltd.",
+    "displayName": "Hola Networks",
+    "properties": [
+        "h-cdn.com",
+        "hola.org"
+    ],
+    "prevalence": {
+        "tracking": 0.000478,
+        "nonTracking": 0.0000751,
+        "total": 0.000553
+    }
+}

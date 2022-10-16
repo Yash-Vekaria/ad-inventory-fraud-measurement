@@ -1,0 +1,12 @@
+{
+    "name": "La Maison Simons Inc.",
+    "displayName": "La Maison Simons",
+    "properties": [
+        "simons.ca"
+    ],
+    "prevalence": {
+        "tracking": 0.00000683,
+        "nonTracking": 0,
+        "total": 0.00000683
+    }
+}

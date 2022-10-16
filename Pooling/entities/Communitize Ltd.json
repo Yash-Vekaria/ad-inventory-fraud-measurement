@@ -1,0 +1,12 @@
+{
+    "name": "Communitize Ltd",
+    "displayName": "Communitize",
+    "properties": [
+        "report.download"
+    ],
+    "prevalence": {
+        "tracking": 0.00000759,
+        "nonTracking": 0,
+        "total": 0.00000759
+    }
+}

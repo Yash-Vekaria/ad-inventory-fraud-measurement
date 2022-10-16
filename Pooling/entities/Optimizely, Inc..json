@@ -1,0 +1,12 @@
+{
+    "name": "Optimizely, Inc.",
+    "displayName": "Optimizely",
+    "properties": [
+        "optimizely.com"
+    ],
+    "prevalence": {
+        "tracking": 0.0167,
+        "nonTracking": 0.00291,
+        "total": 0.0196
+    }
+}

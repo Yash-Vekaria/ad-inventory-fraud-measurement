@@ -1,0 +1,12 @@
+{
+    "name": "Bygghemma Sverige AB",
+    "displayName": "Bygghemma Sverige",
+    "properties": [
+        "bygghemma.se"
+    ],
+    "prevalence": {
+        "tracking": 0.0001,
+        "nonTracking": 0,
+        "total": 0.0001
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "name": "BestReviews Inc.",
+    "displayName": "BestReviews",
+    "properties": [
+        "bestreviews.com"
+    ],
+    "prevalence": {
+        "tracking": 0.000683,
+        "nonTracking": 0,
+        "total": 0.000683
+    }
+}

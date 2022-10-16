@@ -1,0 +1,12 @@
+{
+    "name": "Welcome Media",
+    "displayName": "Welcome Media",
+    "properties": [
+        "phywi.org"
+    ],
+    "prevalence": {
+        "tracking": 0.000157,
+        "nonTracking": 0,
+        "total": 0.000157
+    }
+}

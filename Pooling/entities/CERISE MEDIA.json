@@ -1,0 +1,14 @@
+{
+    "name": "CERISE MEDIA",
+    "displayName": "CERISE MEDIA",
+    "properties": [
+        "gentside.com",
+        "maxisciences.com",
+        "ohmymag.com"
+    ],
+    "prevalence": {
+        "tracking": 0.0001,
+        "nonTracking": 0,
+        "total": 0.0001
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Frommer Media",
+    "displayName": "Frommer Media",
+    "properties": [
+        "frommers.com"
+    ],
+    "prevalence": {
+        "tracking": 0,
+        "nonTracking": 0.00000691,
+        "total": 0.00000691
+    }
+}

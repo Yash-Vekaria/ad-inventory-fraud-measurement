@@ -1,0 +1,14 @@
+{
+    "name": "Acceptable Ads Exchange",
+    "displayName": "Acceptable Ads Exchange",
+    "properties": [
+        "aax.media",
+        "aaxads.com",
+        "aaxdetect.com"
+    ],
+    "prevalence": {
+        "tracking": 0.00864,
+        "nonTracking": 0.000041,
+        "total": 0.00868
+    }
+}

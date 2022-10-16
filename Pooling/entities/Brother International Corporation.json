@@ -1,0 +1,12 @@
+{
+    "name": "Brother International Corporation",
+    "displayName": "Brother International",
+    "properties": [
+        "brother-usa.com"
+    ],
+    "prevalence": {
+        "tracking": 0.00000683,
+        "nonTracking": 0,
+        "total": 0.00000683
+    }
+}

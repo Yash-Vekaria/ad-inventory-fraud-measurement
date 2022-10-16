@@ -1,0 +1,13 @@
+{
+    "name": "Pegasystems",
+    "displayName": "Pegasystems",
+    "properties": [
+        "pega.com",
+        "usefirefly.com"
+    ],
+    "prevalence": {
+        "tracking": 0.0000341,
+        "nonTracking": 0,
+        "total": 0.0000341
+    }
+}

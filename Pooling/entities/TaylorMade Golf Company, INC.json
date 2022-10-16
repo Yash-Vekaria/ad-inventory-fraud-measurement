@@ -1,0 +1,12 @@
+{
+    "name": "TaylorMade Golf Company, INC",
+    "displayName": "TaylorMade Golf Company",
+    "properties": [
+        "taylormadegolf.com"
+    ],
+    "prevalence": {
+        "tracking": 0.00000735,
+        "nonTracking": 0,
+        "total": 0.00000735
+    }
+}

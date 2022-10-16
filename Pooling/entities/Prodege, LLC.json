@@ -1,0 +1,15 @@
+{
+    "name": "Prodege, LLC",
+    "displayName": "Prodege",
+    "properties": [
+        "entertainow.com",
+        "prsrvy.com",
+        "sbx-cdn.com",
+        "swagbucks.com"
+    ],
+    "prevalence": {
+        "tracking": 0.000102,
+        "nonTracking": 0,
+        "total": 0.000102
+    }
+}

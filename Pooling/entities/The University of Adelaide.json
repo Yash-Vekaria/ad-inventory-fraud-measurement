@@ -1,0 +1,12 @@
+{
+    "name": "The University of Adelaide",
+    "displayName": "The University of Adelaide",
+    "properties": [
+        "adelaide.edu.au"
+    ],
+    "prevalence": {
+        "tracking": 0.00000694,
+        "nonTracking": 0,
+        "total": 0.00000694
+    }
+}

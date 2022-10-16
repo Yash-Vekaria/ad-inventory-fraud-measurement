@@ -1,0 +1,12 @@
+{
+    "name": "Comm100 Network Corporation",
+    "displayName": "Comm100 Network",
+    "properties": [
+        "comm100.com"
+    ],
+    "prevalence": {
+        "tracking": 0.000437,
+        "nonTracking": 0.0000546,
+        "total": 0.000492
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "name": "N.Rich Technologies",
+    "displayName": "N.Rich",
+    "properties": [
+        "n.rich",
+        "nrich.ai"
+    ],
+    "prevalence": {
+        "tracking": 0.00528,
+        "nonTracking": 0.0000819,
+        "total": 0.00536
+    }
+}

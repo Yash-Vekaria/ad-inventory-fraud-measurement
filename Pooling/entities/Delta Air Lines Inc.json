@@ -1,0 +1,12 @@
+{
+    "name": "Delta Air Lines Inc",
+    "displayName": "Delta Air Lines",
+    "properties": [
+        "delta.com"
+    ],
+    "prevalence": {
+        "tracking": 0.00000678,
+        "nonTracking": 0,
+        "total": 0.00000678
+    }
+}

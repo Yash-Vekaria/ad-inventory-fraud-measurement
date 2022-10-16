@@ -1,0 +1,13 @@
+{
+    "name": "Blade",
+    "displayName": "Blade",
+    "properties": [
+        "blade-group.com",
+        "shadow.tech"
+    ],
+    "prevalence": {
+        "tracking": 0.0001,
+        "nonTracking": 0,
+        "total": 0.0001
+    }
+}

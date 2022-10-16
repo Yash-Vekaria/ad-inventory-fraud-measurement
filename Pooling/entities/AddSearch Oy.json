@@ -1,0 +1,12 @@
+{
+    "name": "AddSearch Oy",
+    "displayName": "AddSearch",
+    "properties": [
+        "addsearch.com"
+    ],
+    "prevalence": {
+        "tracking": 0.0000273,
+        "nonTracking": 0.000614,
+        "total": 0.000641
+    }
+}

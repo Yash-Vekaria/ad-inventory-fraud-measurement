@@ -1,0 +1,13 @@
+{
+    "name": "National Grid USA Service Company, Inc.",
+    "displayName": "National Grid USA Service Company",
+    "properties": [
+        "nationalgrid.com",
+        "nationalgridus.com"
+    ],
+    "prevalence": {
+        "tracking": 0.0000137,
+        "nonTracking": 0,
+        "total": 0.0000137
+    }
+}

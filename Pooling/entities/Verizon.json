@@ -1,0 +1,21 @@
+{
+    "name": "Verizon",
+    "displayName": "Verizon",
+    "properties": [
+        "alphacdn.net",
+        "edgecastcdn.net",
+        "edgecastdns.net",
+        "fios1news.com",
+        "skyward.io",
+        "verizon.com",
+        "verizon.net",
+        "verizonwireless.com",
+        "vtext.com",
+        "vzw.com"
+    ],
+    "prevalence": {
+        "tracking": 0.000246,
+        "nonTracking": 0.000771,
+        "total": 0.00102
+    }
+}

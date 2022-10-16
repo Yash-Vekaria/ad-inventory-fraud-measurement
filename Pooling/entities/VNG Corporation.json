@@ -1,0 +1,22 @@
+{
+    "name": "VNG Corporation",
+    "displayName": "VNG",
+    "properties": [
+        "123c.vn",
+        "adtimaserver.vn",
+        "vng.com.vn",
+        "zadn.vn",
+        "zalo-shop.vn",
+        "zalo.me",
+        "zaloapp.com",
+        "zaloplus.vn",
+        "zdn.vn",
+        "zing.vn",
+        "zingplay.me"
+    ],
+    "prevalence": {
+        "tracking": 0.0000205,
+        "nonTracking": 0,
+        "total": 0.0000205
+    }
+}

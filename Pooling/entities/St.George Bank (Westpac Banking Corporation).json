@@ -1,0 +1,12 @@
+{
+    "name": "St.George Bank (Westpac Banking Corporation)",
+    "displayName": "St.George Bank (Westpac Banking Corporation)",
+    "properties": [
+        "stgeorge.com.au"
+    ],
+    "prevalence": {
+        "tracking": 0.00000682,
+        "nonTracking": 0,
+        "total": 0.00000682
+    }
+}

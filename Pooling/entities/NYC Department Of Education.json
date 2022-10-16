@@ -1,0 +1,12 @@
+{
+    "name": "NYC Department Of Education",
+    "displayName": "NYC Department Of Education",
+    "properties": [
+        "nycenet.edu"
+    ],
+    "prevalence": {
+        "tracking": 0.00000678,
+        "nonTracking": 0,
+        "total": 0.00000678
+    }
+}

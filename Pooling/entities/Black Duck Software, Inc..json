@@ -1,0 +1,13 @@
+{
+    "name": "Black Duck Software, Inc.",
+    "displayName": "Black Duck Software",
+    "properties": [
+        "ohloh.net",
+        "openhub.net"
+    ],
+    "prevalence": {
+        "tracking": 0.00000683,
+        "nonTracking": 0,
+        "total": 0.00000683
+    }
+}

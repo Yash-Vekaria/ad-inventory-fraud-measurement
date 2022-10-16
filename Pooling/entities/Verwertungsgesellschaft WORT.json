@@ -1,0 +1,12 @@
+{
+    "name": "Verwertungsgesellschaft WORT",
+    "displayName": "Verwertungsgesellschaft WORT",
+    "properties": [
+        "vgwort.de"
+    ],
+    "prevalence": {
+        "tracking": 0.00166,
+        "nonTracking": 0.0000205,
+        "total": 0.00168
+    }
+}

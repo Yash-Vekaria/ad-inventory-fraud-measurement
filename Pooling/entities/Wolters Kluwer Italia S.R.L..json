@@ -1,0 +1,13 @@
+{
+    "name": "Wolters Kluwer Italia S.R.L.",
+    "displayName": "Wolters Kluwer Italia",
+    "properties": [
+        "altalex.com",
+        "wki.it"
+    ],
+    "prevalence": {
+        "tracking": 0.00000683,
+        "nonTracking": 0,
+        "total": 0.00000683
+    }
+}

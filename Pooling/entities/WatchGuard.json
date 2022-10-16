@@ -1,0 +1,7 @@
+{
+    "name": "WatchGuard",
+    "displayName": "WatchGuard",
+    "properties": [
+        "acwg.net"
+    ]
+}

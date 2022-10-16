@@ -1,0 +1,17 @@
+{
+    "name": "Medallia Inc.",
+    "displayName": "Medallia",
+    "properties": [
+        "cooladata.com",
+        "kampyle.com",
+        "medallia.com",
+        "medallia.eu",
+        "sense360.com",
+        "sense360eng.com"
+    ],
+    "prevalence": {
+        "tracking": 0.00577,
+        "nonTracking": 0.000512,
+        "total": 0.00628
+    }
+}

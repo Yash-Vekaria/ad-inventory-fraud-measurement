@@ -1,0 +1,25 @@
+{
+    "name": "Zalando SE",
+    "displayName": "Zalando",
+    "properties": [
+        "zalando.at",
+        "zalando.be",
+        "zalando.ch",
+        "zalando.co.uk",
+        "zalando.com",
+        "zalando.de",
+        "zalando.es",
+        "zalando.fi",
+        "zalando.fr",
+        "zalando.it",
+        "zalando.nl",
+        "zalando.pl",
+        "zalando.se",
+        "ztat.net"
+    ],
+    "prevalence": {
+        "tracking": 0.0000273,
+        "nonTracking": 0,
+        "total": 0.0000273
+    }
+}

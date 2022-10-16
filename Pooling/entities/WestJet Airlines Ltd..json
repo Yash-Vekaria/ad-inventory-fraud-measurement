@@ -1,0 +1,12 @@
+{
+    "name": "WestJet Airlines Ltd.",
+    "displayName": "WestJet Airlines",
+    "properties": [
+        "westjet.com"
+    ],
+    "prevalence": {
+        "tracking": 0.0001,
+        "nonTracking": 0,
+        "total": 0.0001
+    }
+}

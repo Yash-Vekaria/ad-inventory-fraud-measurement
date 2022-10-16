@@ -1,0 +1,12 @@
+{
+    "name": "Universitaet Erlangen-Nuernberg",
+    "displayName": "Universitaet Erlangen-Nuernberg",
+    "properties": [
+        "fau.de"
+    ],
+    "prevalence": {
+        "tracking": 0.0001,
+        "nonTracking": 0,
+        "total": 0.0001
+    }
+}

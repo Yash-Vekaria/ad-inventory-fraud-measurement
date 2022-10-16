@@ -1,0 +1,18 @@
+{
+    "name": "AB Dagens Nyheter",
+    "displayName": "Dagens Nyheter",
+    "properties": [
+        "bonad.io",
+        "bonnier.news",
+        "cdn-expressen.se",
+        "di.se",
+        "dn-static.se",
+        "dn.se",
+        "expressen.se"
+    ],
+    "prevalence": {
+        "tracking": 0.0000205,
+        "nonTracking": 0,
+        "total": 0.0000205
+    }
+}

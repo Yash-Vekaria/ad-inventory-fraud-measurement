@@ -1,0 +1,12 @@
+{
+    "name": "3M Company",
+    "displayName": "3M Company",
+    "properties": [
+        "3m.com"
+    ],
+    "prevalence": {
+        "tracking": 0.0000478,
+        "nonTracking": 0.0000137,
+        "total": 0.0000615
+    }
+}

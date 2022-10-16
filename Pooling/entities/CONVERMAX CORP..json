@@ -1,0 +1,12 @@
+{
+    "name": "CONVERMAX CORP.",
+    "displayName": "CONVERMAX",
+    "properties": [
+        "convermax.com"
+    ],
+    "prevalence": {
+        "tracking": 0.0000341,
+        "nonTracking": 0,
+        "total": 0.0000341
+    }
+}

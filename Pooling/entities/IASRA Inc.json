@@ -1,0 +1,12 @@
+{
+    "name": "IASRA Inc",
+    "displayName": "IASRA",
+    "properties": [
+        "world-mysteries.com"
+    ],
+    "prevalence": {
+        "tracking": 0,
+        "nonTracking": 0.00000683,
+        "total": 0.00000683
+    }
+}

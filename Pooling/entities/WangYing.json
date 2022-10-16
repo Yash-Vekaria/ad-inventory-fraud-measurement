@@ -1,0 +1,12 @@
+{
+    "name": "WangYing",
+    "displayName": "WangYing",
+    "properties": [
+        "mlo.me"
+    ],
+    "prevalence": {
+        "tracking": 0.000101,
+        "nonTracking": 0,
+        "total": 0.000101
+    }
+}

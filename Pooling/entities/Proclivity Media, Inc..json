@@ -1,0 +1,13 @@
+{
+    "name": "Proclivity Media, Inc.",
+    "displayName": "Proclivity Media",
+    "properties": [
+        "proclivitysystems.com",
+        "pswec.com"
+    ],
+    "prevalence": {
+        "tracking": 0.0125,
+        "nonTracking": 0.000328,
+        "total": 0.0128
+    }
+}

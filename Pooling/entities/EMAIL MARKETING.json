@@ -1,0 +1,13 @@
+{
+    "name": "EMAIL MARKETING",
+    "displayName": "EMAIL MARKETING",
+    "properties": [
+        "do09.net",
+        "dolist.net"
+    ],
+    "prevalence": {
+        "tracking": 0.000204,
+        "nonTracking": 0,
+        "total": 0.000204
+    }
+}

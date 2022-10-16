@@ -1,0 +1,21 @@
+{
+    "name": "Wovn Technologies, Inc.",
+    "displayName": "Wovn",
+    "properties": [
+        "liondrive.cloud",
+        "movn.app",
+        "movno.app",
+        "movntech.app",
+        "movntechnologies.app",
+        "wovn.app",
+        "wovn.io",
+        "wovnio.app",
+        "wovntech.app",
+        "wovntechnologies.app"
+    ],
+    "prevalence": {
+        "tracking": 0.0000819,
+        "nonTracking": 0.00000683,
+        "total": 0.0000887
+    }
+}

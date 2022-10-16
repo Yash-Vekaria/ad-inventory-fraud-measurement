@@ -1,0 +1,13 @@
+{
+    "name": "Citizens Financial Group Inc",
+    "displayName": "Citizens Financial Group",
+    "properties": [
+        "citizensbank.com",
+        "citizensbankonline.com"
+    ],
+    "prevalence": {
+        "tracking": 0.00000683,
+        "nonTracking": 0.00000683,
+        "total": 0.0000137
+    }
+}

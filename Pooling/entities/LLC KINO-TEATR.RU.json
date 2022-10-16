@@ -1,0 +1,12 @@
+{
+    "name": "LLC KINO-TEATR.RU",
+    "displayName": "KINO-TEATR.RU",
+    "properties": [
+        "kino-teatr.ru"
+    ],
+    "prevalence": {
+        "tracking": 0.00000679,
+        "nonTracking": 0,
+        "total": 0.00000679
+    }
+}

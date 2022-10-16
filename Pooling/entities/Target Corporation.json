@@ -1,0 +1,17 @@
+{
+    "name": "Target Corporation",
+    "displayName": "Target",
+    "properties": [
+        "partnersonline.com",
+        "target.com",
+        "target.com.au",
+        "targetimg1.com",
+        "tgtappdata.com",
+        "tgtneptune.com"
+    ],
+    "prevalence": {
+        "tracking": 0.0000478,
+        "nonTracking": 0,
+        "total": 0.0000478
+    }
+}

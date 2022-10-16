@@ -1,0 +1,12 @@
+{
+    "name": "McCann Disciplines Ltd.",
+    "displayName": "McCann",
+    "properties": [
+        "primis.tech"
+    ],
+    "prevalence": {
+        "tracking": 0.00436,
+        "nonTracking": 0,
+        "total": 0.00436
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "name": "City and County of San Francisco",
+    "displayName": "City and County of San Francisco",
+    "properties": [
+        "sfgov.org"
+    ],
+    "prevalence": {
+        "tracking": 0.0000076,
+        "nonTracking": 0.0000076,
+        "total": 0.0000152
+    }
+}

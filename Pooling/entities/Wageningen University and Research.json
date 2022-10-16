@@ -1,0 +1,12 @@
+{
+    "name": "Wageningen University and Research",
+    "displayName": "Wageningen University and Research",
+    "properties": [
+        "wur.nl"
+    ],
+    "prevalence": {
+        "tracking": 0.0000069,
+        "nonTracking": 0,
+        "total": 0.0000069
+    }
+}

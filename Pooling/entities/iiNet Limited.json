@@ -1,0 +1,13 @@
+{
+    "name": "iiNet Limited",
+    "displayName": "iiNet",
+    "properties": [
+        "iinet.net.au",
+        "on.net"
+    ],
+    "prevalence": {
+        "tracking": 0.000101,
+        "nonTracking": 0.000101,
+        "total": 0.000202
+    }
+}

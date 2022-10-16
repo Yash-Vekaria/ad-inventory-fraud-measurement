@@ -1,0 +1,12 @@
+{
+    "name": "Software Freedom Conservancy, Inc.",
+    "displayName": "Software Freedom Conservancy",
+    "properties": [
+        "git-scm.com",
+        "inkscape.org",
+        "inkscapeforum.com",
+        "mercurial-scm.org",
+        "samba.org",
+        "seleniumhq.org"
+    ]
+}

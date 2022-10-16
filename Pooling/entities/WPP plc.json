@@ -1,0 +1,23 @@
+{
+    "name": "WPP plc",
+    "displayName": "WPP",
+    "properties": [
+        "247realmedia.com",
+        "groupm.com",
+        "hkstrategies.com",
+        "idealhks.com",
+        "linkpulse.com",
+        "lp4.io",
+        "mookie1.cn",
+        "mookie1.com",
+        "ogilvy.com",
+        "research-int.se",
+        "wpp.com",
+        "xaxis.com"
+    ],
+    "prevalence": {
+        "tracking": 0.0606,
+        "nonTracking": 0.000737,
+        "total": 0.0613
+    }
+}

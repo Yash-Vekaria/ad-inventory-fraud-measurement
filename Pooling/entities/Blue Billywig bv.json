@@ -1,0 +1,13 @@
+{
+    "name": "Blue Billywig bv",
+    "displayName": "Blue Billywig",
+    "properties": [
+        "bluebillywig.com",
+        "mainroll.com"
+    ],
+    "prevalence": {
+        "tracking": 0.000259,
+        "nonTracking": 0.0000137,
+        "total": 0.000273
+    }
+}

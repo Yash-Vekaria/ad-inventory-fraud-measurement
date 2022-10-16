@@ -1,0 +1,14 @@
+{
+    "name": "AutoForums.com Inc",
+    "displayName": "AutoForums.com",
+    "properties": [
+        "benzworld.org",
+        "powerstroke.org",
+        "subaruforester.org"
+    ],
+    "prevalence": {
+        "tracking": 0.00000692,
+        "nonTracking": 0,
+        "total": 0.00000692
+    }
+}

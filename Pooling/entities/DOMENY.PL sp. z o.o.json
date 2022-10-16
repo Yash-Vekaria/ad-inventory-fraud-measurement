@@ -1,0 +1,21 @@
+{
+    "name": "DOMENY.PL sp. z o.o",
+    "displayName": "DOMENY.PL",
+    "properties": [
+        "dziennik.pl",
+        "gazetaprawna.pl",
+        "gotujmy.pl",
+        "infor.pl",
+        "inforfk.pl",
+        "polki.pl",
+        "quarticon.com",
+        "reallifecam.com",
+        "tvgry.pl",
+        "tvp.pl"
+    ],
+    "prevalence": {
+        "tracking": 0.0000341,
+        "nonTracking": 0.00000683,
+        "total": 0.0000409
+    }
+}

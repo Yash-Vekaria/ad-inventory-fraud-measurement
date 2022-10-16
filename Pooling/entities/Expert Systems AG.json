@@ -1,0 +1,12 @@
+{
+    "name": "Expert Systems AG",
+    "displayName": "Expert Systems",
+    "properties": [
+        "provenexpert.com"
+    ],
+    "prevalence": {
+        "tracking": 0.000109,
+        "nonTracking": 0.0000546,
+        "total": 0.000164
+    }
+}

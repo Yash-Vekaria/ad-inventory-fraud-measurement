@@ -1,0 +1,12 @@
+{
+    "name": "Holland & Barrett Retail Limited",
+    "displayName": "Holland & Barrett Retail",
+    "properties": [
+        "hollandandbarrettimages.co.uk"
+    ],
+    "prevalence": {
+        "tracking": 0.00000683,
+        "nonTracking": 0.0000137,
+        "total": 0.0000205
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Hush Communications Canada Inc.",
+    "displayName": "Hush Communications Canada",
+    "properties": [
+        "hushmail.com"
+    ],
+    "prevalence": {
+        "tracking": 0.00000735,
+        "nonTracking": 0,
+        "total": 0.00000735
+    }
+}

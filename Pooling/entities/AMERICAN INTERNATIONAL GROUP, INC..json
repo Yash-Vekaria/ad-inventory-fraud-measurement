@@ -1,0 +1,12 @@
+{
+    "name": "AMERICAN INTERNATIONAL GROUP, INC.",
+    "displayName": "AMERICAN INTERNATIONAL GROUP",
+    "properties": [
+        "aig.com"
+    ],
+    "prevalence": {
+        "tracking": 0.00000683,
+        "nonTracking": 0.0000205,
+        "total": 0.0000273
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "name": "SNAPFISH2, LLC",
+    "displayName": "Snapfish2",
+    "properties": [
+        "sf-cdn.com",
+        "snapfish.com"
+    ],
+    "prevalence": {
+        "tracking": 0.00000683,
+        "nonTracking": 0,
+        "total": 0.00000683
+    }
+}

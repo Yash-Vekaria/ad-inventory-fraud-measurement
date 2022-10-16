@@ -1,0 +1,12 @@
+{
+    "name": "The Container Store, Inc.",
+    "displayName": "The Container Store",
+    "properties": [
+        "containerstore.com"
+    ],
+    "prevalence": {
+        "tracking": 0.0000204,
+        "nonTracking": 0,
+        "total": 0.0000204
+    }
+}

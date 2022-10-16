@@ -1,0 +1,12 @@
+{
+    "name": "Harcourts Group (Australia) Pty Ltd",
+    "displayName": "Harcourts Group (Australia)",
+    "properties": [
+        "harcourts.com.au"
+    ],
+    "prevalence": {
+        "tracking": 0,
+        "nonTracking": 0.0000143,
+        "total": 0.0000143
+    }
+}

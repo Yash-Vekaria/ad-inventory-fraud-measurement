@@ -1,0 +1,12 @@
+{
+    "name": "The Christian Post",
+    "displayName": "The Christian Post",
+    "properties": [
+        "christianpost.com"
+    ],
+    "prevalence": {
+        "tracking": 0.0000205,
+        "nonTracking": 0.0000205,
+        "total": 0.000041
+    }
+}

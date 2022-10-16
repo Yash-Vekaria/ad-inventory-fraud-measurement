@@ -1,0 +1,13 @@
+{
+    "name": "Next Millennium Media, Inc.",
+    "displayName": "Next Millennium",
+    "properties": [
+        "brainlyads.com",
+        "nextmillennium.io"
+    ],
+    "prevalence": {
+        "tracking": 0.00167,
+        "nonTracking": 0.0000683,
+        "total": 0.00174
+    }
+}

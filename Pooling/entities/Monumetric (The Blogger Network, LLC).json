@@ -1,0 +1,12 @@
+{
+    "name": "Monumetric (The Blogger Network, LLC)",
+    "displayName": "Monumetric (The Blogger Network, LLC)",
+    "properties": [
+        "monu.delivery"
+    ],
+    "prevalence": {
+        "tracking": 0.00184,
+        "nonTracking": 0.0000341,
+        "total": 0.00187
+    }
+}

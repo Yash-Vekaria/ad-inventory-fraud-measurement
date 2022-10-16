@@ -1,0 +1,12 @@
+{
+    "name": "openPetition gGmbH",
+    "displayName": "openPetition gGmbH",
+    "properties": [
+        "openpetition.de"
+    ],
+    "prevalence": {
+        "tracking": 0.000102,
+        "nonTracking": 0,
+        "total": 0.000102
+    }
+}

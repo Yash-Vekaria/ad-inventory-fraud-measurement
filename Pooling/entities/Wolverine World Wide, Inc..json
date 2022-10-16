@@ -1,0 +1,16 @@
+{
+    "name": "Wolverine World Wide, Inc.",
+    "displayName": "Wolverine World Wide",
+    "properties": [
+        "merrell.com",
+        "saucony.com",
+        "sperry.com",
+        "striderite.com",
+        "wolverine.com"
+    ],
+    "prevalence": {
+        "tracking": 0.00000693,
+        "nonTracking": 0,
+        "total": 0.00000693
+    }
+}

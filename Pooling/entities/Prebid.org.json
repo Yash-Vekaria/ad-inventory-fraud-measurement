@@ -1,0 +1,14 @@
+{
+    "name": "Prebid.org",
+    "displayName": "Prebid.org",
+    "properties": [
+        "nobid.com",
+        "prebid.org",
+        "servenobid.com"
+    ],
+    "prevalence": {
+        "tracking": 0.0109,
+        "nonTracking": 0.00746,
+        "total": 0.0184
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Fonq.nl B.V.",
+    "displayName": "Fonq.nl",
+    "properties": [
+        "fonq.nl"
+    ],
+    "prevalence": {
+        "tracking": 0.000101,
+        "nonTracking": 0,
+        "total": 0.000101
+    }
+}

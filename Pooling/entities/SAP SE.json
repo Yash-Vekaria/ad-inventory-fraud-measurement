@@ -1,0 +1,19 @@
+{
+    "name": "SAP SE",
+    "displayName": "SAP",
+    "properties": [
+        "emarsys.com",
+        "ondemand.com",
+        "qualtrics.com",
+        "sap.com",
+        "scarabresearch.com",
+        "seewhy.com",
+        "services.sap",
+        "sybase.com"
+    ],
+    "prevalence": {
+        "tracking": 0.0125,
+        "nonTracking": 0.000758,
+        "total": 0.0133
+    }
+}

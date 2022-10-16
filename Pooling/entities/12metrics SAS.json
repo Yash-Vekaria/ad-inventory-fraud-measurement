@@ -1,0 +1,8 @@
+{
+    "name": "12metrics SAS",
+    "displayName": "12metrics",
+    "properties": [
+        "keymetrics.io",
+        "pm2.io"
+    ]
+}

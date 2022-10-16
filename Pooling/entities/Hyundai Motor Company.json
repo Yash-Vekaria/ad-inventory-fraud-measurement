@@ -1,0 +1,17 @@
+{
+    "name": "Hyundai Motor Company",
+    "displayName": "Hyundai Motor Company",
+    "properties": [
+        "genesis.com",
+        "hyundai.com",
+        "hyundai.de",
+        "hyundai.nl",
+        "hyundaiusa.com",
+        "kia.com"
+    ],
+    "prevalence": {
+        "tracking": 0.0001,
+        "nonTracking": 0,
+        "total": 0.0001
+    }
+}

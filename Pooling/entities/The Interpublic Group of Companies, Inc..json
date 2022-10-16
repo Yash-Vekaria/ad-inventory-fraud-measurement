@@ -1,0 +1,14 @@
+{
+    "name": "The Interpublic Group of Companies, Inc.",
+    "displayName": "The Interpublic Group of Companies",
+    "properties": [
+        "interpublic.com",
+        "ipgmediabrands.com",
+        "mbww.com"
+    ],
+    "prevalence": {
+        "tracking": 0,
+        "nonTracking": 0.0000273,
+        "total": 0.0000273
+    }
+}

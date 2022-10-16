@@ -1,0 +1,8 @@
+{
+    "name": "Padlet",
+    "displayName": "Padlet",
+    "properties": [
+        "padlet.com",
+        "padletcdn.com"
+    ]
+}

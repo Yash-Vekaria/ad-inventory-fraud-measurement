@@ -1,0 +1,12 @@
+{
+    "name": "Sainsbury's Supermarkets Ltd",
+    "displayName": "Sainsbury's Supermarkets",
+    "properties": [
+        "sainsburys.co.uk"
+    ],
+    "prevalence": {
+        "tracking": 0.00000759,
+        "nonTracking": 0.00000759,
+        "total": 0.0000152
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "name": "DB Vertrieb GmbH",
+    "displayName": "DB Vertrieb",
+    "properties": [
+        "bahn.com",
+        "fahrplanauskunft.de",
+        "img-bahn.de"
+    ],
+    "prevalence": {
+        "tracking": 0.0000205,
+        "nonTracking": 0,
+        "total": 0.0000205
+    }
+}

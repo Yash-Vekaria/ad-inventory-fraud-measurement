@@ -1,0 +1,30 @@
+{
+    "name": "Intuit Inc.",
+    "displayName": "Intuit",
+    "properties": [
+        "chimpstatic.com",
+        "ckapis.com",
+        "creditkarma.com",
+        "docstoccdn.com",
+        "eep.io",
+        "intuit.ca",
+        "intuit.com",
+        "intuitcdn.net",
+        "intuitconnect.com",
+        "list-manage.com",
+        "mailchi.mp",
+        "mailchimp.com",
+        "mailchimpapp.com",
+        "mint.com",
+        "payroll.com",
+        "quickbooks.com",
+        "quickbooksonline.com",
+        "tradegecko.com",
+        "turbotax.com"
+    ],
+    "prevalence": {
+        "tracking": 0.00749,
+        "nonTracking": 0.0113,
+        "total": 0.0188
+    }
+}

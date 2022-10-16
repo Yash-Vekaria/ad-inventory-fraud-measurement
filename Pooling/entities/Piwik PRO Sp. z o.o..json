@@ -1,0 +1,13 @@
+{
+    "name": "Piwik PRO Sp. z o.o.",
+    "displayName": "Piwik PRO",
+    "properties": [
+        "piwik.pro",
+        "piwikpro.com"
+    ],
+    "prevalence": {
+        "tracking": 0.000867,
+        "nonTracking": 0.000123,
+        "total": 0.00099
+    }
+}

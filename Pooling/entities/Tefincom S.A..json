@@ -1,0 +1,12 @@
+{
+    "name": "Tefincom S.A.",
+    "displayName": "Tefincom",
+    "properties": [
+        "nordvpn.com"
+    ],
+    "prevalence": {
+        "tracking": 0.00000683,
+        "nonTracking": 0,
+        "total": 0.00000683
+    }
+}

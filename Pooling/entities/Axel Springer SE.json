@@ -1,0 +1,37 @@
+{
+    "name": "Axel Springer SE",
+    "displayName": "Axel Springer",
+    "properties": [
+        "auto-bild.de",
+        "autobild.de",
+        "autoplus.fr",
+        "axelspringer.com",
+        "bild.de",
+        "bildstatic.de",
+        "businessinsider.co.za",
+        "businessinsider.com",
+        "businessinsider.com.au",
+        "businessinsider.de",
+        "businessinsider.es",
+        "businessinsider.in",
+        "businessinsider.jp",
+        "businessinsider.mx",
+        "businessinsider.nl",
+        "businessinsider.pl",
+        "bz-berlin.de",
+        "computerbild.de",
+        "ekitchen.de",
+        "fakt.pl",
+        "ikiosk.de",
+        "insider-inc.com",
+        "insider.com",
+        "techbook.de",
+        "thisisinsider.com",
+        "travelbook.de"
+    ],
+    "prevalence": {
+        "tracking": 0,
+        "nonTracking": 0.00015,
+        "total": 0.00015
+    }
+}

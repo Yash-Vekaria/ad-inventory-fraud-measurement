@@ -1,0 +1,21 @@
+{
+    "name": "RhythmOne",
+    "displayName": "RhythmOne",
+    "properties": [
+        "1rx.io",
+        "allmovie.com",
+        "allmusic.com",
+        "burstnet.com",
+        "gwallet.com",
+        "po.st",
+        "rhythmone.com",
+        "sidereel.com",
+        "yume.com",
+        "yumenetworks.com"
+    ],
+    "prevalence": {
+        "tracking": 0.0825,
+        "nonTracking": 0.0163,
+        "total": 0.0988
+    }
+}

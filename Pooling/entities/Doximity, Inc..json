@@ -1,0 +1,12 @@
+{
+    "name": "Doximity, Inc.",
+    "displayName": "Doximity",
+    "properties": [
+        "doximity.com"
+    ],
+    "prevalence": {
+        "tracking": 0.00000683,
+        "nonTracking": 0,
+        "total": 0.00000683
+    }
+}

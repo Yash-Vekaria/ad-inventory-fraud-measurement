@@ -1,0 +1,12 @@
+{
+    "name": "Cole-Parmer Instrument Company LLC",
+    "displayName": "Cole-Parmer Instrument Company",
+    "properties": [
+        "coleparmer.com"
+    ],
+    "prevalence": {
+        "tracking": 0.00000683,
+        "nonTracking": 0.00000683,
+        "total": 0.0000137
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "name": "Conde Nast Publications Inc.",
+    "displayName": "Conde Nast Publications",
+    "properties": [
+        "allure.com",
+        "architecturaldigest.com",
+        "arstechnica.com",
+        "bonappetit.com",
+        "brides.com",
+        "cntraveler.com",
+        "cntraveller.com",
+        "conde.io",
+        "condecdn.net",
+        "condenast.com",
+        "condenast.it",
+        "condenastdigital.com",
+        "condenet.com",
+        "epicurious.com",
+        "glamour.com",
+        "golfdigest.com",
+        "gq.com",
+        "gqindia.com",
+        "lennyletter.com",
+        "newyorker.com",
+        "pitchfork.com",
+        "self.com",
+        "tatler.com",
+        "teenvogue.com",
+        "them.us",
+        "vanityfair.com",
+        "vanityfair.it",
+        "vogue.com",
+        "wired.com",
+        "wired.it",
+        "wmagazine.com"
+    ],
+    "prevalence": {
+        "tracking": 0.000225,
+        "nonTracking": 0.000266,
+        "total": 0.000491
+    }
+}

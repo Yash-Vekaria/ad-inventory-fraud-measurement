@@ -1,0 +1,20 @@
+{
+    "name": "Informationstechnikzentrum Bund (ITZBund)",
+    "displayName": "Informationstechnikzentrum Bund (ITZBund)",
+    "properties": [
+        "bafa.de",
+        "bamf.de",
+        "bka.de",
+        "bmjv.de",
+        "bund.de",
+        "destatis.de",
+        "formulare-bfinv.de",
+        "itzbund.de",
+        "zoll.de"
+    ],
+    "prevalence": {
+        "tracking": 0.0000205,
+        "nonTracking": 0,
+        "total": 0.0000205
+    }
+}

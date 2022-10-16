@@ -1,0 +1,13 @@
+{
+    "name": "Boursorama SA",
+    "displayName": "Boursorama",
+    "properties": [
+        "boursorama.com",
+        "brsimg.com"
+    ],
+    "prevalence": {
+        "tracking": 0.00000683,
+        "nonTracking": 0,
+        "total": 0.00000683
+    }
+}

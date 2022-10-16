@@ -1,0 +1,8 @@
+{
+    "name": "Kiwibank Limited",
+    "displayName": "Kiwibank",
+    "properties": [
+        "kbprod.cloud",
+        "kiwibank.co.nz"
+    ]
+}

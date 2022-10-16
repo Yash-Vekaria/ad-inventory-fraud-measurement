@@ -1,0 +1,15 @@
+{
+    "name": "Adverline",
+    "displayName": "Adverline",
+    "properties": [
+        "adnext.fr",
+        "advcdn.net",
+        "adverline.com",
+        "dynamo.one"
+    ],
+    "prevalence": {
+        "tracking": 0.0000683,
+        "nonTracking": 0.00000683,
+        "total": 0.0000751
+    }
+}

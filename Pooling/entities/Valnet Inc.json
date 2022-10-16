@@ -1,0 +1,31 @@
+{
+    "name": "Valnet Inc",
+    "displayName": "Valnet",
+    "properties": [
+        "babygaga.com",
+        "bornrichimages.com",
+        "cbr.com",
+        "cbrimages.com",
+        "ecorporateoffices.com",
+        "forlocations.com",
+        "screenrant.com",
+        "srcdn.com",
+        "theclever.com",
+        "thecleverimages.com",
+        "thegamer.com",
+        "thegamerimages.com",
+        "therichest.com",
+        "therichestimages.com",
+        "thesportster.com",
+        "thesportsterimages.com",
+        "thetalko.com",
+        "thetalkoimages.com",
+        "thethings.com",
+        "worldatlas.com"
+    ],
+    "prevalence": {
+        "tracking": 0,
+        "nonTracking": 0.0000478,
+        "total": 0.0000478
+    }
+}

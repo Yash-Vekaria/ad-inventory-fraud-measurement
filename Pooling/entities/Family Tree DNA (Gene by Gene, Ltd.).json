@@ -1,0 +1,12 @@
+{
+    "name": "Family Tree DNA (Gene by Gene, Ltd.)",
+    "displayName": "Family Tree DNA (Gene by Gene, Ltd.)",
+    "properties": [
+        "familytreedna.com"
+    ],
+    "prevalence": {
+        "tracking": 0.00000681,
+        "nonTracking": 0,
+        "total": 0.00000681
+    }
+}

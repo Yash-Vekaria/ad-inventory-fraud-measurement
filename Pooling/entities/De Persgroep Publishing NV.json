@@ -1,0 +1,15 @@
+{
+    "name": "De Persgroep Publishing NV",
+    "displayName": "De Persgroep Publishing",
+    "properties": [
+        "hln.be",
+        "persgroep.net",
+        "tijd.be",
+        "volkskrant.nl"
+    ],
+    "prevalence": {
+        "tracking": 0,
+        "nonTracking": 0.000116,
+        "total": 0.000116
+    }
+}

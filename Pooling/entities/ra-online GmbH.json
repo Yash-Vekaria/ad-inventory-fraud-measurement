@@ -1,0 +1,13 @@
+{
+    "name": "ra-online GmbH",
+    "displayName": "ra-online",
+    "properties": [
+        "ra-system.de",
+        "recht-aktuell.de"
+    ],
+    "prevalence": {
+        "tracking": 0.00000683,
+        "nonTracking": 0,
+        "total": 0.00000683
+    }
+}

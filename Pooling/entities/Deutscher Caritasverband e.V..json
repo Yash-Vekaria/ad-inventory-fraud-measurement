@@ -1,0 +1,13 @@
+{
+    "name": "Deutscher Caritasverband e.V.",
+    "displayName": "Deutscher Caritasverband",
+    "properties": [
+        "carinet.de",
+        "caritas.de"
+    ],
+    "prevalence": {
+        "tracking": 0.0001,
+        "nonTracking": 0,
+        "total": 0.0001
+    }
+}

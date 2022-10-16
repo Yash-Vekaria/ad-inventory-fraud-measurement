@@ -1,0 +1,14 @@
+{
+    "name": "Signifi Media Pty Ltd",
+    "displayName": "Signifi Media",
+    "properties": [
+        "loopa.com.au",
+        "loopa.net.au",
+        "signifimedia.com.au"
+    ],
+    "prevalence": {
+        "tracking": 0.000041,
+        "nonTracking": 0.0000137,
+        "total": 0.0000547
+    }
+}

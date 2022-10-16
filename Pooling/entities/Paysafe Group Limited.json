@@ -1,0 +1,15 @@
+{
+    "name": "Paysafe Group Limited",
+    "displayName": "Paysafe Group",
+    "properties": [
+        "eacdn.com",
+        "neteller.com",
+        "paysafecard.com",
+        "skrill.com"
+    ],
+    "prevalence": {
+        "tracking": 0.0000478,
+        "nonTracking": 0.00000683,
+        "total": 0.0000546
+    }
+}

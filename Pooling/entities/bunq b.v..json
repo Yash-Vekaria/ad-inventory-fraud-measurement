@@ -1,0 +1,12 @@
+{
+    "name": "bunq b.v.",
+    "displayName": "bunq",
+    "properties": [
+        "bunq.com"
+    ],
+    "prevalence": {
+        "tracking": 0.0001,
+        "nonTracking": 0,
+        "total": 0.0001
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "name": "Bayer AG",
+    "displayName": "Bayer",
+    "properties": [
+        "bayer.be",
+        "bayer.bg",
+        "bayer.ch",
+        "bayer.cn",
+        "bayer.co.uk",
+        "bayer.com",
+        "bayer.com.mx",
+        "bayer.com.pl",
+        "bayer.de",
+        "bayer.es",
+        "bayer.fr",
+        "bayer.in",
+        "bayer.it",
+        "bayer.jp",
+        "bayer.nl",
+        "bayer.ro",
+        "bayer.ua",
+        "bayer.us",
+        "drscholls.com",
+        "saperesalute.it"
+    ],
+    "prevalence": {
+        "tracking": 0.00000683,
+        "nonTracking": 0,
+        "total": 0.00000683
+    }
+}

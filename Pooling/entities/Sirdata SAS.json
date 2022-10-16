@@ -1,0 +1,17 @@
+{
+    "name": "Sirdata SAS",
+    "displayName": "Sirdata",
+    "properties": [
+        "consentframework.com",
+        "datnova.com",
+        "sddan.com",
+        "sirdata.com",
+        "sirdata.io",
+        "thirdata.com"
+    ],
+    "prevalence": {
+        "tracking": 0.00194,
+        "nonTracking": 0.000676,
+        "total": 0.00262
+    }
+}

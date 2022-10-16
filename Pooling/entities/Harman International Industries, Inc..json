@@ -1,0 +1,17 @@
+{
+    "name": "Harman International Industries, Inc.",
+    "displayName": "Harman International Industries",
+    "properties": [
+        "akg.com",
+        "harmankardon.com",
+        "harmanpro.com",
+        "jbl.com",
+        "jblpro.com",
+        "soundcraft.com"
+    ],
+    "prevalence": {
+        "tracking": 0.0000205,
+        "nonTracking": 0,
+        "total": 0.0000205
+    }
+}

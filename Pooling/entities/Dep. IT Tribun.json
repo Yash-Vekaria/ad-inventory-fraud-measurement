@@ -1,0 +1,12 @@
+{
+    "name": "Dep. IT Tribun",
+    "displayName": "Dep. IT Tribun",
+    "properties": [
+        "tribunnews.com"
+    ],
+    "prevalence": {
+        "tracking": 0.00000715,
+        "nonTracking": 0,
+        "total": 0.00000715
+    }
+}

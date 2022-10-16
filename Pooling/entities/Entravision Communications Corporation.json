@@ -1,0 +1,17 @@
+{
+    "name": "Entravision Communications Corporation",
+    "displayName": "Entravision",
+    "properties": [
+        "dataxpand.com",
+        "entravision.com",
+        "entravisiondigital.com",
+        "entravisionlocalmarketingsolutions.com",
+        "scrollerads.com",
+        "smadex.com"
+    ],
+    "prevalence": {
+        "tracking": 0.0059,
+        "nonTracking": 0.000116,
+        "total": 0.00602
+    }
+}

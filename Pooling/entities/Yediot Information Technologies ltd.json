@@ -1,0 +1,13 @@
+{
+    "name": "Yediot Information Technologies ltd",
+    "displayName": "Yediot Information",
+    "properties": [
+        "winwin.co.il",
+        "ynet.co.il"
+    ],
+    "prevalence": {
+        "tracking": 0.0000137,
+        "nonTracking": 0.00000683,
+        "total": 0.0000205
+    }
+}

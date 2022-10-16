@@ -1,0 +1,12 @@
+{
+    "name": "University of Nevada, Reno",
+    "displayName": "University of Nevada, Reno",
+    "properties": [
+        "unr.edu"
+    ],
+    "prevalence": {
+        "tracking": 0.00000759,
+        "nonTracking": 0.00000759,
+        "total": 0.0000152
+    }
+}

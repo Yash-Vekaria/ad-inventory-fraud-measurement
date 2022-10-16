@@ -1,0 +1,17 @@
+{
+    "name": "Kakaku.com, Inc.",
+    "displayName": "Kakaku.com",
+    "properties": [
+        "icotto.jp",
+        "k-img.com",
+        "kakaku.com",
+        "kinarino.jp",
+        "priceprice.com",
+        "tabelog.com"
+    ],
+    "prevalence": {
+        "tracking": 0.0000205,
+        "nonTracking": 0.0000273,
+        "total": 0.0000478
+    }
+}

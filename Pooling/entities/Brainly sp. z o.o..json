@@ -1,0 +1,21 @@
+{
+    "name": "Brainly sp. z o.o.",
+    "displayName": "Brainly",
+    "properties": [
+        "brainly.com",
+        "brainly.com.br",
+        "brainly.in",
+        "brainly.lat",
+        "brainly.ph",
+        "brainly.pl",
+        "brainly.ro",
+        "eodev.com",
+        "nosdevoirs.fr",
+        "znanija.com"
+    ],
+    "prevalence": {
+        "tracking": 0.00000683,
+        "nonTracking": 0,
+        "total": 0.00000683
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "name": "SIDEARM Sports",
+    "displayName": "SIDEARM Sports",
+    "properties": [
+        "12thman.com",
+        "arizonawildcats.com",
+        "auburntigers.com",
+        "bceagles.com",
+        "fightingillini.com",
+        "goarmywestpoint.com",
+        "goducks.com",
+        "gohuskies.com",
+        "gopsusports.com",
+        "gostanford.com",
+        "msuspartans.com",
+        "nusports.com",
+        "okstate.com",
+        "purduesports.com",
+        "ritathletics.com",
+        "sidearmsocial.com",
+        "sidearmsports.com",
+        "sidearmstreaming.com",
+        "thesundevils.com",
+        "uclabruins.com",
+        "und.com",
+        "usctrojans.com",
+        "villanova.com",
+        "virginiasports.com"
+    ],
+    "prevalence": {
+        "tracking": 0.00183,
+        "nonTracking": 0.000218,
+        "total": 0.00205
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "name": "Monet Engine Inc.",
+    "displayName": "Monet Engine",
+    "properties": [
+        "88-f.net",
+        "a-mo.net",
+        "a-mx.com",
+        "adaptmx.com",
+        "amxrtb.com",
+        "appmonet.com",
+        "dc-1.net",
+        "initad.com",
+        "monetengine.co"
+    ],
+    "prevalence": {
+        "tracking": 0.0153,
+        "nonTracking": 0.0256,
+        "total": 0.0409
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Groove Networks LLC",
+    "displayName": "Groove Networks",
+    "properties": [
+        "groovehq.com"
+    ],
+    "prevalence": {
+        "tracking": 0.000102,
+        "nonTracking": 0.00000683,
+        "total": 0.000109
+    }
+}

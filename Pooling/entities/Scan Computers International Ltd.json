@@ -1,0 +1,12 @@
+{
+    "name": "Scan Computers International Ltd",
+    "displayName": "Scan Computers International",
+    "properties": [
+        "scan.co.uk"
+    ],
+    "prevalence": {
+        "tracking": 0.000102,
+        "nonTracking": 0,
+        "total": 0.000102
+    }
+}

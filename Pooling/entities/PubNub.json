@@ -1,0 +1,16 @@
+{
+    "name": "PubNub",
+    "displayName": "PubNub",
+    "properties": [
+        "pndsn.com",
+        "pubnub.co",
+        "pubnub.com",
+        "pubnub.net",
+        "pubnubapi.com"
+    ],
+    "prevalence": {
+        "tracking": 0.0000273,
+        "nonTracking": 0.000198,
+        "total": 0.000225
+    }
+}

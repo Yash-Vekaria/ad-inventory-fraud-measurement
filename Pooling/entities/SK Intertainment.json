@@ -1,0 +1,21 @@
+{
+    "name": "SK Intertainment",
+    "displayName": "SK Intertainment",
+    "properties": [
+        "egoallstars.com",
+        "fleshbot.com",
+        "manworldmediacdn.com",
+        "mrman.com",
+        "mrskin.com",
+        "mrskincash.com",
+        "mrskincdn.com",
+        "nakednewscdn.com",
+        "skassets.com",
+        "wwtdd.com"
+    ],
+    "prevalence": {
+        "tracking": 0.0000478,
+        "nonTracking": 0.000041,
+        "total": 0.0000888
+    }
+}

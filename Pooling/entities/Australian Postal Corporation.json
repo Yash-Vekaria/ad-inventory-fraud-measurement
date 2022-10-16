@@ -1,0 +1,12 @@
+{
+    "name": "Australian Postal Corporation",
+    "displayName": "Australian Postal",
+    "properties": [
+        "auspost.com.au"
+    ],
+    "prevalence": {
+        "tracking": 0.000101,
+        "nonTracking": 0,
+        "total": 0.000101
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Ad2Web GmbH",
+    "displayName": "Ad2Web",
+    "properties": [
+        "dumedia.ru"
+    ],
+    "prevalence": {
+        "tracking": 0,
+        "nonTracking": 0.000307,
+        "total": 0.000307
+    }
+}

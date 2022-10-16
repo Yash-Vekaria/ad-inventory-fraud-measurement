@@ -1,0 +1,12 @@
+{
+    "name": "中国科学院办公厅",
+    "displayName": "中国科学院办公厅",
+    "properties": [
+        "cas.cn"
+    ],
+    "prevalence": {
+        "tracking": 0.00000694,
+        "nonTracking": 0,
+        "total": 0.00000694
+    }
+}

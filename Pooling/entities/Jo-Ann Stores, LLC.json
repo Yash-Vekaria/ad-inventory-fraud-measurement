@@ -1,0 +1,12 @@
+{
+    "name": "Jo-Ann Stores, LLC",
+    "displayName": "Jo-Ann Stores",
+    "properties": [
+        "joann.com"
+    ],
+    "prevalence": {
+        "tracking": 0.0000136,
+        "nonTracking": 0,
+        "total": 0.0000136
+    }
+}

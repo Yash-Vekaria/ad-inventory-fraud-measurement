@@ -1,0 +1,12 @@
+{
+    "name": "Dotmetrics",
+    "displayName": "Dotmetrics",
+    "properties": [
+        "dotmetrics.net"
+    ],
+    "prevalence": {
+        "tracking": 0.00314,
+        "nonTracking": 0,
+        "total": 0.00314
+    }
+}

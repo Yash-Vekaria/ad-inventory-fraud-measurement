@@ -1,0 +1,12 @@
+{
+    "name": "Luigi's Box, s.r.o.",
+    "displayName": "Luigi's Box",
+    "properties": [
+        "luigisbox.com"
+    ],
+    "prevalence": {
+        "tracking": 0.0000887,
+        "nonTracking": 0.0000137,
+        "total": 0.000102
+    }
+}

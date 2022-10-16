@@ -1,0 +1,13 @@
+{
+    "name": "Forest River, Inc",
+    "displayName": "Forest River",
+    "properties": [
+        "coachmenrv.com",
+        "forestriverinc.com"
+    ],
+    "prevalence": {
+        "tracking": 0.00000683,
+        "nonTracking": 0,
+        "total": 0.00000683
+    }
+}

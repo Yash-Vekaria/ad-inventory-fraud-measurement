@@ -1,0 +1,12 @@
+{
+    "name": "RBFTP Networks Ltd.",
+    "displayName": "RBFTP Networks",
+    "properties": [
+        "flyawaysimulation.com"
+    ],
+    "prevalence": {
+        "tracking": 0,
+        "nonTracking": 0.0001,
+        "total": 0.0001
+    }
+}

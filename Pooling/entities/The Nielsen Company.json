@@ -1,0 +1,21 @@
+{
+    "name": "The Nielsen Company",
+    "displayName": "The Nielsen Company",
+    "properties": [
+        "exelate.com",
+        "exelator.com",
+        "imrworldwide.com",
+        "myvisualiq.net",
+        "nielsen.com",
+        "vdna-assets.com",
+        "visualdna.com",
+        "visualiq.com",
+        "visualiq.de",
+        "visualiq.fr"
+    ],
+    "prevalence": {
+        "tracking": 0.0605,
+        "nonTracking": 0.00592,
+        "total": 0.0664
+    }
+}

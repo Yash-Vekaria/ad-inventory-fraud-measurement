@@ -1,0 +1,14 @@
+{
+    "name": "ZypMedia, Inc.",
+    "displayName": "ZypMedia",
+    "properties": [
+        "extend.tv",
+        "zyp.tv",
+        "zypmedia.com"
+    ],
+    "prevalence": {
+        "tracking": 0.00917,
+        "nonTracking": 0.0000751,
+        "total": 0.00925
+    }
+}

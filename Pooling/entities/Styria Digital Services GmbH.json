@@ -1,0 +1,12 @@
+{
+    "name": "Styria Digital Services GmbH",
+    "displayName": "Styria Digital Services",
+    "properties": [
+        "getoctopus.com"
+    ],
+    "prevalence": {
+        "tracking": 0,
+        "nonTracking": 0.00000683,
+        "total": 0.00000683
+    }
+}

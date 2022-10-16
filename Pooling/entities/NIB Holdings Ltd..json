@@ -1,0 +1,13 @@
+{
+    "name": "NIB Holdings Ltd.",
+    "displayName": "NIB Holdings",
+    "properties": [
+        "footprintsnetwork.org",
+        "worldnomads.com"
+    ],
+    "prevalence": {
+        "tracking": 0.000101,
+        "nonTracking": 0,
+        "total": 0.000101
+    }
+}

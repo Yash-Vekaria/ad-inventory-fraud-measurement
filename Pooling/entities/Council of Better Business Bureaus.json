@@ -1,0 +1,13 @@
+{
+    "name": "Council of Better Business Bureaus",
+    "displayName": "Better Business Bureau",
+    "properties": [
+        "bbb.org",
+        "bbbpromos.org"
+    ],
+    "prevalence": {
+        "tracking": 0.0000341,
+        "nonTracking": 0.00404,
+        "total": 0.00407
+    }
+}

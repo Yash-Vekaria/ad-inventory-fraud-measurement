@@ -1,0 +1,13 @@
+{
+    "name": "ConsumerTrack Inc.",
+    "displayName": "ConsumerTrack",
+    "properties": [
+        "consumertrack.com",
+        "gobankingrates.com"
+    ],
+    "prevalence": {
+        "tracking": 0.0000341,
+        "nonTracking": 0.0000205,
+        "total": 0.0000546
+    }
+}

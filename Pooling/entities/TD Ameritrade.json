@@ -1,0 +1,13 @@
+{
+    "name": "TD Ameritrade",
+    "displayName": "TD Ameritrade",
+    "properties": [
+        "ameritrade.com",
+        "tdameritrade.com"
+    ],
+    "prevalence": {
+        "tracking": 0.0000478,
+        "nonTracking": 0,
+        "total": 0.0000478
+    }
+}

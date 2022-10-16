@@ -1,0 +1,14 @@
+{
+    "name": "JuicyAds",
+    "displayName": "JuicyAds",
+    "properties": [
+        "adxpansion.com",
+        "jads.co",
+        "juicyads.com"
+    ],
+    "prevalence": {
+        "tracking": 0.00416,
+        "nonTracking": 0.000109,
+        "total": 0.00427
+    }
+}

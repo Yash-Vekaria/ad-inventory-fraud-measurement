@@ -1,0 +1,13 @@
+{
+    "name": "Oneflare Pty Ltd",
+    "displayName": "Oneflare",
+    "properties": [
+        "oneflare.com.au",
+        "renovateforum.com"
+    ],
+    "prevalence": {
+        "tracking": 0.000101,
+        "nonTracking": 0,
+        "total": 0.000101
+    }
+}

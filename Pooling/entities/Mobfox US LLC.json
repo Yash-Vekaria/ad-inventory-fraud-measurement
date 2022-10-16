@@ -1,0 +1,14 @@
+{
+    "name": "Mobfox US LLC",
+    "displayName": "Mobfox",
+    "properties": [
+        "mobfox.com",
+        "mtrtb.com",
+        "starbolt.io"
+    ],
+    "prevalence": {
+        "tracking": 0.000225,
+        "nonTracking": 0.00015,
+        "total": 0.000375
+    }
+}

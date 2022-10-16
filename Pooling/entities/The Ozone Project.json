@@ -1,0 +1,13 @@
+{
+    "name": "The Ozone Project",
+    "displayName": "The Ozone Project",
+    "properties": [
+        "ozoneproject.com",
+        "the-ozone-project.com"
+    ],
+    "prevalence": {
+        "tracking": 0.000403,
+        "nonTracking": 0.00045,
+        "total": 0.000853
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Partnerize",
+    "displayName": "Partnerize",
+    "properties": [
+        "brandverity.com",
+        "partnerize.com",
+        "pepperjam.com"
+    ],
+    "prevalence": {
+        "tracking": 0.00315,
+        "nonTracking": 0.000171,
+        "total": 0.00332
+    }
+}

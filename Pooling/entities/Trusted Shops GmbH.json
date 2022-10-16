@@ -1,0 +1,13 @@
+{
+    "name": "Trusted Shops GmbH",
+    "displayName": "Trusted Shops",
+    "properties": [
+        "trustedshops.com",
+        "trustedshops.de"
+    ],
+    "prevalence": {
+        "tracking": 0.00145,
+        "nonTracking": 0.00013,
+        "total": 0.00158
+    }
+}

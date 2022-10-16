@@ -1,0 +1,13 @@
+{
+    "name": "Internet Bookshop Italia s.r.l.",
+    "displayName": "Internet Bookshop Italia",
+    "properties": [
+        "ibs.it",
+        "libraccio.it"
+    ],
+    "prevalence": {
+        "tracking": 0,
+        "nonTracking": 0.0000138,
+        "total": 0.0000138
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Life Covenant Church, Inc.",
+    "displayName": "Life Covenant Church",
+    "properties": [
+        "bible.com",
+        "youversion.com",
+        "youversionapi.com"
+    ],
+    "prevalence": {
+        "tracking": 0,
+        "nonTracking": 0.0001,
+        "total": 0.0001
+    }
+}

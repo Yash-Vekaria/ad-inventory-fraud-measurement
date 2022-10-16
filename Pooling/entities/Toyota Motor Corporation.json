@@ -1,0 +1,32 @@
+{
+    "name": "Toyota Motor Corporation",
+    "displayName": "Toyota Motor",
+    "properties": [
+        "discoverlexus.com",
+        "lexus-europe.com",
+        "lexus.ca",
+        "lexus.com",
+        "scion.ca",
+        "scion.com",
+        "toyota-europe.com",
+        "toyota-finance.co.jp",
+        "toyota.ca",
+        "toyota.co.uk",
+        "toyota.com",
+        "toyota.com.au",
+        "toyota.de",
+        "toyota.fr",
+        "toyota.jp",
+        "toyota.nl",
+        "toyotacanada.ca",
+        "toyotafinancial.com",
+        "ts3card.com",
+        "ts3card.jp",
+        "tscubic.com"
+    ],
+    "prevalence": {
+        "tracking": 0.00013,
+        "nonTracking": 0.00000683,
+        "total": 0.000137
+    }
+}

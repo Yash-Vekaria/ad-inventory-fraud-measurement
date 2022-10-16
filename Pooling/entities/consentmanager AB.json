@@ -1,0 +1,38 @@
+{
+    "name": "consentmanager AB",
+    "displayName": "ConsentManager",
+    "properties": [
+        "choicemanager.net",
+        "consentmanager.be",
+        "consentmanager.ch",
+        "consentmanager.es",
+        "consentmanager.fr",
+        "consentmanager.io",
+        "consentmanager.mx",
+        "consentmanager.net",
+        "consentmanager.us",
+        "cookie-consent.net",
+        "cookiebot.es",
+        "cookiebot.it",
+        "cookiebot.net",
+        "cookiecrawler.net",
+        "cookiecrawler.org",
+        "cookiefirst.net",
+        "cookiefirst.org",
+        "cookiefirst.pl",
+        "cookiefirst.sk",
+        "cookiefox.net",
+        "cookieinformation.lt",
+        "cookiescanner.org",
+        "cookiespider.net",
+        "cookiespider.org",
+        "cookietext.net",
+        "cookieyes.nl",
+        "policymanager.net"
+    ],
+    "prevalence": {
+        "tracking": 0.00113,
+        "nonTracking": 0.000512,
+        "total": 0.00164
+    }
+}

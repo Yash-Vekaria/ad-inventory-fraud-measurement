@@ -1,0 +1,12 @@
+{
+    "name": "Nissan Motor Co., Ltd.",
+    "displayName": "Nissan Motor",
+    "properties": [
+        "nissan-cdn.net"
+    ],
+    "prevalence": {
+        "tracking": 0.0000273,
+        "nonTracking": 0,
+        "total": 0.0000273
+    }
+}

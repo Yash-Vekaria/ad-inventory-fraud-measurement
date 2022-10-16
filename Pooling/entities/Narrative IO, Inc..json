@@ -1,0 +1,12 @@
+{
+    "name": "Narrative I/O, Inc.",
+    "displayName": "Narrative",
+    "properties": [
+        "narrative.io"
+    ],
+    "prevalence": {
+        "tracking": 0.0061,
+        "nonTracking": 0.00013,
+        "total": 0.00623
+    }
+}

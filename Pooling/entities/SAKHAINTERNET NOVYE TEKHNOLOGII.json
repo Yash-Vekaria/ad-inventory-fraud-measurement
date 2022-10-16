@@ -1,0 +1,13 @@
+{
+    "name": "SAKHAINTERNET NOVYE TEKHNOLOGII",
+    "displayName": "SAKHAINTERNET NOVYE TEKHNOLOGII",
+    "properties": [
+        "ykt.ru",
+        "ykt2.ru"
+    ],
+    "prevalence": {
+        "tracking": 0.000101,
+        "nonTracking": 0,
+        "total": 0.000101
+    }
+}

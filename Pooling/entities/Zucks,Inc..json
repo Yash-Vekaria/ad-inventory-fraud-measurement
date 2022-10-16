@@ -1,0 +1,13 @@
+{
+    "name": "Zucks,Inc.",
+    "displayName": "Zucks",
+    "properties": [
+        "zimg.jp",
+        "zucks.net"
+    ],
+    "prevalence": {
+        "tracking": 0.000628,
+        "nonTracking": 0.0000614,
+        "total": 0.000689
+    }
+}

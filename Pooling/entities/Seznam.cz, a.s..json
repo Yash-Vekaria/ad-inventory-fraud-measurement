@@ -1,0 +1,21 @@
+{
+    "name": "Seznam.cz, a.s.",
+    "displayName": "Seznam.cz",
+    "properties": [
+        "firmy.cz",
+        "im.cz",
+        "imedia.cz",
+        "mapy.cz",
+        "novinky.cz",
+        "sbazar.cz",
+        "seznam.cz",
+        "sport.cz",
+        "sreality.cz",
+        "szn.cz"
+    ],
+    "prevalence": {
+        "tracking": 0.000369,
+        "nonTracking": 0.0000137,
+        "total": 0.000383
+    }
+}

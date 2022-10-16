@@ -1,0 +1,19 @@
+{
+    "name": "United Business Media LLC",
+    "displayName": "United Business Media",
+    "properties": [
+        "darkreading.com",
+        "deusm.com",
+        "drdobbs.com",
+        "gamasutra.com",
+        "gamecareerguide.com",
+        "informationweek.com",
+        "networkcomputing.com",
+        "techweb.com"
+    ],
+    "prevalence": {
+        "tracking": 0,
+        "nonTracking": 0.00000694,
+        "total": 0.00000694
+    }
+}

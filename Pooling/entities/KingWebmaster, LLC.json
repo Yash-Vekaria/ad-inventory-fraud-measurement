@@ -1,0 +1,13 @@
+{
+    "name": "KingWebmaster, LLC",
+    "displayName": "KingWebmaster",
+    "properties": [
+        "centrifugeconnect.com",
+        "kingwebmaster.com"
+    ],
+    "prevalence": {
+        "tracking": 0.00000683,
+        "nonTracking": 0.0000546,
+        "total": 0.0000614
+    }
+}

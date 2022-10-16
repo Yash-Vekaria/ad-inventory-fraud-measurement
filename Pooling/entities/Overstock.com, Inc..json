@@ -1,0 +1,14 @@
+{
+    "name": "Overstock.com, Inc.",
+    "displayName": "Overstock.com",
+    "properties": [
+        "o.co",
+        "ostkcdn.com",
+        "overstock.com"
+    ],
+    "prevalence": {
+        "tracking": 0.000101,
+        "nonTracking": 0,
+        "total": 0.000101
+    }
+}

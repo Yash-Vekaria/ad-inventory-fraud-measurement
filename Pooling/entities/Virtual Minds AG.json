@@ -1,0 +1,22 @@
+{
+    "name": "Virtual Minds AG",
+    "displayName": "Virtual Minds",
+    "properties": [
+        "adclear.net",
+        "adition.com",
+        "batch.ba",
+        "movad.net",
+        "t4ft.de",
+        "theadex.com",
+        "virtualminds.de",
+        "vm.de",
+        "yieldlab.com",
+        "yieldlab.de",
+        "yieldlab.net"
+    ],
+    "prevalence": {
+        "tracking": 0.0266,
+        "nonTracking": 0.000607,
+        "total": 0.0272
+    }
+}

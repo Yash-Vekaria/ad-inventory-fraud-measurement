@@ -1,0 +1,13 @@
+{
+    "name": "Zentralanstalt für Meteorologie und Geodynamik",
+    "displayName": "Zentralanstalt für Meteorologie und Geodynamik",
+    "properties": [
+        "zamg.ac.at",
+        "zamg.at"
+    ],
+    "prevalence": {
+        "tracking": 0.00000692,
+        "nonTracking": 0,
+        "total": 0.00000692
+    }
+}

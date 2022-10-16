@@ -1,0 +1,22 @@
+{
+    "name": "RockYou, Inc.",
+    "displayName": "RockYou",
+    "properties": [
+        "babynamewizard.com",
+        "cafemom.com",
+        "cafemomstatic.com",
+        "littlethings.com",
+        "mamaslatinas.com",
+        "mom.me",
+        "namecandy.com",
+        "purpleclover.com",
+        "revelist.com",
+        "reveliststatic.com",
+        "vivala.com"
+    ],
+    "prevalence": {
+        "tracking": 0,
+        "nonTracking": 0.0001,
+        "total": 0.0001
+    }
+}

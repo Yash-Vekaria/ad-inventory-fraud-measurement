@@ -1,0 +1,12 @@
+{
+    "name": "The Daily Herald",
+    "displayName": "The Daily Herald",
+    "properties": [
+        "dailyherald.com"
+    ],
+    "prevalence": {
+        "tracking": 0.00000678,
+        "nonTracking": 0,
+        "total": 0.00000678
+    }
+}

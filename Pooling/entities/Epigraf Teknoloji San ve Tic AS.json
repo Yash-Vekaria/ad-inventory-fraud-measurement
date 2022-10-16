@@ -1,0 +1,12 @@
+{
+    "name": "Epigraf Teknoloji San ve Tic AS",
+    "displayName": "Epigraf Teknoloji San ve Tic",
+    "properties": [
+        "8digits.com"
+    ],
+    "prevalence": {
+        "tracking": 0.000101,
+        "nonTracking": 0,
+        "total": 0.000101
+    }
+}

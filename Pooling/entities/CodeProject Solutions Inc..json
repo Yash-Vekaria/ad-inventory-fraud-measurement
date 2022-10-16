@@ -1,0 +1,13 @@
+{
+    "name": "CodeProject Solutions Inc.",
+    "displayName": "CodeProject Solutions",
+    "properties": [
+        "codeproject.com",
+        "developermedia.com"
+    ],
+    "prevalence": {
+        "tracking": 0.0000819,
+        "nonTracking": 0.0000137,
+        "total": 0.0000956
+    }
+}

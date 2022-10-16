@@ -1,0 +1,13 @@
+{
+    "name": "Douban Inc",
+    "displayName": "Douban",
+    "properties": [
+        "douban.com",
+        "doubanio.com"
+    ],
+    "prevalence": {
+        "tracking": 0,
+        "nonTracking": 0.00000682,
+        "total": 0.00000682
+    }
+}

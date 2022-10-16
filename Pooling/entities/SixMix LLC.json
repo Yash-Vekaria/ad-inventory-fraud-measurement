@@ -1,0 +1,12 @@
+{
+    "name": "SixMix LLC",
+    "displayName": "SixMix",
+    "properties": [
+        "mailmunch.co"
+    ],
+    "prevalence": {
+        "tracking": 0.00164,
+        "nonTracking": 0.000205,
+        "total": 0.00184
+    }
+}

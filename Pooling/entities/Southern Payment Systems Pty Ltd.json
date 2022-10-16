@@ -1,0 +1,12 @@
+{
+    "name": "Southern Payment Systems Pty Ltd",
+    "displayName": "Southern Payment Systems",
+    "properties": [
+        "pinpayments.com"
+    ],
+    "prevalence": {
+        "tracking": 0.0001,
+        "nonTracking": 0,
+        "total": 0.0001
+    }
+}

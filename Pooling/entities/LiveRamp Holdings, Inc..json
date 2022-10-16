@@ -1,0 +1,28 @@
+{
+    "name": "LiveRamp Holdings, Inc.",
+    "displayName": "LiveRamp",
+    "properties": [
+        "acuity-data.com",
+        "arbor.io",
+        "circulate.com",
+        "faktor.io",
+        "liveramp.co.jp",
+        "liveramp.com",
+        "liveramp.com.au",
+        "liveramp.com.cn",
+        "liveramp.de",
+        "liveramp.es",
+        "liveramp.fr",
+        "liveramp.it",
+        "liveramp.org",
+        "liveramp.uk",
+        "pippio.com",
+        "privacymanager.io",
+        "rlcdn.com"
+    ],
+    "prevalence": {
+        "tracking": 0.195,
+        "nonTracking": 0.0111,
+        "total": 0.206
+    }
+}

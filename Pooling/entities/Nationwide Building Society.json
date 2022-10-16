@@ -1,0 +1,12 @@
+{
+    "name": "Nationwide Building Society",
+    "displayName": "Nationwide Building Society",
+    "properties": [
+        "nationwide.co.uk"
+    ],
+    "prevalence": {
+        "tracking": 0.0001,
+        "nonTracking": 0,
+        "total": 0.0001
+    }
+}

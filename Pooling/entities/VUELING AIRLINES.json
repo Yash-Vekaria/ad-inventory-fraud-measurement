@@ -1,0 +1,12 @@
+{
+    "name": "VUELING AIRLINES",
+    "displayName": "VUELING AIRLINES",
+    "properties": [
+        "vueling.com"
+    ],
+    "prevalence": {
+        "tracking": 0.0001,
+        "nonTracking": 0,
+        "total": 0.0001
+    }
+}

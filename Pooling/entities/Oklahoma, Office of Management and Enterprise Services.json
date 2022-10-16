@@ -1,0 +1,12 @@
+{
+    "name": "Oklahoma, Office of Management and Enterprise Services",
+    "displayName": "Oklahoma, Office of Management and Enterprise Services",
+    "properties": [
+        "ok.gov"
+    ],
+    "prevalence": {
+        "tracking": 0.0000205,
+        "nonTracking": 0,
+        "total": 0.0000205
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "name": "The Church of Jesus Christ of Latter-day Saints",
+    "displayName": "Latter-day Saints",
+    "properties": [
+        "churchofjesuschrist.org"
+    ],
+    "prevalence": {
+        "tracking": 0.0000205,
+        "nonTracking": 0.0000341,
+        "total": 0.0000546
+    }
+}

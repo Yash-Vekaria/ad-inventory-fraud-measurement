@@ -1,0 +1,14 @@
+{
+    "name": "No-IP.com",
+    "displayName": "No-IP.com",
+    "properties": [
+        "ddns.net",
+        "nhlfan.net",
+        "noip.com"
+    ],
+    "prevalence": {
+        "tracking": 0.0000273,
+        "nonTracking": 0,
+        "total": 0.0000273
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "name": "GoEuro Travel GmbH",
+    "displayName": "GoEuro Travel",
+    "properties": [
+        "cdn-goeuro.com",
+        "goeuro.com"
+    ],
+    "prevalence": {
+        "tracking": 0.0000478,
+        "nonTracking": 0,
+        "total": 0.0000478
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "name": "TNT Holdings B.V",
+    "displayName": "TNT Holdings",
+    "properties": [
+        "tnt.com"
+    ],
+    "prevalence": {
+        "tracking": 0.0001,
+        "nonTracking": 0,
+        "total": 0.0001
+    }
+}

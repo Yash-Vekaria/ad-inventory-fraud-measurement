@@ -1,0 +1,12 @@
+{
+    "name": "Instytut Meteorologii i Gospodarki Wodnej Panstwowy Instytu Daw",
+    "displayName": "Instytut Meteorologii i Gospodarki Wodnej Panstwowy Instytu Daw",
+    "properties": [
+        "imgw.pl"
+    ],
+    "prevalence": {
+        "tracking": 0.00000735,
+        "nonTracking": 0,
+        "total": 0.00000735
+    }
+}

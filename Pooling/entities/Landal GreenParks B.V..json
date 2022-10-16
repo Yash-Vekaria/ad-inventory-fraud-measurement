@@ -1,0 +1,14 @@
+{
+    "name": "Landal GreenParks B.V.",
+    "displayName": "Landal GreenParks",
+    "properties": [
+        "hofvansaksen.nl",
+        "landal.com",
+        "landal.nl"
+    ],
+    "prevalence": {
+        "tracking": 0.000101,
+        "nonTracking": 0,
+        "total": 0.000101
+    }
+}

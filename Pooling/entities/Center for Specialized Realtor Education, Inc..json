@@ -1,0 +1,12 @@
+{
+    "name": "Center for Specialized Realtor Education, Inc.",
+    "displayName": "Center for Specialized Realtor Education",
+    "properties": [
+        "magazine.realtor"
+    ],
+    "prevalence": {
+        "tracking": 0.00000683,
+        "nonTracking": 0,
+        "total": 0.00000683
+    }
+}

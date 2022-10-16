@@ -1,0 +1,32 @@
+{
+    "name": "CyberAgent, Inc.",
+    "displayName": "CyberAgent",
+    "properties": [
+        "abema.io",
+        "abema.tv",
+        "abemahouse.com",
+        "adtdp.com",
+        "ameba.jp",
+        "amebame.com",
+        "amebaownd.com",
+        "amebaowndme.com",
+        "ameblo.jp",
+        "avatta.net",
+        "bucketeer.jp",
+        "ca-mpr.jp",
+        "ca-pf.org",
+        "caprofitx.com",
+        "caprofitx.jp",
+        "cvb.io",
+        "cyberagent.co.jp",
+        "growthbeat.com",
+        "growthpush.com",
+        "hayabusa.io",
+        "sirok.co.jp"
+    ],
+    "prevalence": {
+        "tracking": 0.000969,
+        "nonTracking": 0.00124,
+        "total": 0.00221
+    }
+}

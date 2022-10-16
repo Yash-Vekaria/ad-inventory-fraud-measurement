@@ -1,0 +1,21 @@
+{
+    "name": "vocento",
+    "displayName": "vocento",
+    "properties": [
+        "abc.es",
+        "diariosur.es",
+        "diariovasco.com",
+        "elcomercio.es",
+        "elcorreo.com",
+        "hoy.es",
+        "ideal.es",
+        "lasprovincias.es",
+        "laverdad.es",
+        "vocento.com"
+    ],
+    "prevalence": {
+        "tracking": 0.0000546,
+        "nonTracking": 0,
+        "total": 0.0000546
+    }
+}

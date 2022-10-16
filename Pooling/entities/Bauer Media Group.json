@@ -1,0 +1,19 @@
+{
+    "name": "Bauer Media Group",
+    "displayName": "Bauer Media Group",
+    "properties": [
+        "bauermedia.com",
+        "bdu.rocks",
+        "beautyheaven.com.au",
+        "bhn.net.au",
+        "carmagazine.co.uk",
+        "immmo.at",
+        "nowtolove.com.au",
+        "parkers.co.uk"
+    ],
+    "prevalence": {
+        "tracking": 0.00889,
+        "nonTracking": 0.0018,
+        "total": 0.0107
+    }
+}

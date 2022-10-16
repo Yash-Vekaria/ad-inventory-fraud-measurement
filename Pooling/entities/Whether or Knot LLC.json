@@ -1,0 +1,13 @@
+{
+    "name": "Whether or Knot LLC",
+    "displayName": "Whether or Knot",
+    "properties": [
+        "aerisapi.com",
+        "aerisjs.com"
+    ],
+    "prevalence": {
+        "tracking": 0.0000137,
+        "nonTracking": 0.0000205,
+        "total": 0.0000342
+    }
+}

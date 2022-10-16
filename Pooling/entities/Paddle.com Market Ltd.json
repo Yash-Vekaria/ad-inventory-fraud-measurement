@@ -1,0 +1,12 @@
+{
+    "name": "Paddle.com Market Ltd",
+    "displayName": "Paddle.com Market",
+    "properties": [
+        "paddle.com"
+    ],
+    "prevalence": {
+        "tracking": 0.000225,
+        "nonTracking": 0.000041,
+        "total": 0.000266
+    }
+}

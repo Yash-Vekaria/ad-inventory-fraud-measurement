@@ -1,0 +1,20 @@
+{
+    "name": "New Ventures Services, Corp",
+    "displayName": "New Ventures Services",
+    "properties": [
+        "creoads.com",
+        "edhernandez4ca.com",
+        "hitsmetric.com",
+        "i2creations.com",
+        "incrementads.com",
+        "legalrce.com",
+        "mygeoads.com",
+        "stooorage.com",
+        "trailerlifemag.com"
+    ],
+    "prevalence": {
+        "tracking": 0,
+        "nonTracking": 0.0000136,
+        "total": 0.0000136
+    }
+}

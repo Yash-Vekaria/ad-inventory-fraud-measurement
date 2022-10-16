@@ -1,0 +1,27 @@
+{
+    "name": "Wikimedia Foundation, Inc.",
+    "displayName": "Wikimedia Foundation",
+    "properties": [
+        "mediawiki.org",
+        "w.wiki",
+        "wikibooks.org",
+        "wikidata.org",
+        "wikimedia.org",
+        "wikimediafoundation.org",
+        "wikinews.org",
+        "wikipedia.de",
+        "wikipedia.org",
+        "wikiquote.org",
+        "wikisource.org",
+        "wikiversity.org",
+        "wikivoyage.org",
+        "wiktionary.org",
+        "wmflabs.org",
+        "wmfusercontent.org"
+    ],
+    "prevalence": {
+        "tracking": 0.000403,
+        "nonTracking": 0.00143,
+        "total": 0.00183
+    }
+}

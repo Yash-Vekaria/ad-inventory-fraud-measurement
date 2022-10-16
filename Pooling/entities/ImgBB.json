@@ -1,0 +1,14 @@
+{
+    "name": "ImgBB",
+    "displayName": "ImgBB",
+    "properties": [
+        "ibb.co",
+        "imgbb.com",
+        "simgbb.com"
+    ],
+    "prevalence": {
+        "tracking": 0.00000683,
+        "nonTracking": 0.000853,
+        "total": 0.00086
+    }
+}

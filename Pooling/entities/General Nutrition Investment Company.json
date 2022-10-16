@@ -1,0 +1,13 @@
+{
+    "name": "General Nutrition Investment Company",
+    "displayName": "General Nutrition Investment Company",
+    "properties": [
+        "gnc.com",
+        "gnclivewell.com"
+    ],
+    "prevalence": {
+        "tracking": 0.00000678,
+        "nonTracking": 0,
+        "total": 0.00000678
+    }
+}

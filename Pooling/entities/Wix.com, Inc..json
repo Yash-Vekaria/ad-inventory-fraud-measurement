@@ -1,0 +1,14 @@
+{
+    "name": "Wix.com, Inc.",
+    "displayName": "Wix.com",
+    "properties": [
+        "parastorage.com",
+        "wix.com",
+        "wixstatic.com"
+    ],
+    "prevalence": {
+        "tracking": 0.001,
+        "nonTracking": 0.0000819,
+        "total": 0.00108
+    }
+}

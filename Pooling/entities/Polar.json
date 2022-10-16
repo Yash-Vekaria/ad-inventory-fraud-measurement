@@ -1,0 +1,17 @@
+{
+    "name": "Polar",
+    "displayName": "Polar",
+    "properties": [
+        "mediavoice.com",
+        "plrsrvcs.com",
+        "polarcdn-engine.com",
+        "polarcdn-pentos.com",
+        "polarcdn-terrax.com",
+        "polarcdn.com"
+    ],
+    "prevalence": {
+        "tracking": 0.000648,
+        "nonTracking": 0.00103,
+        "total": 0.00168
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Fjord Technologies",
+    "displayName": "Fjord",
+    "properties": [
+        "commander1.com",
+        "commandersact.com",
+        "tagcommander.com",
+        "trustcommander.com",
+        "trustcommander.net"
+    ],
+    "prevalence": {
+        "tracking": 0.00128,
+        "nonTracking": 0.000137,
+        "total": 0.00142
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "name": "ITF Licensing (UK) Limited",
+    "displayName": "ITF Licensing (UK)",
+    "properties": [
+        "itftennis.com"
+    ],
+    "prevalence": {
+        "tracking": 0.00000681,
+        "nonTracking": 0,
+        "total": 0.00000681
+    }
+}

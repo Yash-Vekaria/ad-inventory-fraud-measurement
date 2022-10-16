@@ -1,0 +1,13 @@
+{
+    "name": "Televisa S.A de C.V",
+    "displayName": "Televisa S.A de C.V",
+    "properties": [
+        "esmas.com",
+        "televisa.com"
+    ],
+    "prevalence": {
+        "tracking": 0.00000692,
+        "nonTracking": 0,
+        "total": 0.00000692
+    }
+}

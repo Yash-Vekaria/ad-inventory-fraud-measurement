@@ -1,0 +1,12 @@
+{
+    "name": "LEASING.COM GROUP LTD",
+    "displayName": "LEASING.COM GROUP",
+    "properties": [
+        "leasing.com"
+    ],
+    "prevalence": {
+        "tracking": 0.00000683,
+        "nonTracking": 0,
+        "total": 0.00000683
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "name": "Groupon, Inc",
+    "displayName": "Groupon",
+    "properties": [
+        "groupon.co.uk",
+        "groupon.com",
+        "groupon.com.au",
+        "groupon.de",
+        "groupon.fr",
+        "groupon.it",
+        "groupon.nl",
+        "grouponcdn.com",
+        "groupondata.com"
+    ],
+    "prevalence": {
+        "tracking": 0.00000683,
+        "nonTracking": 0.00000683,
+        "total": 0.0000137
+    }
+}

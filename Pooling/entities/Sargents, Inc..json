@@ -1,0 +1,12 @@
+{
+    "name": "Sargents, Inc.",
+    "displayName": "Sargents",
+    "properties": [
+        "leadsrx.com"
+    ],
+    "prevalence": {
+        "tracking": 0.00086,
+        "nonTracking": 0.0000137,
+        "total": 0.000874
+    }
+}

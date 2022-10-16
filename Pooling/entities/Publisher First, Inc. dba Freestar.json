@@ -1,0 +1,13 @@
+{
+    "name": "Publisher First, Inc. dba Freestar",
+    "displayName": "Freestar",
+    "properties": [
+        "freestar.com",
+        "pub.network"
+    ],
+    "prevalence": {
+        "tracking": 0.00384,
+        "nonTracking": 0.000218,
+        "total": 0.00406
+    }
+}

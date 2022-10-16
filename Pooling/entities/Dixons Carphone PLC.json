@@ -1,0 +1,14 @@
+{
+    "name": "Dixons Carphone PLC",
+    "displayName": "Dixons Carphone",
+    "properties": [
+        "idmobile.co.uk",
+        "mobiles.co.uk",
+        "secure-mobiles.com"
+    ],
+    "prevalence": {
+        "tracking": 0.00000683,
+        "nonTracking": 0,
+        "total": 0.00000683
+    }
+}

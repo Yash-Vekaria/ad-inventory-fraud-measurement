@@ -1,0 +1,13 @@
+{
+    "name": "ANTS ONLINE ADVERTISING SOLUTION JOINT STOCK COMPANY",
+    "displayName": "ANTS Programmatic",
+    "properties": [
+        "ants.vn",
+        "antsprogrammatic.com"
+    ],
+    "prevalence": {
+        "tracking": 0.00000683,
+        "nonTracking": 0,
+        "total": 0.00000683
+    }
+}

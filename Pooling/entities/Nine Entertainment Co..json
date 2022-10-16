@@ -1,0 +1,38 @@
+{
+    "name": "Nine Entertainment Co.",
+    "displayName": "Nine Entertainment",
+    "properties": [
+        "9cdn.net",
+        "9nation.com.au",
+        "9news.com.au",
+        "9now.com.au",
+        "9pickle.com.au",
+        "alluremedia.com.au",
+        "ch9.com.au",
+        "challenger-retirement.com.au",
+        "channel9.com.au",
+        "freeviewplus.net.au",
+        "gizmodo.com.au",
+        "kotaku.com.au",
+        "lifehacker.com.au",
+        "mi9.com.au",
+        "mi9cdn.com",
+        "nine.com.au",
+        "nineaccess.com.au",
+        "nineentertainmentco.com.au",
+        "nineforbrands.com.au",
+        "ninemediaroom.com.au",
+        "ninemsn.com.au",
+        "pedestrian.tv",
+        "pedestriangroup.com.au",
+        "popsugar.com.au",
+        "static9.net.au",
+        "yourmovies.com.au",
+        "yourtv.com.au"
+    ],
+    "prevalence": {
+        "tracking": 0.000116,
+        "nonTracking": 0.0000137,
+        "total": 0.00013
+    }
+}

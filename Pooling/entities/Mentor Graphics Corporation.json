@@ -1,0 +1,12 @@
+{
+    "name": "Mentor Graphics Corporation",
+    "displayName": "Mentor Graphics",
+    "properties": [
+        "mentor-cdn.com"
+    ],
+    "prevalence": {
+        "tracking": 0.0000152,
+        "nonTracking": 0,
+        "total": 0.0000152
+    }
+}

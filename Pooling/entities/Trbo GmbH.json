@@ -1,0 +1,12 @@
+{
+    "name": "Trbo GmbH",
+    "displayName": "Trbo",
+    "properties": [
+        "trbo.com"
+    ],
+    "prevalence": {
+        "tracking": 0.000293,
+        "nonTracking": 0.0000137,
+        "total": 0.000307
+    }
+}

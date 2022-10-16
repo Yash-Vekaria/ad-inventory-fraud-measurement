@@ -1,0 +1,12 @@
+{
+    "name": "Kammer fuer Arbeiter und Angestellte Wien",
+    "displayName": "Kammer fuer Arbeiter und Angestellte Wien",
+    "properties": [
+        "arbeiterkammer.at"
+    ],
+    "prevalence": {
+        "tracking": 0.00000692,
+        "nonTracking": 0,
+        "total": 0.00000692
+    }
+}

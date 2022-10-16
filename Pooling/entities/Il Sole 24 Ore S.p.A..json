@@ -1,0 +1,13 @@
+{
+    "name": "Il Sole 24 Ore S.p.A.",
+    "displayName": "Il Sole 24 Ore",
+    "properties": [
+        "24o.it",
+        "ilsole24ore.com"
+    ],
+    "prevalence": {
+        "tracking": 0.00000759,
+        "nonTracking": 0,
+        "total": 0.00000759
+    }
+}

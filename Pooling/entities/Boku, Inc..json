@@ -1,0 +1,25 @@
+{
+    "name": "Boku, Inc.",
+    "displayName": "Boku",
+    "properties": [
+        "bartong.co.kr",
+        "beatcorp.io",
+        "boku.com",
+        "dalcoin.kr",
+        "dalkomm.com",
+        "damuomcash.co.kr",
+        "danal.co.kr",
+        "danal.jp",
+        "danalenter.co.kr",
+        "danalpay.com",
+        "flexpay.co.kr",
+        "imweb.me",
+        "ssocioliving.com",
+        "teledit.com"
+    ],
+    "prevalence": {
+        "tracking": 0.00000683,
+        "nonTracking": 0,
+        "total": 0.00000683
+    }
+}

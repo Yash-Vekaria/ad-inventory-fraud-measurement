@@ -1,0 +1,12 @@
+{
+    "name": "Xerox Corporation",
+    "displayName": "Xerox",
+    "properties": [
+        "xerox.com"
+    ],
+    "prevalence": {
+        "tracking": 0.0001,
+        "nonTracking": 0,
+        "total": 0.0001
+    }
+}

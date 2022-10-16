@@ -1,0 +1,16 @@
+{
+    "name": "Quality Unit LLC",
+    "displayName": "Quality Unit",
+    "properties": [
+        "ladesk.com",
+        "liveagent.com",
+        "postaffiliatenetwork.com",
+        "postaffiliatepro.com",
+        "qualityunit.com"
+    ],
+    "prevalence": {
+        "tracking": 0.00133,
+        "nonTracking": 0.000164,
+        "total": 0.00149
+    }
+}

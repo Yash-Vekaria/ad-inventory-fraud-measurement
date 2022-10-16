@@ -1,0 +1,13 @@
+{
+    "name": "AD TYRES INTERNATIONAL SLU",
+    "displayName": "AD TYRES INTERNATIONAL SLU",
+    "properties": [
+        "tiresleader.com",
+        "tyreleader.co.uk"
+    ],
+    "prevalence": {
+        "tracking": 0.000101,
+        "nonTracking": 0,
+        "total": 0.000101
+    }
+}

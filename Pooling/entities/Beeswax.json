@@ -1,0 +1,13 @@
+{
+    "name": "Beeswax",
+    "displayName": "Beeswax",
+    "properties": [
+        "beeswax.com",
+        "bidr.io"
+    ],
+    "prevalence": {
+        "tracking": 0.0946,
+        "nonTracking": 0.000676,
+        "total": 0.0953
+    }
+}

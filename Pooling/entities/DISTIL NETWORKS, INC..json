@@ -1,0 +1,23 @@
+{
+    "name": "DISTIL NETWORKS, INC.",
+    "displayName": "DISTIL NETWORKS",
+    "properties": [
+        "apartmentratings.com",
+        "bloodhorse.com",
+        "citywire.co.uk",
+        "couponcabin.com",
+        "dontpayfull.com",
+        "equibase.com",
+        "higheredjobs.com",
+        "nvsos.gov",
+        "onmilwaukee.com",
+        "rebuy.de",
+        "securethoughts.com",
+        "teepublic.com"
+    ],
+    "prevalence": {
+        "tracking": 0.00000683,
+        "nonTracking": 0,
+        "total": 0.00000683
+    }
+}

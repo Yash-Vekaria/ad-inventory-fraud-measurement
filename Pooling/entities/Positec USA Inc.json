@@ -1,0 +1,12 @@
+{
+    "name": "Positec USA Inc",
+    "displayName": "Positec USA",
+    "properties": [
+        "worx.com"
+    ],
+    "prevalence": {
+        "tracking": 0,
+        "nonTracking": 0.00000681,
+        "total": 0.00000681
+    }
+}

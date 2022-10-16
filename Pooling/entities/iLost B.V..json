@@ -1,0 +1,12 @@
+{
+    "name": "iLost B.V.",
+    "displayName": "iLost",
+    "properties": [
+        "ilost.co"
+    ],
+    "prevalence": {
+        "tracking": 0.00000683,
+        "nonTracking": 0.00000683,
+        "total": 0.0000137
+    }
+}

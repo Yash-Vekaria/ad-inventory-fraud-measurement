@@ -1,0 +1,14 @@
+{
+    "name": "Intimate Merger, Inc.",
+    "displayName": "Intimate Merger",
+    "properties": [
+        "cosmi.io",
+        "im-apps.net",
+        "intimatemerger.com"
+    ],
+    "prevalence": {
+        "tracking": 0.00375,
+        "nonTracking": 0.00809,
+        "total": 0.0118
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "name": "Government of Canada",
+    "displayName": "Shared Services Canada",
+    "properties": [
+        "bac-lac.gc.ca",
+        "canada.ca",
+        "cbsa-asfc.gc.ca",
+        "collectionscanada.gc.ca",
+        "ic.gc.ca",
+        "jobbank.gc.ca",
+        "justice.gc.ca",
+        "nrcan.gc.ca",
+        "pc.gc.ca",
+        "statcan.gc.ca",
+        "tc.gc.ca",
+        "termiumplus.gc.ca",
+        "tpsgc-pwgsc.gc.ca",
+        "travel.gc.ca",
+        "weather.gc.ca"
+    ],
+    "prevalence": {
+        "tracking": 0.0000205,
+        "nonTracking": 0,
+        "total": 0.0000205
+    }
+}

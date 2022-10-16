@@ -1,0 +1,13 @@
+{
+    "name": "Federale Overheidsdienst Beleid en Ondersteuning",
+    "displayName": "Federale Overheidsdienst Beleid en Ondersteuning",
+    "properties": [
+        "belgium.be",
+        "fgov.be"
+    ],
+    "prevalence": {
+        "tracking": 0.00000683,
+        "nonTracking": 0,
+        "total": 0.00000683
+    }
+}

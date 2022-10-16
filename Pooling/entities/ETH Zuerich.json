@@ -1,0 +1,12 @@
+{
+    "name": "ETH Zuerich",
+    "displayName": "ETH Zuerich",
+    "properties": [
+        "ethz.ch"
+    ],
+    "prevalence": {
+        "tracking": 0.0001,
+        "nonTracking": 0,
+        "total": 0.0001
+    }
+}

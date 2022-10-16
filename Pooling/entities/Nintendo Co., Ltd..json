@@ -1,0 +1,19 @@
+{
+    "name": "Nintendo Co., Ltd.",
+    "displayName": "Nintendo",
+    "properties": [
+        "nintendo-europe.com",
+        "nintendo.co.jp",
+        "nintendo.co.uk",
+        "nintendo.com",
+        "nintendo.de",
+        "nintendo.fr",
+        "nintendo.net",
+        "smashbros.com"
+    ],
+    "prevalence": {
+        "tracking": 0.0000478,
+        "nonTracking": 0.0000137,
+        "total": 0.0000615
+    }
+}

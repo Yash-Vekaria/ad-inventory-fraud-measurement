@@ -1,0 +1,12 @@
+{
+    "name": "Architonic AG",
+    "displayName": "Architonic",
+    "properties": [
+        "architonic.com"
+    ],
+    "prevalence": {
+        "tracking": 0.0001,
+        "nonTracking": 0,
+        "total": 0.0001
+    }
+}

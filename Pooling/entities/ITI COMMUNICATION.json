@@ -1,0 +1,12 @@
+{
+    "name": "ITI COMMUNICATION",
+    "displayName": "ITI COMMUNICATION",
+    "properties": [
+        "facil-iti.com"
+    ],
+    "prevalence": {
+        "tracking": 0.000123,
+        "nonTracking": 0.00000683,
+        "total": 0.00013
+    }
+}

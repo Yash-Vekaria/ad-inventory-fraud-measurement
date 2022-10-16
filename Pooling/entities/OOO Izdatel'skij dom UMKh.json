@@ -1,0 +1,12 @@
+{
+    "name": "OOO Izdatel'skij dom UMKh",
+    "displayName": "Izdatel'skij dom UMKh",
+    "properties": [
+        "korrespondent.net"
+    ],
+    "prevalence": {
+        "tracking": 0.000102,
+        "nonTracking": 0,
+        "total": 0.000102
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "name": "mParticle, Inc",
+    "displayName": "mParticle",
+    "properties": [
+        "acceleration2019.com",
+        "growthpractice.com",
+        "mparticle.com",
+        "opengdpr.org"
+    ],
+    "prevalence": {
+        "tracking": 0.0013,
+        "nonTracking": 0.000369,
+        "total": 0.00167
+    }
+}

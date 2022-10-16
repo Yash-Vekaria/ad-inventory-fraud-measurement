@@ -1,0 +1,13 @@
+{
+    "name": "Ibibo Group Pvt Ltd",
+    "displayName": "Ibibo Group",
+    "properties": [
+        "goibibo.com",
+        "ibcdn.com"
+    ],
+    "prevalence": {
+        "tracking": 0.00000681,
+        "nonTracking": 0,
+        "total": 0.00000681
+    }
+}

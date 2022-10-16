@@ -1,0 +1,12 @@
+{
+    "name": "International Consortium of Investigative Journalists, Inc.",
+    "displayName": "International Consortium of Investigative Journalists",
+    "properties": [
+        "icij.org"
+    ],
+    "prevalence": {
+        "tracking": 0.00000683,
+        "nonTracking": 0,
+        "total": 0.00000683
+    }
+}

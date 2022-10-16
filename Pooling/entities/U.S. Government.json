@@ -1,0 +1,16 @@
+{
+    "name": "U.S. Government",
+    "displayName": "U.S. Government",
+    "properties": [
+        "dfas.mil",
+        "dod.mil",
+        "dtic.mil",
+        "navy.mil",
+        "osd.mil"
+    ],
+    "prevalence": {
+        "tracking": 0.0000137,
+        "nonTracking": 0.0000137,
+        "total": 0.0000274
+    }
+}

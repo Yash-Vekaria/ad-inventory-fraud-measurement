@@ -1,0 +1,17 @@
+{
+    "name": "AdButler",
+    "displayName": "AdButler",
+    "properties": [
+        "activeboard.com",
+        "adbutler-fermion.com",
+        "adbutler-ikon.com",
+        "adbutler-meson.com",
+        "adbutler-tachyon.com",
+        "servedbyadbutler.com"
+    ],
+    "prevalence": {
+        "tracking": 0.00117,
+        "nonTracking": 0.000389,
+        "total": 0.00156
+    }
+}

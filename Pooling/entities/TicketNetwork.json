@@ -1,0 +1,12 @@
+{
+    "name": "TicketNetwork",
+    "displayName": "TicketNetwork",
+    "properties": [
+        "tickettransaction.com"
+    ],
+    "prevalence": {
+        "tracking": 0.0000614,
+        "nonTracking": 0.00000683,
+        "total": 0.0000682
+    }
+}

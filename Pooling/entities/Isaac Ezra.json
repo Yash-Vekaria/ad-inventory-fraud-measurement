@@ -1,0 +1,14 @@
+{
+    "name": "Isaac Ezra",
+    "displayName": "Isaac Ezra",
+    "properties": [
+        "retargeter.com.br",
+        "shopconvert.com.br",
+        "shoptarget.com.br"
+    ],
+    "prevalence": {
+        "tracking": 0.0000478,
+        "nonTracking": 0.00000683,
+        "total": 0.0000546
+    }
+}

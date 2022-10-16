@@ -1,0 +1,12 @@
+{
+    "name": "Comventure GmbH",
+    "displayName": "Comventure",
+    "properties": [
+        "medpex.de"
+    ],
+    "prevalence": {
+        "tracking": 0,
+        "nonTracking": 0.00000682,
+        "total": 0.00000682
+    }
+}

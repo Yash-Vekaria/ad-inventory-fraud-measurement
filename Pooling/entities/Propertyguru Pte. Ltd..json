@@ -1,0 +1,16 @@
+{
+    "name": "Propertyguru Pte. Ltd.",
+    "displayName": "Propertyguru",
+    "properties": [
+        "gambar-rumah.com",
+        "pgimgs.com",
+        "propertyguru.com",
+        "propertyguru.com.sg",
+        "rumahdijual.com"
+    ],
+    "prevalence": {
+        "tracking": 0.00000683,
+        "nonTracking": 0,
+        "total": 0.00000683
+    }
+}

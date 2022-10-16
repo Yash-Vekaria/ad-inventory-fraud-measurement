@@ -1,0 +1,12 @@
+{
+    "name": "University of Bristol",
+    "displayName": "University of Bristol",
+    "properties": [
+        "bristol.ac.uk"
+    ],
+    "prevalence": {
+        "tracking": 0.00000681,
+        "nonTracking": 0,
+        "total": 0.00000681
+    }
+}

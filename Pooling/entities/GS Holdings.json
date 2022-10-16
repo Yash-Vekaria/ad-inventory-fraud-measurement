@@ -1,0 +1,23 @@
+{
+    "name": "GS Holdings",
+    "displayName": "GS Holdings",
+    "properties": [
+        "about.co.kr",
+        "auction.co.kr",
+        "baikalize.com",
+        "ebay.co.kr",
+        "ebaykorea.com",
+        "esmplus.com",
+        "g9.co.kr",
+        "gmarket.co.kr",
+        "gmarket.com",
+        "gmkt.kr",
+        "gscdn.com",
+        "iacstatic.co.kr"
+    ],
+    "prevalence": {
+        "tracking": 0.0000273,
+        "nonTracking": 0.0000137,
+        "total": 0.000041
+    }
+}

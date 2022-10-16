@@ -1,0 +1,12 @@
+{
+    "name": "INA (Institut National de l'Audiovisuel)",
+    "displayName": "INA (Institut National de l'Audiovisuel)",
+    "properties": [
+        "ina.fr"
+    ],
+    "prevalence": {
+        "tracking": 0.00000678,
+        "nonTracking": 0,
+        "total": 0.00000678
+    }
+}

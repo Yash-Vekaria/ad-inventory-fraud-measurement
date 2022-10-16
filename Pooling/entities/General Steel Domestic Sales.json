@@ -1,0 +1,12 @@
+{
+    "name": "General Steel Domestic Sales",
+    "displayName": "General Steel Domestic Sales",
+    "properties": [
+        "gensteel.com"
+    ],
+    "prevalence": {
+        "tracking": 0.00000683,
+        "nonTracking": 0,
+        "total": 0.00000683
+    }
+}

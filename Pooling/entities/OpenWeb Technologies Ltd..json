@@ -1,0 +1,13 @@
+{
+    "name": "OpenWeb Technologies Ltd.",
+    "displayName": "OpenWeb",
+    "properties": [
+        "openweb.com",
+        "spot.im"
+    ],
+    "prevalence": {
+        "tracking": 0.00122,
+        "nonTracking": 0.00145,
+        "total": 0.00267
+    }
+}

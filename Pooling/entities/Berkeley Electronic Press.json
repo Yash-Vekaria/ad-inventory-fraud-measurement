@@ -1,0 +1,13 @@
+{
+    "name": "Berkeley Electronic Press",
+    "displayName": "Berkeley Electronic Press",
+    "properties": [
+        "bepress.com",
+        "bepressaws.com"
+    ],
+    "prevalence": {
+        "tracking": 0.0000546,
+        "nonTracking": 0,
+        "total": 0.0000546
+    }
+}

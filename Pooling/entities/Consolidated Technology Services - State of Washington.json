@@ -1,0 +1,12 @@
+{
+    "name": "Consolidated Technology Services - State of Washington",
+    "displayName": "Consolidated Technology Services - State of Washington",
+    "properties": [
+        "state.wa.us"
+    ],
+    "prevalence": {
+        "tracking": 0,
+        "nonTracking": 0.00000679,
+        "total": 0.00000679
+    }
+}

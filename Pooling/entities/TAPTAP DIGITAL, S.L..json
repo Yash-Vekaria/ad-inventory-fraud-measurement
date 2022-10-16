@@ -1,0 +1,14 @@
+{
+    "name": "TAPTAP DIGITAL, S.L.",
+    "displayName": "TAPTAP",
+    "properties": [
+        "sonataplatform.com",
+        "taptapdigital.com",
+        "taptapnetworks.com"
+    ],
+    "prevalence": {
+        "tracking": 0.00332,
+        "nonTracking": 0,
+        "total": 0.00332
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "name": "Razer (Asia-Pacific) Pte. Ltd",
+    "displayName": "Razer (Asia-Pacific)",
+    "properties": [
+        "razer.com",
+        "razerzone.com"
+    ],
+    "prevalence": {
+        "tracking": 0.0000143,
+        "nonTracking": 0,
+        "total": 0.0000143
+    }
+}

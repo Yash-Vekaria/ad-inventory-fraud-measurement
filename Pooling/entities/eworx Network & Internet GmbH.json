@@ -1,0 +1,12 @@
+{
+    "name": "eworx Network & Internet GmbH",
+    "displayName": "eworx Network & Internet",
+    "properties": [
+        "mailworx.info"
+    ],
+    "prevalence": {
+        "tracking": 0.0001,
+        "nonTracking": 0,
+        "total": 0.0001
+    }
+}

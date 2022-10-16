@@ -1,0 +1,12 @@
+{
+    "name": "Teroplan S.A.",
+    "displayName": "Teroplan",
+    "properties": [
+        "e-podroznik.pl"
+    ],
+    "prevalence": {
+        "tracking": 0.00000682,
+        "nonTracking": 0,
+        "total": 0.00000682
+    }
+}

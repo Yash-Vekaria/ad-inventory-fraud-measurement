@@ -1,0 +1,13 @@
+{
+    "name": "Holiday Lettings Limited",
+    "displayName": "Holiday Lettings",
+    "properties": [
+        "holidaylettings.co.uk",
+        "vrimgs.com"
+    ],
+    "prevalence": {
+        "tracking": 0.00000759,
+        "nonTracking": 0.00000759,
+        "total": 0.0000152
+    }
+}

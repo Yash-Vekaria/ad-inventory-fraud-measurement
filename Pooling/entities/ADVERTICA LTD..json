@@ -1,0 +1,17 @@
+{
+    "name": "ADVERTICA LTD.",
+    "displayName": "ADVERTICA",
+    "properties": [
+        "advertica-cdn2.com",
+        "emula.net",
+        "mavq.net",
+        "o-oo.ooo",
+        "sailif.com",
+        "sharez.cc"
+    ],
+    "prevalence": {
+        "tracking": 0.0000205,
+        "nonTracking": 0.0000205,
+        "total": 0.000041
+    }
+}

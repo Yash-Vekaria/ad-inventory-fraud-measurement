@@ -1,0 +1,12 @@
+{
+    "name": "Space Squirrel Ltd.",
+    "displayName": "Space Squirrel",
+    "properties": [
+        "covet.pics"
+    ],
+    "prevalence": {
+        "tracking": 0.000143,
+        "nonTracking": 0.000212,
+        "total": 0.000355
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "name": "Tamedia AG",
+    "displayName": "Tamedia",
+    "properties": [
+        "20min.ch",
+        "24heures.ch",
+        "bernerzeitung.ch",
+        "da-services.ch",
+        "dasmagazin.ch",
+        "derbund.ch",
+        "fuw.ch",
+        "heute.at",
+        "lematin.ch",
+        "newsnetz.ch",
+        "tagesanzeiger.ch",
+        "tamedia.ch",
+        "tda.io",
+        "tdg.ch",
+        "tutti.ch",
+        "tutti.li",
+        "zsz.ch"
+    ],
+    "prevalence": {
+        "tracking": 0.0000341,
+        "nonTracking": 0.0000819,
+        "total": 0.000116
+    }
+}

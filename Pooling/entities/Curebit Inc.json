@@ -1,0 +1,12 @@
+{
+    "name": "Curebit Inc",
+    "displayName": "Curebit",
+    "properties": [
+        "talkable.com"
+    ],
+    "prevalence": {
+        "tracking": 0.000635,
+        "nonTracking": 0.0000205,
+        "total": 0.000656
+    }
+}

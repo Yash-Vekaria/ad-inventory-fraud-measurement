@@ -1,0 +1,14 @@
+{
+    "name": "Adform A/S",
+    "displayName": "Adform",
+    "properties": [
+        "adform.com",
+        "adform.net",
+        "adformdsp.net"
+    ],
+    "prevalence": {
+        "tracking": 0.0805,
+        "nonTracking": 0.00839,
+        "total": 0.0889
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "name": "Trip.com Group Limited",
+    "displayName": "Trip.com Group",
+    "properties": [
+        "c-ctrip.com",
+        "ctrip.com",
+        "ctripbiz.com",
+        "skyscanner.com",
+        "skyscanner.com.au",
+        "skyscanner.de",
+        "skyscanner.es",
+        "skyscanner.fr",
+        "skyscanner.it",
+        "skyscanner.net",
+        "skyscanner.nl",
+        "skyscanner.ru",
+        "skyscnr.com",
+        "trip.com",
+        "tripcdn.cn",
+        "tripcdn.com"
+    ],
+    "prevalence": {
+        "tracking": 0.0000819,
+        "nonTracking": 0.0000205,
+        "total": 0.000102
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "name": "HI-MEDIA",
+    "displayName": "Hi-Media",
+    "properties": [
+        "adux.com",
+        "hi-media.com",
+        "hi-mediaserver.com",
+        "himediads.com"
+    ],
+    "prevalence": {
+        "tracking": 0,
+        "nonTracking": 0.0000478,
+        "total": 0.0000478
+    }
+}

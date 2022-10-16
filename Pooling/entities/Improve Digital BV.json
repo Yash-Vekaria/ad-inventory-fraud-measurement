@@ -1,0 +1,13 @@
+{
+    "name": "Improve Digital BV",
+    "displayName": "Improve Digital",
+    "properties": [
+        "360yield.com",
+        "improvedigital.com"
+    ],
+    "prevalence": {
+        "tracking": 0.0891,
+        "nonTracking": 0.00117,
+        "total": 0.0903
+    }
+}

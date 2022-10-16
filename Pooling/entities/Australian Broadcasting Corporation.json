@@ -1,0 +1,13 @@
+{
+    "name": "Australian Broadcasting Corporation",
+    "displayName": "Australian Broadcasting",
+    "properties": [
+        "abc-cdn.net.au",
+        "abc.net.au"
+    ],
+    "prevalence": {
+        "tracking": 0.0000273,
+        "nonTracking": 0,
+        "total": 0.0000273
+    }
+}

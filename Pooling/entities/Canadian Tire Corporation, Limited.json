@@ -1,0 +1,15 @@
+{
+    "name": "Canadian Tire Corporation, Limited",
+    "displayName": "Canadian Tire",
+    "properties": [
+        "canadiantire.ca",
+        "ctfs.com",
+        "marks.com",
+        "sportchek.ca"
+    ],
+    "prevalence": {
+        "tracking": 0.00000683,
+        "nonTracking": 0,
+        "total": 0.00000683
+    }
+}

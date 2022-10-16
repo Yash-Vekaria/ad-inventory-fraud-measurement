@@ -1,0 +1,14 @@
+{
+    "name": "Find My Past Ltd.",
+    "displayName": "Find My Past",
+    "properties": [
+        "findmypast.co.uk",
+        "findmypast.com",
+        "livesofthefirstworldwar.org"
+    ],
+    "prevalence": {
+        "tracking": 0.000101,
+        "nonTracking": 0,
+        "total": 0.000101
+    }
+}

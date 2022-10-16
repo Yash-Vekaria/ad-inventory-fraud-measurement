@@ -1,0 +1,12 @@
+{
+    "name": "Neo Technology",
+    "displayName": "Neo",
+    "properties": [
+        "neo4j.com"
+    ],
+    "prevalence": {
+        "tracking": 0.00000679,
+        "nonTracking": 0,
+        "total": 0.00000679
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "name": "Trustpilot A/S",
+    "displayName": "Trustpilot",
+    "properties": [
+        "trustpilot.com",
+        "trustpilot.net"
+    ],
+    "prevalence": {
+        "tracking": 0.00655,
+        "nonTracking": 0.00351,
+        "total": 0.0101
+    }
+}

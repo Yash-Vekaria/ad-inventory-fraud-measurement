@@ -1,0 +1,14 @@
+{
+    "name": "Bank of Montreal",
+    "displayName": "Bank of Montreal",
+    "properties": [
+        "bmo.com",
+        "bmoharris.com",
+        "harrisbank.com"
+    ],
+    "prevalence": {
+        "tracking": 0.000101,
+        "nonTracking": 0,
+        "total": 0.000101
+    }
+}

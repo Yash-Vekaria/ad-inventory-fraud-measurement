@@ -1,0 +1,20 @@
+{
+    "name": "Sirius XM Holdings Inc.",
+    "displayName": "Sirius XM",
+    "properties": [
+        "adswizz.com",
+        "p-cdn.com",
+        "p-cdn.us",
+        "pandora.com",
+        "simplecast.com",
+        "simplecastaudio.com",
+        "siriusxm.ca",
+        "siriusxm.com",
+        "stitcher.com"
+    ],
+    "prevalence": {
+        "tracking": 0.00167,
+        "nonTracking": 0.00101,
+        "total": 0.00268
+    }
+}

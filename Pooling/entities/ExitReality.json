@@ -1,0 +1,12 @@
+{
+    "name": "ExitReality",
+    "displayName": "ExitReality",
+    "properties": [
+        "responsivevoice.org"
+    ],
+    "prevalence": {
+        "tracking": 0.000273,
+        "nonTracking": 0.0000137,
+        "total": 0.000287
+    }
+}

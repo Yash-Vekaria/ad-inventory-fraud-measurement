@@ -1,0 +1,9 @@
+{
+    "name": "Arm Ltd",
+    "displayName": "Arm",
+    "properties": [
+        "arm.com",
+        "keil.com",
+        "mbed.com"
+    ]
+}

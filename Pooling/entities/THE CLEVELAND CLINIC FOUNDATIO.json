@@ -1,0 +1,12 @@
+{
+    "name": "THE CLEVELAND CLINIC FOUNDATIO",
+    "displayName": "THE CLEVELAND CLINIC FOUNDATIO",
+    "properties": [
+        "clevelandclinic.org"
+    ],
+    "prevalence": {
+        "tracking": 0.00000683,
+        "nonTracking": 0,
+        "total": 0.00000683
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "name": "APAC Digital Exchange",
+    "displayName": "APAC Digital Exchange",
+    "properties": [
+        "apacdex.com",
+        "quantumdex.io"
+    ],
+    "prevalence": {
+        "tracking": 0.00223,
+        "nonTracking": 0,
+        "total": 0.00223
+    }
+}

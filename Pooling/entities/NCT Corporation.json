@@ -1,0 +1,14 @@
+{
+    "name": "NCT Corporation",
+    "displayName": "NCT",
+    "properties": [
+        "nct.vn",
+        "nhaccuatui.com",
+        "nixcdn.com"
+    ],
+    "prevalence": {
+        "tracking": 0,
+        "nonTracking": 0.0000137,
+        "total": 0.0000137
+    }
+}

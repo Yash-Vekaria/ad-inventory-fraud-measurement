@@ -1,0 +1,18 @@
+{
+    "name": "Blockthrough Inc.",
+    "displayName": "Blockthrough",
+    "properties": [
+        "blockthrough.com",
+        "btloader.com",
+        "pagefair.com",
+        "pagefair.net",
+        "upapi.net",
+        "uponit.com",
+        "videoplayerhub.com"
+    ],
+    "prevalence": {
+        "tracking": 0.0154,
+        "nonTracking": 0.00227,
+        "total": 0.0177
+    }
+}

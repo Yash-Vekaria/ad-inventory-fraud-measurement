@@ -1,0 +1,15 @@
+{
+    "name": "Backcountry.com",
+    "displayName": "Backcountry.com",
+    "properties": [
+        "backcountry.com",
+        "competitivecyclist.com",
+        "motosport.com",
+        "steepandcheap.com"
+    ],
+    "prevalence": {
+        "tracking": 0,
+        "nonTracking": 0.0000205,
+        "total": 0.0000205
+    }
+}

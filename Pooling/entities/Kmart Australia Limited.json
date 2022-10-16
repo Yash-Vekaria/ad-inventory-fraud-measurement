@@ -1,0 +1,12 @@
+{
+    "name": "Kmart Australia Limited",
+    "displayName": "Kmart Australia",
+    "properties": [
+        "kmart.com.au"
+    ],
+    "prevalence": {
+        "tracking": 0.00000683,
+        "nonTracking": 0,
+        "total": 0.00000683
+    }
+}

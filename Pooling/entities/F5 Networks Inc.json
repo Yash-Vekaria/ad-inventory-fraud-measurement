@@ -1,0 +1,14 @@
+{
+    "name": "F5 Networks Inc",
+    "displayName": "F5 Networks",
+    "properties": [
+        "f5.com",
+        "nginx.com",
+        "zeronaught.com"
+    ],
+    "prevalence": {
+        "tracking": 0.0000751,
+        "nonTracking": 0.000164,
+        "total": 0.000239
+    }
+}

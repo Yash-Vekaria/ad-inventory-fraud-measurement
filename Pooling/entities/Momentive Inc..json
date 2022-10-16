@@ -1,0 +1,28 @@
+{
+    "name": "Momentive Inc.",
+    "displayName": "Momentive",
+    "properties": [
+        "feedbackeconomy.com",
+        "getfeedback.com",
+        "momentive.ai",
+        "research.net",
+        "smassets.net",
+        "surveymonkey.ca",
+        "surveymonkey.co.uk",
+        "surveymonkey.com",
+        "surveymonkey.de",
+        "surveymonkey.eu",
+        "surveymonkey.fr",
+        "surveymonkey.net",
+        "surveymonkey.nl",
+        "surveymonkey.ru",
+        "usabilla.com",
+        "usbla.net",
+        "wufoo.com"
+    ],
+    "prevalence": {
+        "tracking": 0.00326,
+        "nonTracking": 0.000669,
+        "total": 0.00393
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Stitch Fix, Inc.",
+    "displayName": "Stitch Fix",
+    "properties": [
+        "stitchfix.com"
+    ],
+    "prevalence": {
+        "tracking": 0.00000681,
+        "nonTracking": 0.00000681,
+        "total": 0.0000136
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Bouncer",
+    "displayName": "Bouncer",
+    "properties": [
+        "getbouncer.com"
+    ],
+    "prevalence": {
+        "tracking": 0.00000691,
+        "nonTracking": 0,
+        "total": 0.00000691
+    }
+}

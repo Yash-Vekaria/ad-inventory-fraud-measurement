@@ -1,0 +1,12 @@
+{
+    "name": "Barilliance Ltd",
+    "displayName": "Barilliance",
+    "properties": [
+        "barilliance.net"
+    ],
+    "prevalence": {
+        "tracking": 0.000355,
+        "nonTracking": 0,
+        "total": 0.000355
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Atlantic Media Inc.",
+    "displayName": "Atlantic Media",
+    "properties": [
+        "citylab.com",
+        "defenseone.com",
+        "nationaljournal.com",
+        "qz.com",
+        "theatlantic.com"
+    ],
+    "prevalence": {
+        "tracking": 0.0000205,
+        "nonTracking": 0.0000205,
+        "total": 0.000041
+    }
+}

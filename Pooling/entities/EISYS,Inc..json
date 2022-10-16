@@ -1,0 +1,13 @@
+{
+    "name": "EISYS,Inc.",
+    "displayName": "EISYS",
+    "properties": [
+        "dlsite.com",
+        "dlsite.jp"
+    ],
+    "prevalence": {
+        "tracking": 0.0000137,
+        "nonTracking": 0.000041,
+        "total": 0.0000547
+    }
+}

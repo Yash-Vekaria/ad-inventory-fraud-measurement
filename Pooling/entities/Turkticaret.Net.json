@@ -1,0 +1,22 @@
+{
+    "name": "Turkticaret.Net",
+    "displayName": "Turkticaret.Net",
+    "properties": [
+        "adextech.com",
+        "adhood.com",
+        "glad.network",
+        "haberyazilimi.com",
+        "ok.net",
+        "owndata.network",
+        "reg2c.com",
+        "reg2c.network",
+        "theadx.com",
+        "turkticaret.net",
+        "web.tv"
+    ],
+    "prevalence": {
+        "tracking": 0.000102,
+        "nonTracking": 0,
+        "total": 0.000102
+    }
+}

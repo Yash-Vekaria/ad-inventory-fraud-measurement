@@ -1,0 +1,20 @@
+{
+    "name": "FanSided Inc.",
+    "displayName": "FanSided",
+    "properties": [
+        "amazonadviser.com",
+        "arrowheadaddict.com",
+        "bustingbrackets.com",
+        "culturess.com",
+        "fansided.com",
+        "hiddenremote.com",
+        "netflixlife.com",
+        "undeadwalking.com",
+        "winteriscoming.net"
+    ],
+    "prevalence": {
+        "tracking": 0.000273,
+        "nonTracking": 0,
+        "total": 0.000273
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "name": "W. L. Gore & Associates, Inc",
+    "displayName": "W. L. Gore & Associates",
+    "properties": [
+        "gore-tex.com",
+        "gorefabrics.com",
+        "gorewear.com",
+        "sitkagear.com"
+    ],
+    "prevalence": {
+        "tracking": 0.000101,
+        "nonTracking": 0,
+        "total": 0.000101
+    }
+}

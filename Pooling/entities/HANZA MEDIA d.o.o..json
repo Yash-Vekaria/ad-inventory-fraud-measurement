@@ -1,0 +1,13 @@
+{
+    "name": "HANZA MEDIA d.o.o.",
+    "displayName": "HANZA MEDIA",
+    "properties": [
+        "gloria.hr",
+        "jutarnji.hr"
+    ],
+    "prevalence": {
+        "tracking": 0.00000678,
+        "nonTracking": 0,
+        "total": 0.00000678
+    }
+}

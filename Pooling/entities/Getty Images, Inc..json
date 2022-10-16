@@ -1,0 +1,37 @@
+{
+    "name": "Getty Images, Inc.",
+    "displayName": "Getty Images",
+    "properties": [
+        "freeimages.com",
+        "gettyimages.ae",
+        "gettyimages.at",
+        "gettyimages.be",
+        "gettyimages.ca",
+        "gettyimages.ch",
+        "gettyimages.co.jp",
+        "gettyimages.co.nz",
+        "gettyimages.co.uk",
+        "gettyimages.com",
+        "gettyimages.com.au",
+        "gettyimages.de",
+        "gettyimages.dk",
+        "gettyimages.es",
+        "gettyimages.fi",
+        "gettyimages.fr",
+        "gettyimages.ie",
+        "gettyimages.in",
+        "gettyimages.it",
+        "gettyimages.nl",
+        "gettyimages.no",
+        "gettyimages.pt",
+        "gettyimages.se",
+        "istockimg.com",
+        "istockphoto.com",
+        "photos.com"
+    ],
+    "prevalence": {
+        "tracking": 0.0000546,
+        "nonTracking": 0.000116,
+        "total": 0.000171
+    }
+}

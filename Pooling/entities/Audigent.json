@@ -1,0 +1,14 @@
+{
+    "name": "Audigent",
+    "displayName": "Audigent",
+    "properties": [
+        "ad.gt",
+        "audigent.com",
+        "aufp.io"
+    ],
+    "prevalence": {
+        "tracking": 0.015,
+        "nonTracking": 0.000696,
+        "total": 0.0157
+    }
+}

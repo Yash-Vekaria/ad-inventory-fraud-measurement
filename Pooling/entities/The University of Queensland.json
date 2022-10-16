@@ -1,0 +1,13 @@
+{
+    "name": "The University of Queensland",
+    "displayName": "The University of Queensland",
+    "properties": [
+        "uq.edu.au",
+        "uq.net.au"
+    ],
+    "prevalence": {
+        "tracking": 0.00000679,
+        "nonTracking": 0,
+        "total": 0.00000679
+    }
+}

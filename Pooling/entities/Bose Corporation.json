@@ -1,0 +1,15 @@
+{
+    "name": "Bose Corporation",
+    "displayName": "Bose",
+    "properties": [
+        "bose.co.uk",
+        "bose.com",
+        "bose.de",
+        "nebula.run"
+    ],
+    "prevalence": {
+        "tracking": 0.00000683,
+        "nonTracking": 0,
+        "total": 0.00000683
+    }
+}

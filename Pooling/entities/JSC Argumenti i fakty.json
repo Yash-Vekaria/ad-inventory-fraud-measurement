@@ -1,0 +1,12 @@
+{
+    "name": "JSC Argumenti i fakty",
+    "displayName": "Argumenti i fakty",
+    "properties": [
+        "aif.ru"
+    ],
+    "prevalence": {
+        "tracking": 0.00000683,
+        "nonTracking": 0,
+        "total": 0.00000683
+    }
+}

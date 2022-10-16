@@ -1,0 +1,12 @@
+{
+    "name": "Integration 3 Group AB",
+    "displayName": "Integration 3 Group",
+    "properties": [
+        "americanlisted.com"
+    ],
+    "prevalence": {
+        "tracking": 0.00000685,
+        "nonTracking": 0,
+        "total": 0.00000685
+    }
+}

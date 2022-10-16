@@ -1,0 +1,13 @@
+{
+    "name": "X-Rite, Incorporated",
+    "displayName": "X-Rite",
+    "properties": [
+        "pantone.com",
+        "xrite.com"
+    ],
+    "prevalence": {
+        "tracking": 0,
+        "nonTracking": 0.00000691,
+        "total": 0.00000691
+    }
+}

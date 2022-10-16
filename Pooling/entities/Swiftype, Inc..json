@@ -1,0 +1,13 @@
+{
+    "name": "Swiftype, Inc.",
+    "displayName": "Swiftype",
+    "properties": [
+        "swiftype.com",
+        "swiftypecdn.com"
+    ],
+    "prevalence": {
+        "tracking": 0.00171,
+        "nonTracking": 0.000635,
+        "total": 0.00234
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Voltn LLC",
+    "displayName": "Voltn",
+    "properties": [
+        "nytrng.com",
+        "voltn.agency",
+        "voltn.com"
+    ],
+    "prevalence": {
+        "tracking": 0.0067,
+        "nonTracking": 0.000273,
+        "total": 0.00697
+    }
+}

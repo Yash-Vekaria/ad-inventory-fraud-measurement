@@ -1,0 +1,14 @@
+{
+    "name": "Carnival Corporation & plc",
+    "displayName": "Carnival (UK)",
+    "properties": [
+        "carnival.com",
+        "cunard.com",
+        "pocruises.com"
+    ],
+    "prevalence": {
+        "tracking": 0.000101,
+        "nonTracking": 0,
+        "total": 0.000101
+    }
+}

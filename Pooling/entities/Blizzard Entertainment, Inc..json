@@ -1,0 +1,20 @@
+{
+    "name": "Blizzard Entertainment, Inc.",
+    "displayName": "Blizzard Entertainment",
+    "properties": [
+        "battle.net",
+        "blizzard.com",
+        "blizzcon.com",
+        "diablo3.com",
+        "heroesofthestorm.com",
+        "playhearthstone.com",
+        "playoverwatch.com",
+        "starcraft2.com",
+        "worldofwarcraft.com"
+    ],
+    "prevalence": {
+        "tracking": 0.0000478,
+        "nonTracking": 0,
+        "total": 0.0000478
+    }
+}

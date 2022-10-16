@@ -1,0 +1,12 @@
+{
+    "name": "Driveback LLC",
+    "displayName": "Driveback",
+    "properties": [
+        "ddmanager.ru"
+    ],
+    "prevalence": {
+        "tracking": 0.0000136,
+        "nonTracking": 0,
+        "total": 0.0000136
+    }
+}

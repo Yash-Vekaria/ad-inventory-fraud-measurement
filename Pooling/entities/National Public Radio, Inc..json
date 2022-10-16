@@ -1,0 +1,17 @@
+{
+    "name": "National Public Radio, Inc.",
+    "displayName": "National Public Radio",
+    "properties": [
+        "kalw.org",
+        "npr.org",
+        "nprapps.org",
+        "nprstations.org",
+        "publicbroadcasting.net",
+        "wunc.org"
+    ],
+    "prevalence": {
+        "tracking": 0.000212,
+        "nonTracking": 0.000696,
+        "total": 0.000908
+    }
+}

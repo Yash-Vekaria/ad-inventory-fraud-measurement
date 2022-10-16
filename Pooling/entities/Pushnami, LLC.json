@@ -1,0 +1,12 @@
+{
+    "name": "Pushnami, LLC",
+    "displayName": "Pushnami",
+    "properties": [
+        "pushnami.com"
+    ],
+    "prevalence": {
+        "tracking": 0.000962,
+        "nonTracking": 0.0000546,
+        "total": 0.00102
+    }
+}

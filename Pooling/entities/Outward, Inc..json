@@ -1,0 +1,12 @@
+{
+    "name": "Outward, Inc.",
+    "displayName": "Outward",
+    "properties": [
+        "outwardinc.com"
+    ],
+    "prevalence": {
+        "tracking": 0.00000683,
+        "nonTracking": 0,
+        "total": 0.00000683
+    }
+}

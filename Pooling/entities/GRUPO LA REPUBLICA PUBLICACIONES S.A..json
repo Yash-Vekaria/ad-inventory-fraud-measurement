@@ -1,0 +1,12 @@
+{
+    "name": "GRUPO LA REPUBLICA PUBLICACIONES S.A.",
+    "displayName": "GRUPO LA REPUBLICA PUBLICACIONES",
+    "properties": [
+        "larepublica.pe"
+    ],
+    "prevalence": {
+        "tracking": 0.0000136,
+        "nonTracking": 0,
+        "total": 0.0000136
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "name": "Trimble Navigation",
+    "displayName": "Trimble Navigation",
+    "properties": [
+        "trimble.com"
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "name": "P. Bordas SARL",
+    "displayName": "P. Bordas",
+    "properties": [
+        "audiofanzine.com",
+        "futureproducers.com",
+        "homerecording.com",
+        "rig-talk.com"
+    ],
+    "prevalence": {
+        "tracking": 0.00000678,
+        "nonTracking": 0,
+        "total": 0.00000678
+    }
+}

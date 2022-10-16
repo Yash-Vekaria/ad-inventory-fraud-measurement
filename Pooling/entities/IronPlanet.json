@@ -1,0 +1,13 @@
+{
+    "name": "IronPlanet",
+    "displayName": "IronPlanet",
+    "properties": [
+        "govplanet.com",
+        "ironpla.net"
+    ],
+    "prevalence": {
+        "tracking": 0.0000205,
+        "nonTracking": 0.0000137,
+        "total": 0.0000342
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Media Impact Group",
+    "displayName": "Media Impact Group",
+    "properties": [
+        "bidvance.com",
+        "goadserver.com",
+        "goaserv.com"
+    ],
+    "prevalence": {
+        "tracking": 0.0000683,
+        "nonTracking": 0.000498,
+        "total": 0.000566
+    }
+}

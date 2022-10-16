@@ -1,0 +1,12 @@
+{
+    "name": "FDR CAPITAL LIMITED",
+    "displayName": "FDR CAPITAL",
+    "properties": [
+        "goldbroker.com"
+    ],
+    "prevalence": {
+        "tracking": 0.00000683,
+        "nonTracking": 0,
+        "total": 0.00000683
+    }
+}

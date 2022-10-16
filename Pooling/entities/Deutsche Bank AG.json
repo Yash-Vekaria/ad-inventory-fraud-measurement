@@ -1,0 +1,14 @@
+{
+    "name": "Deutsche Bank AG",
+    "displayName": "Deutsche Bank",
+    "properties": [
+        "db.com",
+        "deutsche-bank.de",
+        "deutscheinvest.lu"
+    ],
+    "prevalence": {
+        "tracking": 0.0000136,
+        "nonTracking": 0,
+        "total": 0.0000136
+    }
+}

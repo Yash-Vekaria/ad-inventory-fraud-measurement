@@ -1,0 +1,12 @@
+{
+    "name": "SOCIETE NOUVELLE DU JOURNAL L'HUMANITE",
+    "displayName": "SOCIETE NOUVELLE DU JOURNAL L'HUMANITE",
+    "properties": [
+        "humanite.fr"
+    ],
+    "prevalence": {
+        "tracking": 0.00000692,
+        "nonTracking": 0,
+        "total": 0.00000692
+    }
+}

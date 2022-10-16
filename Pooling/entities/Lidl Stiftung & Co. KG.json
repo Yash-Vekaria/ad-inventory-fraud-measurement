@@ -1,0 +1,21 @@
+{
+    "name": "Lidl Stiftung & Co. KG",
+    "displayName": "Lidl Stiftung & Co. KG",
+    "properties": [
+        "lidl-shop.be",
+        "lidl-shop.nl",
+        "lidl.co.uk",
+        "lidl.com",
+        "lidl.de",
+        "lidl.es",
+        "lidl.fr",
+        "lidl.it",
+        "lidl.nl",
+        "lidl.pl"
+    ],
+    "prevalence": {
+        "tracking": 0.00000683,
+        "nonTracking": 0.00000683,
+        "total": 0.0000137
+    }
+}

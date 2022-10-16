@@ -1,0 +1,8 @@
+{
+    "name": "Kantonale Verwaltung Zug",
+    "displayName": "Kantonale Verwaltung Zug",
+    "properties": [
+        "zg.ch",
+        "zug.ch"
+    ]
+}

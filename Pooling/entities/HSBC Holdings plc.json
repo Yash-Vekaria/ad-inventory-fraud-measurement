@@ -1,0 +1,17 @@
+{
+    "name": "HSBC Holdings plc",
+    "displayName": "HSBC Holdings",
+    "properties": [
+        "hsbc.co.uk",
+        "hsbc.com",
+        "hsbc.com.mx",
+        "hsbc.fr",
+        "hsbc.uk",
+        "member-hsbc-group.com"
+    ],
+    "prevalence": {
+        "tracking": 0.0000341,
+        "nonTracking": 0,
+        "total": 0.0000341
+    }
+}

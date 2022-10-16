@@ -1,0 +1,12 @@
+{
+    "name": "Flagstaff Convention and Visitors Bureau",
+    "displayName": "Flagstaff Convention and Visitors Bureau",
+    "properties": [
+        "flagstaffarizona.org"
+    ],
+    "prevalence": {
+        "tracking": 0.0000069,
+        "nonTracking": 0,
+        "total": 0.0000069
+    }
+}

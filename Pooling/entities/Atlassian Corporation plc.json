@@ -1,0 +1,24 @@
+{
+    "name": "Atlassian Corporation plc",
+    "displayName": "Atlassian",
+    "properties": [
+        "atl-paas.net",
+        "atlassian.com",
+        "atlassian.net",
+        "bitbucket.org",
+        "confluence.com",
+        "hipchat.com",
+        "jira.com",
+        "opsgenie.com",
+        "sourcetreeapp.com",
+        "statuspage.io",
+        "stride.com",
+        "trello.com",
+        "trellocdn.com"
+    ],
+    "prevalence": {
+        "tracking": 0.000464,
+        "nonTracking": 0.000382,
+        "total": 0.000846
+    }
+}

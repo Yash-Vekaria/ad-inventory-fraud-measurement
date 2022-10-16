@@ -1,0 +1,12 @@
+{
+    "name": "University of Dundee",
+    "displayName": "University of Dundee",
+    "properties": [
+        "dundee.ac.uk"
+    ],
+    "prevalence": {
+        "tracking": 0.0000069,
+        "nonTracking": 0,
+        "total": 0.0000069
+    }
+}

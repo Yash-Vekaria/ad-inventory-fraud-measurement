@@ -1,0 +1,12 @@
+{
+    "name": "Soda Stream Direct LLC",
+    "displayName": "Soda Stream Direct",
+    "properties": [
+        "sodastream.com"
+    ],
+    "prevalence": {
+        "tracking": 0.00000683,
+        "nonTracking": 0,
+        "total": 0.00000683
+    }
+}

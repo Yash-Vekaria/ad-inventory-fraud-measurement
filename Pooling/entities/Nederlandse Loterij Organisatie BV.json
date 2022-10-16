@@ -1,0 +1,12 @@
+{
+    "name": "Nederlandse Loterij Organisatie BV",
+    "displayName": "Nederlandse Loterij Organisatie",
+    "properties": [
+        "nederlandseloterij.nl"
+    ],
+    "prevalence": {
+        "tracking": 0.0001,
+        "nonTracking": 0,
+        "total": 0.0001
+    }
+}

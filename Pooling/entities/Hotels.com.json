@@ -1,0 +1,20 @@
+{
+    "name": "Hotels.com",
+    "displayName": "Hotels.com",
+    "properties": [
+        "asiawebdirect.com",
+        "bali-indonesia.com",
+        "bangkok.com",
+        "cdn-hotels.com",
+        "hotels.com",
+        "hotelsapi.io",
+        "phuket.com",
+        "smartstays.com",
+        "vietnam-guide.com"
+    ],
+    "prevalence": {
+        "tracking": 0.000109,
+        "nonTracking": 0.00000683,
+        "total": 0.000116
+    }
+}

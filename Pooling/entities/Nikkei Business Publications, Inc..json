@@ -1,0 +1,12 @@
+{
+    "name": "Nikkei Business Publications, Inc.",
+    "displayName": "Nikkei Business Publications",
+    "properties": [
+        "nikkeibp.co.jp"
+    ],
+    "prevalence": {
+        "tracking": 0.0000137,
+        "nonTracking": 0,
+        "total": 0.0000137
+    }
+}

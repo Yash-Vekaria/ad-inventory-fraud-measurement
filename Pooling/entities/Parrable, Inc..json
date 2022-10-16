@@ -1,0 +1,12 @@
+{
+    "name": "Parrable, Inc.",
+    "displayName": "Parrable",
+    "properties": [
+        "parrable.com"
+    ],
+    "prevalence": {
+        "tracking": 0.00104,
+        "nonTracking": 0.000041,
+        "total": 0.00108
+    }
+}

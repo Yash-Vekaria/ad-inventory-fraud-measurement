@@ -1,0 +1,13 @@
+{
+    "name": "Carisinyal",
+    "displayName": "Carisinyal",
+    "properties": [
+        "bacaterus.com",
+        "carisinyal.com"
+    ],
+    "prevalence": {
+        "tracking": 0,
+        "nonTracking": 0.00000678,
+        "total": 0.00000678
+    }
+}

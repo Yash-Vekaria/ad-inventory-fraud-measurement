@@ -1,0 +1,19 @@
+{
+    "name": "Industria de Diseno Textil SA",
+    "displayName": "Industria de Diseno Textil",
+    "properties": [
+        "bershka.com",
+        "massimodutti.com",
+        "oysho.com",
+        "pullandbear.com",
+        "stradivarius.com",
+        "zara.com",
+        "zara.net",
+        "zarahome.com"
+    ],
+    "prevalence": {
+        "tracking": 0.0001,
+        "nonTracking": 0,
+        "total": 0.0001
+    }
+}

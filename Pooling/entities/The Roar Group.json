@@ -1,0 +1,12 @@
+{
+    "name": "The Roar Group",
+    "displayName": "The Roar Group",
+    "properties": [
+        "world.rugby"
+    ],
+    "prevalence": {
+        "tracking": 0.0000137,
+        "nonTracking": 0,
+        "total": 0.0000137
+    }
+}

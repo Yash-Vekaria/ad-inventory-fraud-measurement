@@ -1,0 +1,21 @@
+{
+    "name": "Minnesota Public Radio",
+    "displayName": "Minnesota Public Radio",
+    "properties": [
+        "apmcdn.org",
+        "laist.com",
+        "marketplace.org",
+        "mpr.org",
+        "mprnews.org",
+        "publicradio.org",
+        "scpr.org",
+        "scprdev.org",
+        "splendidtable.org",
+        "thecurrent.org"
+    ],
+    "prevalence": {
+        "tracking": 0.00000683,
+        "nonTracking": 0.0000137,
+        "total": 0.0000205
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Goldbach Digital Services",
+    "displayName": "Goldbach Digital Services",
+    "properties": [
+        "gbucket.ch"
+    ],
+    "prevalence": {
+        "tracking": 0.000041,
+        "nonTracking": 0.0000205,
+        "total": 0.0000615
+    }
+}

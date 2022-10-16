@@ -1,0 +1,12 @@
+{
+    "name": "VNR Verlag fuer die Deutsche Wirtschaft AG",
+    "displayName": "VNR Verlag fuer die Deutsche Wirtschaft",
+    "properties": [
+        "wirtschaftswissen.de"
+    ],
+    "prevalence": {
+        "tracking": 0.000101,
+        "nonTracking": 0,
+        "total": 0.000101
+    }
+}

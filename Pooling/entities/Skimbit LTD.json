@@ -1,0 +1,14 @@
+{
+    "name": "Skimbit LTD",
+    "displayName": "Skimbit",
+    "properties": [
+        "redirectingat.com",
+        "skimlinks.com",
+        "skimresources.com"
+    ],
+    "prevalence": {
+        "tracking": 0.0123,
+        "nonTracking": 0.00115,
+        "total": 0.0135
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Helsingin ja Uudenmaan Sairaanhoitopiirin kuntayhtymä - HUS",
+    "displayName": "Helsingin ja Uudenmaan Sairaanhoitopiirin kuntayhtymä - HUS",
+    "properties": [
+        "hus.fi"
+    ],
+    "prevalence": {
+        "tracking": 0.00000681,
+        "nonTracking": 0,
+        "total": 0.00000681
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "name": "sourcedefense",
+    "displayName": "sourcedefense",
+    "properties": [
+        "sdiapi.com"
+    ],
+    "prevalence": {
+        "tracking": 0.000382,
+        "nonTracking": 0,
+        "total": 0.000382
+    }
+}

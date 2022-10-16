@@ -1,0 +1,12 @@
+{
+    "name": "Telenet BVBA",
+    "displayName": "Telenet BVBA",
+    "properties": [
+        "telenet.be"
+    ],
+    "prevalence": {
+        "tracking": 0.000101,
+        "nonTracking": 0,
+        "total": 0.000101
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "name": "POWR Inc.",
+    "displayName": "POWR",
+    "properties": [
+        "powr.io"
+    ],
+    "prevalence": {
+        "tracking": 0.00274,
+        "nonTracking": 0.0000273,
+        "total": 0.00277
+    }
+}

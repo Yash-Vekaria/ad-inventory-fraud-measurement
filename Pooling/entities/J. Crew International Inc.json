@@ -1,0 +1,13 @@
+{
+    "name": "J. Crew International Inc",
+    "displayName": "J. Crew International",
+    "properties": [
+        "jcrew.com",
+        "s-madewell.com"
+    ],
+    "prevalence": {
+        "tracking": 0.00000683,
+        "nonTracking": 0.0000137,
+        "total": 0.0000205
+    }
+}

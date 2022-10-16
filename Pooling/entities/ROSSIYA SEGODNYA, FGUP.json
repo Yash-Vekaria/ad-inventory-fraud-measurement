@@ -1,0 +1,13 @@
+{
+    "name": "ROSSIYA SEGODNYA, FGUP",
+    "displayName": "Rossiya Segodnya,FGUP",
+    "properties": [
+        "ria.ru",
+        "sputniknews.com"
+    ],
+    "prevalence": {
+        "tracking": 0.0000478,
+        "nonTracking": 0.0000683,
+        "total": 0.000116
+    }
+}

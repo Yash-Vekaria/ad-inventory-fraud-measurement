@@ -1,0 +1,13 @@
+{
+    "name": "ADMINISTRACION FEDERAL DE INGRESOS PUBLICOS",
+    "displayName": "ADMINISTRACION FEDERAL DE INGRESOS PUBLICOS",
+    "properties": [
+        "afip.gob.ar",
+        "afip.gov.ar"
+    ],
+    "prevalence": {
+        "tracking": 0.00000682,
+        "nonTracking": 0.000136,
+        "total": 0.000143
+    }
+}

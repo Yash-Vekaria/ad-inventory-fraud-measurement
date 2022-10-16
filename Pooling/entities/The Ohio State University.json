@@ -1,0 +1,14 @@
+{
+    "name": "The Ohio State University",
+    "displayName": "The Ohio State University",
+    "properties": [
+        "ohiostatebuckeyes.com",
+        "osu.edu",
+        "osumc.edu"
+    ],
+    "prevalence": {
+        "tracking": 0.00000692,
+        "nonTracking": 0.00000692,
+        "total": 0.0000138
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Primary Arms, L.L.C.",
+    "displayName": "Primary Arms",
+    "properties": [
+        "primaryarms.com"
+    ],
+    "prevalence": {
+        "tracking": 0,
+        "nonTracking": 0.0000205,
+        "total": 0.0000205
+    }
+}

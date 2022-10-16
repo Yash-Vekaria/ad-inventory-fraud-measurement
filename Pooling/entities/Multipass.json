@@ -1,0 +1,7 @@
+{
+    "name": "Multipass",
+    "displayName": "Multipass",
+    "properties": [
+        "multipass.net"
+    ]
+}

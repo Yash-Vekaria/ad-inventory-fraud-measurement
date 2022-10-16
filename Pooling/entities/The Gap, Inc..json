@@ -1,0 +1,21 @@
+{
+    "name": "The Gap, Inc.",
+    "displayName": "The Gap",
+    "properties": [
+        "assets-gap.com",
+        "athleta.com",
+        "bananarepublic.com",
+        "bananarepublicfactory.com",
+        "gap.co.uk",
+        "gap.com",
+        "gapfactory.com",
+        "gapinc.com",
+        "hillcity.com",
+        "oldnavy.com"
+    ],
+    "prevalence": {
+        "tracking": 0.00000683,
+        "nonTracking": 0,
+        "total": 0.00000683
+    }
+}

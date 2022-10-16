@@ -1,0 +1,12 @@
+{
+    "name": "Colorado Department of Education",
+    "displayName": "Colorado Department of Education",
+    "properties": [
+        "state.co.us"
+    ],
+    "prevalence": {
+        "tracking": 0,
+        "nonTracking": 0.0000138,
+        "total": 0.0000138
+    }
+}

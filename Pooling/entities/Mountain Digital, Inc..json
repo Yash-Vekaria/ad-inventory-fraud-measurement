@@ -1,0 +1,12 @@
+{
+    "name": "Mountain Digital, Inc.",
+    "displayName": "Mountain Digital",
+    "properties": [
+        "mountain.com"
+    ],
+    "prevalence": {
+        "tracking": 0.00309,
+        "nonTracking": 0.0000273,
+        "total": 0.00312
+    }
+}

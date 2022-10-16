@@ -1,0 +1,12 @@
+{
+    "name": "Verkehrsverbund Ost-Region (VOR) Gesellschaft m.b.H.",
+    "displayName": "Verkehrsverbund Ost-Region (VOR) Gesellschaft",
+    "properties": [
+        "vor.at"
+    ],
+    "prevalence": {
+        "tracking": 0.00000679,
+        "nonTracking": 0,
+        "total": 0.00000679
+    }
+}

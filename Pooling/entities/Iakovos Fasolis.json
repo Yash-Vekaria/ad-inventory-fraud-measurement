@@ -1,0 +1,14 @@
+{
+    "name": "Iakovos Fasolis",
+    "displayName": "Iakovos Fasolis",
+    "properties": [
+        "fussballstream.online",
+        "livestreaming24.online",
+        "olympiakos.live"
+    ],
+    "prevalence": {
+        "tracking": 0,
+        "nonTracking": 0.0000139,
+        "total": 0.0000139
+    }
+}

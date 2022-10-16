@@ -1,0 +1,17 @@
+{
+    "name": "Upland Software Inc.",
+    "displayName": "Upland Software",
+    "properties": [
+        "clickability.com",
+        "formalyzer.com",
+        "leadlander.com",
+        "localytics.com",
+        "sf14g.com",
+        "trackalyzer.com"
+    ],
+    "prevalence": {
+        "tracking": 0.000041,
+        "nonTracking": 0.000143,
+        "total": 0.000184
+    }
+}

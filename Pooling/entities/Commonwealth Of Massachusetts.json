@@ -1,0 +1,14 @@
+{
+    "name": "Commonwealth Of Massachusetts",
+    "displayName": "Commonwealth Of Massachusetts",
+    "properties": [
+        "malegislature.gov",
+        "mass.gov",
+        "state.ma.us"
+    ],
+    "prevalence": {
+        "tracking": 0.00000678,
+        "nonTracking": 0,
+        "total": 0.00000678
+    }
+}

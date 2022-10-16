@@ -1,0 +1,12 @@
+{
+    "name": "PrestoSports, Inc.",
+    "displayName": "PrestoSports",
+    "properties": [
+        "prestosports.com"
+    ],
+    "prevalence": {
+        "tracking": 0.0000478,
+        "nonTracking": 0,
+        "total": 0.0000478
+    }
+}

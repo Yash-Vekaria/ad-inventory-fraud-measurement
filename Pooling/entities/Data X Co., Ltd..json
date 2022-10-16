@@ -1,0 +1,16 @@
+{
+    "name": "Data X Co., Ltd.",
+    "displayName": "dataX",
+    "properties": [
+        "bdash-cloud.com",
+        "bdash-marketing.com",
+        "bdash-studio.com",
+        "data-x.co.jp",
+        "data-x.com"
+    ],
+    "prevalence": {
+        "tracking": 0.000041,
+        "nonTracking": 0,
+        "total": 0.000041
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Etablissements Darty et Fils SASU",
+    "displayName": "Etablissements Darty et Fils SASU",
+    "properties": [
+        "darty.com"
+    ],
+    "prevalence": {
+        "tracking": 0.0001,
+        "nonTracking": 0,
+        "total": 0.0001
+    }
+}

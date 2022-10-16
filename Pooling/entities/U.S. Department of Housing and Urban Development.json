@@ -1,0 +1,12 @@
+{
+    "name": "U.S. Department of Housing and Urban Development",
+    "displayName": "U.S. Department of Housing and Urban Development",
+    "properties": [
+        "hud.gov"
+    ],
+    "prevalence": {
+        "tracking": 0.00000689,
+        "nonTracking": 0,
+        "total": 0.00000689
+    }
+}

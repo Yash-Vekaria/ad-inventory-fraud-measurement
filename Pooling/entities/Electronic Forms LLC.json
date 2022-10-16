@@ -1,0 +1,12 @@
+{
+    "name": "Electronic Forms LLC",
+    "displayName": "Electronic Forms",
+    "properties": [
+        "eforms.com"
+    ],
+    "prevalence": {
+        "tracking": 0.0000478,
+        "nonTracking": 0,
+        "total": 0.0000478
+    }
+}

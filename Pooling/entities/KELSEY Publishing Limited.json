@@ -1,0 +1,12 @@
+{
+    "name": "KELSEY Publishing Limited",
+    "displayName": "KELSEY Publishing",
+    "properties": [
+        "stuff.tv"
+    ],
+    "prevalence": {
+        "tracking": 0.0000136,
+        "nonTracking": 0,
+        "total": 0.0000136
+    }
+}

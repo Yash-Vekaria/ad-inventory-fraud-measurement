@@ -1,0 +1,12 @@
+{
+    "name": "Gwinnett County Public Schools",
+    "displayName": "Gwinnett County Public Schools",
+    "properties": [
+        "gwinnett.k12.ga.us"
+    ],
+    "prevalence": {
+        "tracking": 0.00000761,
+        "nonTracking": 0,
+        "total": 0.00000761
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Caulis Inc.",
+    "displayName": "Caulis",
+    "properties": [
+        "caulis.jp",
+        "fraud-alert.jp",
+        "fraud-alert.net"
+    ],
+    "prevalence": {
+        "tracking": 0.00000678,
+        "nonTracking": 0.00000678,
+        "total": 0.0000136
+    }
+}

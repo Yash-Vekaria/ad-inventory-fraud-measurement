@@ -1,0 +1,21 @@
+{
+    "name": "ProSiebenSat.1 Digital GmbH",
+    "displayName": "ProSiebenSat.1 Digital",
+    "properties": [
+        "7tv.de",
+        "galileo.tv",
+        "kabeleins.de",
+        "p7s1.io",
+        "prosieben.de",
+        "prosiebenmaxx.de",
+        "ran.de",
+        "sat1.de",
+        "sixx.de",
+        "the-voice-of-germany.de"
+    ],
+    "prevalence": {
+        "tracking": 0.0000273,
+        "nonTracking": 0.0000137,
+        "total": 0.000041
+    }
+}

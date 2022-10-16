@@ -1,0 +1,12 @@
+{
+    "name": "Publications Office of the EU",
+    "displayName": "Publications Office of the EU",
+    "properties": [
+        "europa.eu"
+    ],
+    "prevalence": {
+        "tracking": 0,
+        "nonTracking": 0.00013,
+        "total": 0.00013
+    }
+}

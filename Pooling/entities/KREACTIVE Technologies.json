@@ -1,0 +1,13 @@
+{
+    "name": "KREACTIVE Technologies",
+    "displayName": "KREACTIVE",
+    "properties": [
+        "digischool.fr",
+        "orientation.com"
+    ],
+    "prevalence": {
+        "tracking": 0.0001,
+        "nonTracking": 0,
+        "total": 0.0001
+    }
+}

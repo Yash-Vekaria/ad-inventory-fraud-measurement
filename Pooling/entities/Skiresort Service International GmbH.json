@@ -1,0 +1,14 @@
+{
+    "name": "Skiresort Service International GmbH",
+    "displayName": "Skiresort Service International",
+    "properties": [
+        "skiresort-service.com",
+        "skiresort.de",
+        "skiresort.info"
+    ],
+    "prevalence": {
+        "tracking": 0.000101,
+        "nonTracking": 0,
+        "total": 0.000101
+    }
+}

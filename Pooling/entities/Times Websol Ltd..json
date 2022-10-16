@@ -1,0 +1,12 @@
+{
+    "name": "Times Websol Ltd.",
+    "displayName": "Times Websol",
+    "properties": [
+        "gaana.com"
+    ],
+    "prevalence": {
+        "tracking": 0,
+        "nonTracking": 0.000101,
+        "total": 0.000101
+    }
+}

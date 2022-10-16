@@ -1,0 +1,12 @@
+{
+    "name": "Sunrise Communications AG",
+    "displayName": "Sunrise Communications",
+    "properties": [
+        "sunrise.ch"
+    ],
+    "prevalence": {
+        "tracking": 0.0001,
+        "nonTracking": 0,
+        "total": 0.0001
+    }
+}

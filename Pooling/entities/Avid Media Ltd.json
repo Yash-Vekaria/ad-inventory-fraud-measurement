@@ -1,0 +1,14 @@
+{
+    "name": "Avid Media Ltd",
+    "displayName": "Avid Media",
+    "properties": [
+        "avidglobalmedia.com",
+        "avidglobalmedia.eu",
+        "metadsp.co.uk"
+    ],
+    "prevalence": {
+        "tracking": 0.0000205,
+        "nonTracking": 0.0000205,
+        "total": 0.000041
+    }
+}

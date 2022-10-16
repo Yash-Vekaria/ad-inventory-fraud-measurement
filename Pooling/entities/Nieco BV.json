@@ -1,0 +1,12 @@
+{
+    "name": "Nieco BV",
+    "displayName": "Nieco",
+    "properties": [
+        "flow.ai"
+    ],
+    "prevalence": {
+        "tracking": 0.0001,
+        "nonTracking": 0,
+        "total": 0.0001
+    }
+}

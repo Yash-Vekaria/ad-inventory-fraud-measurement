@@ -1,0 +1,13 @@
+{
+    "name": "SpokenLayer",
+    "displayName": "SpokenLayer",
+    "properties": [
+        "spokenlayer.com",
+        "spokenlayer.net"
+    ],
+    "prevalence": {
+        "tracking": 0.0000205,
+        "nonTracking": 0,
+        "total": 0.0000205
+    }
+}

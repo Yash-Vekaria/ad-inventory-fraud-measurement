@@ -1,0 +1,16 @@
+{
+    "name": "Mediavine, Inc.",
+    "displayName": "Mediavine",
+    "properties": [
+        "grow.me",
+        "mediavine.com",
+        "moviefanatic.com",
+        "thehollywoodgossip.com",
+        "tvfanatic.com"
+    ],
+    "prevalence": {
+        "tracking": 0.0396,
+        "nonTracking": 0.0025,
+        "total": 0.0421
+    }
+}

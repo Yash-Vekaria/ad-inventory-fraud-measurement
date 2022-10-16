@@ -1,0 +1,15 @@
+{
+    "name": "SEEK LIMITED",
+    "displayName": "SEEK",
+    "properties": [
+        "seek.co.nz",
+        "seek.com",
+        "seek.com.au",
+        "seekcdn.com"
+    ],
+    "prevalence": {
+        "tracking": 0.000101,
+        "nonTracking": 0,
+        "total": 0.000101
+    }
+}

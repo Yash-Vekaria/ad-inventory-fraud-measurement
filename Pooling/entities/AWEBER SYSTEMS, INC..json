@@ -1,0 +1,13 @@
+{
+    "name": "AWEBER SYSTEMS, INC.",
+    "displayName": "AWEBER SYSTEMS",
+    "properties": [
+        "aweber-static.com",
+        "aweber.com"
+    ],
+    "prevalence": {
+        "tracking": 0.00105,
+        "nonTracking": 0.000464,
+        "total": 0.00151
+    }
+}

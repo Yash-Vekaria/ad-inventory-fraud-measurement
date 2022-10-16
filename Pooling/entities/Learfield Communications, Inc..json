@@ -1,0 +1,14 @@
+{
+    "name": "Learfield Communications, Inc.",
+    "displayName": "Learfield Communications",
+    "properties": [
+        "goheels.com",
+        "gopack.com",
+        "mutigers.com"
+    ],
+    "prevalence": {
+        "tracking": 0,
+        "nonTracking": 0.00000691,
+        "total": 0.00000691
+    }
+}

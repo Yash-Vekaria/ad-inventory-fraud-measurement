@@ -1,0 +1,13 @@
+{
+    "name": "web2roi",
+    "displayName": "web2roi",
+    "properties": [
+        "statshop.fr",
+        "sytsem.com"
+    ],
+    "prevalence": {
+        "tracking": 0.0001,
+        "nonTracking": 0,
+        "total": 0.0001
+    }
+}

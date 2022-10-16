@@ -1,0 +1,12 @@
+{
+    "name": "One Media Ltd",
+    "displayName": "One Media",
+    "properties": [
+        "popcash.net"
+    ],
+    "prevalence": {
+        "tracking": 0.000526,
+        "nonTracking": 0.00000683,
+        "total": 0.000533
+    }
+}

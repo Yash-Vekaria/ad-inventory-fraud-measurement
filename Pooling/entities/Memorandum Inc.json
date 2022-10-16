@@ -1,0 +1,12 @@
+{
+    "name": "Memorandum Inc",
+    "displayName": "Memo",
+    "properties": [
+        "memo.co"
+    ],
+    "prevalence": {
+        "tracking": 0.00013,
+        "nonTracking": 0.0000137,
+        "total": 0.000144
+    }
+}

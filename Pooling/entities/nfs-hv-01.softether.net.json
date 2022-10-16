@@ -1,0 +1,7 @@
+{
+    "name": "nfs-hv-01.softether.net",
+    "displayName": "nfs-hv-01.softether.net",
+    "properties": [
+        "nfs-nic.com"
+    ]
+}

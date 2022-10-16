@@ -1,0 +1,12 @@
+{
+    "name": "A Cloud Guru",
+    "displayName": "A Cloud Guru",
+    "properties": [
+        "acloud.guru"
+    ],
+    "prevalence": {
+        "tracking": 0.0000139,
+        "nonTracking": 0,
+        "total": 0.0000139
+    }
+}

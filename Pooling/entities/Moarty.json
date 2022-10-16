@@ -1,0 +1,12 @@
+{
+    "name": "Moarty",
+    "displayName": "Moarty",
+    "properties": [
+        "non.li"
+    ],
+    "prevalence": {
+        "tracking": 0.000116,
+        "nonTracking": 0.00000683,
+        "total": 0.000123
+    }
+}

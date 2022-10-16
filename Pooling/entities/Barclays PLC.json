@@ -1,0 +1,16 @@
+{
+    "name": "Barclays PLC",
+    "displayName": "Barclays",
+    "properties": [
+        "barclaycard.co.uk",
+        "barclaycard.de",
+        "barclaycardus.com",
+        "barclays.co.uk",
+        "barclaysus.com"
+    ],
+    "prevalence": {
+        "tracking": 0.0000137,
+        "nonTracking": 0,
+        "total": 0.0000137
+    }
+}

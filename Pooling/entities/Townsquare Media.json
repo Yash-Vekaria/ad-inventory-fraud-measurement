@@ -1,0 +1,21 @@
+{
+    "name": "Townsquare Media",
+    "displayName": "Townsquare Media",
+    "properties": [
+        "929nin.com",
+        "diffuser.fm",
+        "kfyo.com",
+        "lonestar1023.com",
+        "newstalk1290.com",
+        "nj1015.com",
+        "townsquare.media",
+        "townsquareblogs.com",
+        "townsquaremedia.com",
+        "ultimateclassicrock.com"
+    ],
+    "prevalence": {
+        "tracking": 0.000157,
+        "nonTracking": 0.0000273,
+        "total": 0.000184
+    }
+}

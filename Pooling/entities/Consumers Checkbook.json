@@ -1,0 +1,7 @@
+{
+    "name": "Consumers Checkbook",
+    "displayName": "Consumers Checkbook",
+    "properties": [
+        "checkbook.org"
+    ]
+}

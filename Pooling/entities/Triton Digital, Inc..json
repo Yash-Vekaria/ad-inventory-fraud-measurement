@@ -1,0 +1,16 @@
+{
+    "name": "Triton Digital, Inc.",
+    "displayName": "Triton Digital",
+    "properties": [
+        "listenlive.co",
+        "streamtheworld.com",
+        "tritondigital.com",
+        "tritondigital.net",
+        "tritondigitalcms.com"
+    ],
+    "prevalence": {
+        "tracking": 0.000566,
+        "nonTracking": 0.0000205,
+        "total": 0.000586
+    }
+}

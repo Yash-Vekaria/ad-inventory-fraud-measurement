@@ -1,0 +1,13 @@
+{
+    "name": "Discovery Communications Europe Limited",
+    "displayName": "Discovery Communications Europe",
+    "properties": [
+        "disco-api.com",
+        "dnitv.com"
+    ],
+    "prevalence": {
+        "tracking": 0.0000546,
+        "nonTracking": 0.00000683,
+        "total": 0.0000614
+    }
+}

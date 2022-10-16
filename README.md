@@ -74,10 +74,11 @@ The following scenarios describe different misrepresentations in `sellers.json` 
   <img src="https://github.com/Yash-Vekaria/Ad-Inventory-Fraud-Measurement/files/9793769/sellersjson-inventory-fraud.pdf">
 </p>
 
-The counts for above misrepresentations can be discovered in ads.txt and sellers.json files using the `summary_adstxt.csv` and `summary_sellersjson.csv` files generated above. Misrepresentation codes have been parallelized using Python `multiprocessing` library because usually even for 100 websites, the `summary_sellersjson.csv` becomes very large and non-parallel processing can take more time. `chunksize` representing the number of websites to be assigned to each thread and `agents` representing the number of threads to be run in parallel are initialized inside the `main()` function. These should be customized as per the number of websites studied by you.
+The counts for above misrepresentations can be discovered in ads.txt and sellers.json files using the `summary_adstxt.csv` and `summary_sellersjson.csv` files respectively generated above. 
 
 The following commands need to be run inside `Misrepresentations` directory:
 1. **ads.txt misrepresentations**: Output file: `adstxt_misrepresentations.csv`
+   `discover_adstxt_misrepresentations.py` has been parallelized using Python `multiprocessing` library because usually even for 5 websites, the `summary_sellersjson.csv` becomes very large and non-parallel processing can take more time. `chunksize` representing the number of websites to be assigned to each thread and `agents` representing the number of threads to be run in parallel are initialized inside the `main()` function. These should be customized as per the number of websites studied by you.
    ```
    python discover_adstxt_misrepresentations.py
    ``` 
@@ -85,6 +86,21 @@ The following commands need to be run inside `Misrepresentations` directory:
    ```
    python discover_sellersjson_misrepresentations.py
    ```
+
+## Discovering Pooling
+
+Pooling can be studied statically as well as dynamically when websites are visited in real-time.
+
+### Static Pooling
+
+1. Do something
+2. In order to obtain the parent organization of each domain under our study as well as for the top 100K tranco domains, Entity-Organization List provided by DuckDuckGo (DDG) in their `tracker-radar` repository is used. Since, this repository is huge, it is recommended to clone it in a temporary folder using the following command.
+   ```
+   git clone https://github.com/duckduckgo/tracker-radar.git
+   ```
+3. Once, cloning completes, cut the folder titled `entities` from the cloned repository and paste it inside the `Pooling` directory of the current project's folder. `entities` is referenced from this location by the `discover_static_pools.py` script. If it is placed at some other location, remember to change the location at the global variables defined in this script.
+4. The top 100K Tranco websites are extracted from the top 1M Tranco websites available at `https://tranco-list.eu/list/25749/1000000` and accesssed on 15th October 2022. 
+5. Top 100K domains are pasted from this list in `top_100k_websites.txt` and `ads.txt-crawler` is ran on these top 100K domains to download their ads.txt files (wherever available) in the directory `./ads.txt-crawler/adstxt_top100k/`. It is recommended to download and use the latest tranco ranked list of domains whenever performing this study by updating the `top_100k_websites.txt` file and re-crawling their ads.txt files. If required, even all the 1M websites can be used for the the Pooling study.
 
 
 ## Citation

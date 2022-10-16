@@ -1,0 +1,12 @@
+{
+    "name": "American Association for the Advancement of Science",
+    "displayName": "American Association for the Advancement of Science",
+    "properties": [
+        "eurekalert.org"
+    ],
+    "prevalence": {
+        "tracking": 0,
+        "nonTracking": 0.0000152,
+        "total": 0.0000152
+    }
+}

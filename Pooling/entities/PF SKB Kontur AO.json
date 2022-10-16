@@ -1,0 +1,12 @@
+{
+    "name": "PF SKB Kontur AO",
+    "displayName": "PF SKB Kontur AO",
+    "properties": [
+        "kontur.ru"
+    ],
+    "prevalence": {
+        "tracking": 0.0000273,
+        "nonTracking": 0,
+        "total": 0.0000273
+    }
+}

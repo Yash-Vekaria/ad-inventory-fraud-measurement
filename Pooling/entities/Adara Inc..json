@@ -1,0 +1,12 @@
+{
+    "name": "Adara Inc.",
+    "displayName": "Adara",
+    "properties": [
+        "adara.com"
+    ],
+    "prevalence": {
+        "tracking": 0.00041,
+        "nonTracking": 0.0000137,
+        "total": 0.000424
+    }
+}

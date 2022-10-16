@@ -1,0 +1,16 @@
+{
+    "name": "Deutsches Institut f. Medizinische Dokumentation und Information",
+    "displayName": "Deutsches Institut f. Medizinische Dokumentation und Information",
+    "properties": [
+        "bundesgesundheitsministerium.de",
+        "bzga.de",
+        "dimdi.de",
+        "familienplanung.de",
+        "kindergesundheit-info.de"
+    ],
+    "prevalence": {
+        "tracking": 0.0000205,
+        "nonTracking": 0.00000683,
+        "total": 0.0000273
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "name": "SpurIT UAB",
+    "displayName": "SpurIT",
+    "properties": [
+        "cdn-spurit.com",
+        "spur-i-t.com"
+    ],
+    "prevalence": {
+        "tracking": 0.000259,
+        "nonTracking": 0.0000614,
+        "total": 0.00032
+    }
+}

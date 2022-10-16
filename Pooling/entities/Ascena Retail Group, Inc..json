@@ -1,0 +1,17 @@
+{
+    "name": "Ascena Retail Group, Inc.",
+    "displayName": "Ascena Retail Group",
+    "properties": [
+        "anntaylor.com",
+        "dressbarn.com",
+        "lanebryant.com",
+        "loft.com",
+        "maurices.com",
+        "shopjustice.com"
+    ],
+    "prevalence": {
+        "tracking": 0.00000683,
+        "nonTracking": 0,
+        "total": 0.00000683
+    }
+}

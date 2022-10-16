@@ -1,0 +1,9 @@
+{
+    "name": "Liquidity Services",
+    "displayName": "Liquidity Services",
+    "properties": [
+        "govdeals.com",
+        "govliquidation.com",
+        "liquidation.com"
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "name": "Ernsting's family GmbH und Co KG",
+    "displayName": "Ernsting's family",
+    "properties": [
+        "ernstings-family.com",
+        "ernstings-family.de"
+    ],
+    "prevalence": {
+        "tracking": 0.0000205,
+        "nonTracking": 0,
+        "total": 0.0000205
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "name": "The Washington Post",
+    "displayName": "The Washington Post",
+    "properties": [
+        "arcpublishing.com",
+        "arcxp.com",
+        "digitalink.com",
+        "nile.works",
+        "posttv.com",
+        "wapo.com",
+        "wapodev.com",
+        "wapostage.com",
+        "washingtonpost.com",
+        "washpost.engineering",
+        "wpdigital.net",
+        "zeustechnology.com"
+    ],
+    "prevalence": {
+        "tracking": 0.0022,
+        "nonTracking": 0.000901,
+        "total": 0.0031
+    }
+}

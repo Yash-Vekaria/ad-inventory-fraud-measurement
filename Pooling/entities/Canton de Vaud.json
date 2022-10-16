@@ -1,0 +1,12 @@
+{
+    "name": "Canton de Vaud",
+    "displayName": "Canton de Vaud",
+    "properties": [
+        "vd.ch"
+    ],
+    "prevalence": {
+        "tracking": 0.0001,
+        "nonTracking": 0,
+        "total": 0.0001
+    }
+}

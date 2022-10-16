@@ -1,0 +1,16 @@
+{
+    "name": "ContentSquare",
+    "displayName": "ContentSquare",
+    "properties": [
+        "content-square.net",
+        "contentsquare.com",
+        "contentsquare.net",
+        "csq.io",
+        "csqtrk.net"
+    ],
+    "prevalence": {
+        "tracking": 0.0064,
+        "nonTracking": 0.000341,
+        "total": 0.00674
+    }
+}

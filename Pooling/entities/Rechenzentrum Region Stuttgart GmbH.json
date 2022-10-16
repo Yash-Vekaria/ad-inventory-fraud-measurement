@@ -1,0 +1,12 @@
+{
+    "name": "Rechenzentrum Region Stuttgart GmbH",
+    "displayName": "Rechenzentrum Region Stuttgart",
+    "properties": [
+        "rzrs.de"
+    ],
+    "prevalence": {
+        "tracking": 0.00000759,
+        "nonTracking": 0,
+        "total": 0.00000759
+    }
+}

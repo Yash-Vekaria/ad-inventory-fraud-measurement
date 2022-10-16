@@ -1,0 +1,12 @@
+{
+    "name": "Choozle, Inc.",
+    "displayName": "Choozle",
+    "properties": [
+        "choozle.com"
+    ],
+    "prevalence": {
+        "tracking": 0.00175,
+        "nonTracking": 0.00000683,
+        "total": 0.00176
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "name": "RUN",
+    "displayName": "RUN",
+    "properties": [
+        "runadtag.com",
+        "rundsp.com"
+    ],
+    "prevalence": {
+        "tracking": 0,
+        "nonTracking": 0.000444,
+        "total": 0.000444
+    }
+}

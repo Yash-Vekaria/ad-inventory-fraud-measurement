@@ -1,0 +1,12 @@
+{
+    "name": "ITTECO",
+    "displayName": "ITTECO",
+    "properties": [
+        "iframe.ly"
+    ],
+    "prevalence": {
+        "tracking": 0.000157,
+        "nonTracking": 0.000102,
+        "total": 0.000259
+    }
+}

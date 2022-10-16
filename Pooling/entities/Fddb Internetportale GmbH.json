@@ -1,0 +1,12 @@
+{
+    "name": "Fddb Internetportale GmbH",
+    "displayName": "Fddb Internetportale",
+    "properties": [
+        "fddb.info"
+    ],
+    "prevalence": {
+        "tracking": 0.0001,
+        "nonTracking": 0,
+        "total": 0.0001
+    }
+}

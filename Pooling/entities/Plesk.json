@@ -1,0 +1,30 @@
+{
+    "name": "Plesk",
+    "displayName": "Plesk",
+    "properties": [
+        "belstat.com",
+        "bigescapegames.com",
+        "brd-schwindel.ru",
+        "ejabat.co",
+        "games2rule.com",
+        "kak-bit-new.ru",
+        "kamusbahasainggris.com",
+        "michellemalkin.com",
+        "mokkels.nl",
+        "plesk.com",
+        "pornego.com",
+        "quotationspage.com",
+        "realtek.com.tw",
+        "savingtoinvest.com",
+        "thehiddenpages.com",
+        "thepeoplehistory.com",
+        "voirvf.net",
+        "wowescape.com",
+        "xmasclock.com"
+    ],
+    "prevalence": {
+        "tracking": 0.0001,
+        "nonTracking": 0,
+        "total": 0.0001
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "name": "Hestview Limited",
+    "displayName": "Hestview",
+    "properties": [
+        "skybet.com",
+        "sportinglife.com"
+    ],
+    "prevalence": {
+        "tracking": 0.000202,
+        "nonTracking": 0.000101,
+        "total": 0.000303
+    }
+}

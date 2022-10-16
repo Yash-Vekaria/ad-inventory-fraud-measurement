@@ -1,0 +1,12 @@
+{
+    "name": "Dash Core Group, Inc.",
+    "displayName": "Dash Core Group",
+    "properties": [
+        "dash.org"
+    ],
+    "prevalence": {
+        "tracking": 0,
+        "nonTracking": 0.000101,
+        "total": 0.000101
+    }
+}

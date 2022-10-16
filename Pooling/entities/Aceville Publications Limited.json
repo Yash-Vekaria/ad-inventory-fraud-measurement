@@ -1,0 +1,13 @@
+{
+    "name": "Aceville Publications Limited",
+    "displayName": "Aceville Publications",
+    "properties": [
+        "aceville.com",
+        "gunmart.net"
+    ],
+    "prevalence": {
+        "tracking": 0.00000681,
+        "nonTracking": 0,
+        "total": 0.00000681
+    }
+}

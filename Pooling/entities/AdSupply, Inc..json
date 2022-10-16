@@ -1,0 +1,13 @@
+{
+    "name": "AdSupply, Inc.",
+    "displayName": "AdSupply",
+    "properties": [
+        "4dsply.com",
+        "adsupply.com"
+    ],
+    "prevalence": {
+        "tracking": 0.000328,
+        "nonTracking": 0,
+        "total": 0.000328
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "name": "RH Reality Check",
+    "displayName": "RH Reality Check",
+    "properties": [
+        "rewire.news"
+    ]
+}

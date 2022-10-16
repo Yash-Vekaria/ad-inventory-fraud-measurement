@@ -1,0 +1,42 @@
+{
+    "name": "Tribune Media Company",
+    "displayName": "Tribune Media Company",
+    "properties": [
+        "covers.com",
+        "fox13now.com",
+        "fox17online.com",
+        "fox2now.com",
+        "fox40.com",
+        "fox43.com",
+        "fox4kc.com",
+        "fox59.com",
+        "fox5sandiego.com",
+        "fox61.com",
+        "fox6now.com",
+        "fox8.com",
+        "kdvr.com",
+        "kfor.com",
+        "ktla.com",
+        "myfox8.com",
+        "pix11.com",
+        "prosportsdaily.com",
+        "q13fox.com",
+        "tribtv.com",
+        "wgno.com",
+        "wgnradio.com",
+        "wgntv.com",
+        "whnt.com",
+        "whotv.com",
+        "wnep.com",
+        "wqad.com",
+        "wreg.com",
+        "wtkr.com",
+        "wtvr.com",
+        "zap2it.com"
+    ],
+    "prevalence": {
+        "tracking": 0,
+        "nonTracking": 0.0000205,
+        "total": 0.0000205
+    }
+}

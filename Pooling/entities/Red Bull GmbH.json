@@ -1,0 +1,37 @@
+{
+    "name": "Red Bull GmbH",
+    "displayName": "Red Bull",
+    "properties": [
+        "acpredbulldrivers.pt",
+        "bergwelten.com",
+        "dierotenbullen.com",
+        "flyingbulls.at",
+        "hangar-7.com",
+        "organicsbyredbull.com",
+        "rbmaradio.com",
+        "rbmbtnx.net",
+        "redbull.at",
+        "redbull.co.uk",
+        "redbull.com",
+        "redbull.pt",
+        "redbull.tv",
+        "redbullaws.com",
+        "redbullflugtag.com",
+        "redbullmediahouse.com",
+        "redbullmobile.om",
+        "redbullmusicacademy.com",
+        "redbullradio.com",
+        "redbullrecords.com",
+        "redbulls.com",
+        "redbullsalzburg.at",
+        "servus.com",
+        "servustv.com",
+        "speedweek.com",
+        "tauroa.at"
+    ],
+    "prevalence": {
+        "tracking": 0.00000683,
+        "nonTracking": 0,
+        "total": 0.00000683
+    }
+}

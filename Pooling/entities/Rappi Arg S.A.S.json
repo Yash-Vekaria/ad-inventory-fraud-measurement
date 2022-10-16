@@ -1,0 +1,16 @@
+{
+    "name": "Rappi Arg S.A.S",
+    "displayName": "Rappi",
+    "properties": [
+        "avocado.delivery",
+        "payit.mx",
+        "rappi.com",
+        "rappi.com.ar",
+        "rappi.com.co"
+    ],
+    "prevalence": {
+        "tracking": 0,
+        "nonTracking": 0.00000683,
+        "total": 0.00000683
+    }
+}

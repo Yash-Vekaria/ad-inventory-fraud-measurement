@@ -1,0 +1,12 @@
+{
+    "name": "Dienst voor het Kadaster en de openbare registers",
+    "displayName": "Dienst voor het Kadaster en de openbare registers",
+    "properties": [
+        "kadaster.nl"
+    ],
+    "prevalence": {
+        "tracking": 0,
+        "nonTracking": 0.00000681,
+        "total": 0.00000681
+    }
+}

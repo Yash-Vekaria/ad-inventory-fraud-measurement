@@ -1,0 +1,14 @@
+{
+    "name": "Bobit Business Media",
+    "displayName": "Bobit Business Media",
+    "properties": [
+        "bobitstudios.com",
+        "moderntiredealer.com",
+        "policemag.com"
+    ],
+    "prevalence": {
+        "tracking": 0.00000683,
+        "nonTracking": 0.00000683,
+        "total": 0.0000137
+    }
+}

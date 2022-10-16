@@ -1,0 +1,22 @@
+{
+    "name": "Scripps Networks LLC",
+    "displayName": "Scripps Networks",
+    "properties": [
+        "cookingchanneltv.com",
+        "diynetwork.com",
+        "food.com",
+        "foodnetwork.com",
+        "geniuskitchen.com",
+        "greatamericancountry.com",
+        "hgtv.com",
+        "scrippsnetworks.com",
+        "sndimg.com",
+        "snidigital.com",
+        "travelchannel.com"
+    ],
+    "prevalence": {
+        "tracking": 0.000041,
+        "nonTracking": 0.00000683,
+        "total": 0.0000478
+    }
+}

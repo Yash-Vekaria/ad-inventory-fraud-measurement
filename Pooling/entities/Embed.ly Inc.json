@@ -1,0 +1,13 @@
+{
+    "name": "Embed.ly Inc",
+    "displayName": "Embed.ly",
+    "properties": [
+        "embed.ly",
+        "embedly.com"
+    ],
+    "prevalence": {
+        "tracking": 0.000437,
+        "nonTracking": 0.000778,
+        "total": 0.00121
+    }
+}

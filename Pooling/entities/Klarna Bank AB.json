@@ -1,0 +1,31 @@
+{
+    "name": "Klarna Bank AB",
+    "displayName": "Klarna Bank",
+    "properties": [
+        "billpay.at",
+        "billpay.ch",
+        "billpay.de",
+        "billpay.nl",
+        "klarna.app",
+        "klarna.at",
+        "klarna.be",
+        "klarna.ch",
+        "klarna.co.nz",
+        "klarna.co.uk",
+        "klarna.com",
+        "klarna.com.au",
+        "klarna.de",
+        "klarna.dk",
+        "klarna.nz",
+        "klarnacdn.net",
+        "klarnaevt.com",
+        "klarnapayments.com",
+        "klarnaservices.com",
+        "sofort.com"
+    ],
+    "prevalence": {
+        "tracking": 0.00341,
+        "nonTracking": 0.000614,
+        "total": 0.00402
+    }
+}

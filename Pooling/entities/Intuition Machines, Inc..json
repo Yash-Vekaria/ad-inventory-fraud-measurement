@@ -1,0 +1,12 @@
+{
+    "name": "Intuition Machines, Inc.",
+    "displayName": "Intuition Machines",
+    "properties": [
+        "hcaptcha.com"
+    ],
+    "prevalence": {
+        "tracking": 0.00427,
+        "nonTracking": 0.000321,
+        "total": 0.00459
+    }
+}

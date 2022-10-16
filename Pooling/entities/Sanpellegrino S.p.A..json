@@ -1,0 +1,12 @@
+{
+    "name": "Sanpellegrino S.p.A.",
+    "displayName": "Sanpellegrino",
+    "properties": [
+        "finedininglovers.com"
+    ],
+    "prevalence": {
+        "tracking": 0,
+        "nonTracking": 0.00000694,
+        "total": 0.00000694
+    }
+}

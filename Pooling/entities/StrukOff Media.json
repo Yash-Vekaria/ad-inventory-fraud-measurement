@@ -1,0 +1,19 @@
+{
+    "name": "StrukOff Media",
+    "displayName": "StrukOff Media",
+    "properties": [
+        "69m.info",
+        "bobi-bobi.info",
+        "bobi-mobi.info",
+        "mp-b.info",
+        "mp-c.info",
+        "mp-https.info",
+        "mpay3.info",
+        "mpay69.com"
+    ],
+    "prevalence": {
+        "tracking": 0.00000683,
+        "nonTracking": 0.0000137,
+        "total": 0.0000205
+    }
+}

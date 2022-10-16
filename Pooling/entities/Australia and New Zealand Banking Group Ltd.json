@@ -1,0 +1,13 @@
+{
+    "name": "Australia and New Zealand Banking Group Ltd",
+    "displayName": "Australia and New Zealand Banking Group",
+    "properties": [
+        "anz.com",
+        "anz.com.au"
+    ],
+    "prevalence": {
+        "tracking": 0.0001,
+        "nonTracking": 0,
+        "total": 0.0001
+    }
+}

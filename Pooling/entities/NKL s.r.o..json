@@ -1,0 +1,14 @@
+{
+    "name": "NKL s.r.o.",
+    "displayName": "NKL",
+    "properties": [
+        "xnxx-cdn.com",
+        "xnxx.com",
+        "xnxx.com.au"
+    ],
+    "prevalence": {
+        "tracking": 0.000519,
+        "nonTracking": 0.000573,
+        "total": 0.00109
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "name": "Roku, Inc.",
+    "displayName": "Roku",
+    "properties": [
+        "dataxu.com",
+        "ravm.net",
+        "ravm.tv",
+        "roku.com",
+        "rokulabs.net",
+        "rokutime.com",
+        "w55c.net"
+    ],
+    "prevalence": {
+        "tracking": 0.0651,
+        "nonTracking": 0.000253,
+        "total": 0.0654
+    }
+}

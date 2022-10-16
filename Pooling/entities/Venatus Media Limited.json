@@ -1,0 +1,13 @@
+{
+    "name": "Venatus Media Limited",
+    "displayName": "Venatus Media",
+    "properties": [
+        "venatusmedia.com",
+        "vntsm.com"
+    ],
+    "prevalence": {
+        "tracking": 0.0012,
+        "nonTracking": 0.0000205,
+        "total": 0.00122
+    }
+}

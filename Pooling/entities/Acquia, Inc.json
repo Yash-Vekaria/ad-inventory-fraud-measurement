@@ -1,0 +1,23 @@
+{
+    "name": "Acquia, Inc",
+    "displayName": "Acquia",
+    "properties": [
+        "accu-chek.com",
+        "acquia-sites.com",
+        "acquia.com",
+        "cityofirvine.org",
+        "e3develop.com",
+        "flydulles.com",
+        "gpb.org",
+        "guterrat.de",
+        "hamilton.ca",
+        "healthtalk.org",
+        "stonybrook.edu",
+        "thebookseller.com"
+    ],
+    "prevalence": {
+        "tracking": 0.00058,
+        "nonTracking": 0.0000751,
+        "total": 0.000655
+    }
+}

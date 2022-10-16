@@ -1,0 +1,24 @@
+{
+    "name": "Canonical, Ltd.",
+    "displayName": "Canonical",
+    "properties": [
+        "kubuntu.org",
+        "launchpad.net",
+        "launchpadlibrarian.net",
+        "lubuntu.me",
+        "snapcraft.io",
+        "ubuntu-de.org",
+        "ubuntu-it.org",
+        "ubuntu-nl.org",
+        "ubuntu.com",
+        "ubuntu.ru",
+        "ubuntuforums.org",
+        "ubuntustudio.org",
+        "xubuntu.org"
+    ],
+    "prevalence": {
+        "tracking": 0.0000205,
+        "nonTracking": 0.0000341,
+        "total": 0.0000546
+    }
+}

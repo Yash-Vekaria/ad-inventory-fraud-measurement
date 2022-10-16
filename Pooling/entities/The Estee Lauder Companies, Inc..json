@@ -1,0 +1,12 @@
+{
+    "name": "The Estee Lauder Companies, Inc.",
+    "displayName": "The Estee Lauder Companies",
+    "properties": [
+        "esteelauder.com"
+    ],
+    "prevalence": {
+        "tracking": 0.0000139,
+        "nonTracking": 0,
+        "total": 0.0000139
+    }
+}

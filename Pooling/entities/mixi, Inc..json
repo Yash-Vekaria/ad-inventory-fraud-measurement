@@ -1,0 +1,21 @@
+{
+    "name": "mixi, Inc.",
+    "displayName": "mixi",
+    "properties": [
+        "chibajets.jp",
+        "fctokyo.co.jp",
+        "lovegraph.me",
+        "mixi-empowerment.jp",
+        "mixi.co.jp",
+        "mixi.jp",
+        "mixi.net",
+        "monster-strike.com",
+        "netdreamers.co.jp",
+        "xflag.com"
+    ],
+    "prevalence": {
+        "tracking": 0.00000683,
+        "nonTracking": 0.000041,
+        "total": 0.0000478
+    }
+}

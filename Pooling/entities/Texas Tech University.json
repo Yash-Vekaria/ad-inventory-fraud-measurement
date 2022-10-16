@@ -1,0 +1,12 @@
+{
+    "name": "Texas Tech University",
+    "displayName": "Texas Tech University",
+    "properties": [
+        "ttu.edu"
+    ],
+    "prevalence": {
+        "tracking": 0.00000683,
+        "nonTracking": 0,
+        "total": 0.00000683
+    }
+}

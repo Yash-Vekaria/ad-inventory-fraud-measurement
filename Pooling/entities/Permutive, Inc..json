@@ -1,0 +1,14 @@
+{
+    "name": "Permutive, Inc.",
+    "displayName": "Permutive",
+    "properties": [
+        "permutive.app",
+        "permutive.com",
+        "prmutv.co"
+    ],
+    "prevalence": {
+        "tracking": 0.0124,
+        "nonTracking": 0.000614,
+        "total": 0.013
+    }
+}

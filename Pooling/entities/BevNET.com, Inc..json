@@ -1,0 +1,13 @@
+{
+    "name": "BevNET.com, Inc.",
+    "displayName": "BevNET.com",
+    "properties": [
+        "brewbound.com",
+        "nosh.com"
+    ],
+    "prevalence": {
+        "tracking": 0.0000152,
+        "nonTracking": 0,
+        "total": 0.0000152
+    }
+}

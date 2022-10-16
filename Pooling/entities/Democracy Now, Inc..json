@@ -1,0 +1,12 @@
+{
+    "name": "Democracy Now, Inc.",
+    "displayName": "Democracy Now",
+    "properties": [
+        "democracynow.org"
+    ],
+    "prevalence": {
+        "tracking": 0.00000683,
+        "nonTracking": 0,
+        "total": 0.00000683
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Bank of America Corporation",
+    "displayName": "Bank of America",
+    "properties": [
+        "bac-assets.com",
+        "bankofamerica.com",
+        "mbna.co.uk",
+        "merrilledge.com",
+        "ml.com",
+        "mymerrill.com"
+    ],
+    "prevalence": {
+        "tracking": 0.0000205,
+        "nonTracking": 0,
+        "total": 0.0000205
+    }
+}

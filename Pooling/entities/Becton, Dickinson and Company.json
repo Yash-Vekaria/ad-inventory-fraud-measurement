@@ -1,0 +1,12 @@
+{
+    "name": "Becton, Dickinson and Company",
+    "displayName": "Becton, Dickinson and Company",
+    "properties": [
+        "bd.com"
+    ],
+    "prevalence": {
+        "tracking": 0.00000683,
+        "nonTracking": 0,
+        "total": 0.00000683
+    }
+}

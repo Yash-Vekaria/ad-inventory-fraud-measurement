@@ -1,0 +1,12 @@
+{
+    "name": "State of Delaware",
+    "displayName": "State of Delaware",
+    "properties": [
+        "delaware.gov"
+    ],
+    "prevalence": {
+        "tracking": 0.00000759,
+        "nonTracking": 0,
+        "total": 0.00000759
+    }
+}

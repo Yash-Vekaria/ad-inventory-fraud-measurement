@@ -1,0 +1,16 @@
+{
+    "name": "Centers for Medicare & Medicaid Services",
+    "displayName": "Centers for Medicare & Medicaid Services",
+    "properties": [
+        "cms.gov",
+        "healthcare.gov",
+        "medicaid.gov",
+        "medicare.gov",
+        "mymedicare.gov"
+    ],
+    "prevalence": {
+        "tracking": 0.0000069,
+        "nonTracking": 0,
+        "total": 0.0000069
+    }
+}

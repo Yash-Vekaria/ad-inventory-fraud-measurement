@@ -1,0 +1,12 @@
+{
+    "name": "AGENCIA PARA LA ADMINISTRACION DIGITAL DE LA COMUNIDAD DE MADRID",
+    "displayName": "AGENCIA PARA LA ADMINISTRACION DIGITAL DE LA COMUNIDAD DE MADRID",
+    "properties": [
+        "comunidad.madrid"
+    ],
+    "prevalence": {
+        "tracking": 0.00000678,
+        "nonTracking": 0,
+        "total": 0.00000678
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Xero Limited",
+    "displayName": "Xero",
+    "properties": [
+        "xero.com"
+    ],
+    "prevalence": {
+        "tracking": 0.00000683,
+        "nonTracking": 0,
+        "total": 0.00000683
+    }
+}

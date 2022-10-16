@@ -1,0 +1,13 @@
+{
+    "name": "Roblox Corporation",
+    "displayName": "Roblox",
+    "properties": [
+        "rbxcdn.com",
+        "roblox.com"
+    ],
+    "prevalence": {
+        "tracking": 0.0000137,
+        "nonTracking": 0.0000341,
+        "total": 0.0000478
+    }
+}

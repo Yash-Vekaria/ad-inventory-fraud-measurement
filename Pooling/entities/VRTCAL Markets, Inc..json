@@ -1,0 +1,12 @@
+{
+    "name": "VRTCAL Markets, Inc.",
+    "displayName": "VRTCAL Markets",
+    "properties": [
+        "vrtcal.com"
+    ],
+    "prevalence": {
+        "tracking": 0.00111,
+        "nonTracking": 0.0000205,
+        "total": 0.00113
+    }
+}

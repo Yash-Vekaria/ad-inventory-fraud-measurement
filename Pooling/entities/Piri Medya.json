@@ -1,0 +1,12 @@
+{
+    "name": "Piri Medya",
+    "displayName": "Piri Medya",
+    "properties": [
+        "piri.net"
+    ],
+    "prevalence": {
+        "tracking": 0.00000683,
+        "nonTracking": 0,
+        "total": 0.00000683
+    }
+}

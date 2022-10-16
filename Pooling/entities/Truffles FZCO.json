@@ -1,0 +1,12 @@
+{
+    "name": "Truffles FZCO",
+    "displayName": "Truffle",
+    "properties": [
+        "truffle.bid"
+    ],
+    "prevalence": {
+        "tracking": 0.00000683,
+        "nonTracking": 0.0108,
+        "total": 0.0108
+    }
+}

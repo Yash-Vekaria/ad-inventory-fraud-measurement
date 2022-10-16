@@ -1,0 +1,13 @@
+{
+    "name": "Sogei - Societa' Generale d'Informatica S.p.A.",
+    "displayName": "Sogei - Societa' Generale d'Informatica",
+    "properties": [
+        "agenziaentrate.gov.it",
+        "agenziaentrate.it"
+    ],
+    "prevalence": {
+        "tracking": 0.00000678,
+        "nonTracking": 0,
+        "total": 0.00000678
+    }
+}

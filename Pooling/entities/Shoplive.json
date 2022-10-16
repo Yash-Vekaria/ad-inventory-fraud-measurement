@@ -1,0 +1,8 @@
+{
+    "name": "Shoplive",
+    "displayName": "Shoplive",
+    "properties": [
+        "shoplive.cloud",
+        "shoplive.guide"
+    ]
+}

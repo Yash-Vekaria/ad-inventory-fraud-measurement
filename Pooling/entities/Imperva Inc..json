@@ -1,0 +1,17 @@
+{
+    "name": "Imperva Inc.",
+    "displayName": "Imperva",
+    "properties": [
+        "areyouahuman.com",
+        "distil.us",
+        "distilnetworks.com",
+        "distiltag.com",
+        "incapdns.net",
+        "incapsula.com"
+    ],
+    "prevalence": {
+        "tracking": 0.00139,
+        "nonTracking": 0.000171,
+        "total": 0.00156
+    }
+}

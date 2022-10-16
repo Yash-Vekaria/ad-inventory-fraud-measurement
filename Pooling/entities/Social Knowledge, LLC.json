@@ -1,0 +1,25 @@
+{
+    "name": "Social Knowledge, LLC",
+    "displayName": "Social Knowledge",
+    "properties": [
+        "airforums.com",
+        "bigsoccer.com",
+        "cruisersforum.com",
+        "doityourselfrv.com",
+        "early-retirement.org",
+        "fuelly.com",
+        "irv2.com",
+        "oogala.com",
+        "rvforum.net",
+        "rvldf.com",
+        "rvlife.com",
+        "rvparkreviews.com",
+        "snugshack.com",
+        "socialknowledge.com"
+    ],
+    "prevalence": {
+        "tracking": 0.000041,
+        "nonTracking": 0.0000341,
+        "total": 0.0000751
+    }
+}

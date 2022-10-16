@@ -1,0 +1,16 @@
+{
+    "name": "Shutterstock Inc.",
+    "displayName": "Shutterstock",
+    "properties": [
+        "bigstockphoto.com",
+        "picdn.net",
+        "premiumbeat.com",
+        "rocketstock.com",
+        "shutterstock.com"
+    ],
+    "prevalence": {
+        "tracking": 0.0000341,
+        "nonTracking": 0.0000546,
+        "total": 0.0000887
+    }
+}

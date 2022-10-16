@@ -1,0 +1,21 @@
+{
+    "name": "Thomson Reuters",
+    "displayName": "Thomson Reuters",
+    "properties": [
+        "findlaw.com",
+        "findlawimages.com",
+        "lawinfo.com",
+        "lawyermarketing.com",
+        "reuters.com",
+        "reutersmedia.net",
+        "superlawyers.com",
+        "thomsonreuters.com",
+        "webofknowledge.com",
+        "westlaw.com"
+    ],
+    "prevalence": {
+        "tracking": 0.0000478,
+        "nonTracking": 0.0000273,
+        "total": 0.0000751
+    }
+}

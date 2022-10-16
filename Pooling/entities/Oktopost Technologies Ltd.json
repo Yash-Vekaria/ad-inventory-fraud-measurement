@@ -1,0 +1,12 @@
+{
+    "name": "Oktopost Technologies Ltd",
+    "displayName": "Oktopost",
+    "properties": [
+        "oktopost.com"
+    ],
+    "prevalence": {
+        "tracking": 0.000403,
+        "nonTracking": 0.0000137,
+        "total": 0.000417
+    }
+}

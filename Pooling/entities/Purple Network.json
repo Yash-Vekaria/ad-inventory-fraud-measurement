@@ -1,0 +1,12 @@
+{
+    "name": "Purple Network",
+    "displayName": "Purple Network",
+    "properties": [
+        "ho-mobile.it"
+    ],
+    "prevalence": {
+        "tracking": 0.0001,
+        "nonTracking": 0,
+        "total": 0.0001
+    }
+}

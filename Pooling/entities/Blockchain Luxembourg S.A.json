@@ -1,0 +1,13 @@
+{
+    "name": "Blockchain Luxembourg S.A",
+    "displayName": "Blockchain Luxembourg",
+    "properties": [
+        "blockchain.com",
+        "blockchain.info"
+    ],
+    "prevalence": {
+        "tracking": 0,
+        "nonTracking": 0.00000683,
+        "total": 0.00000683
+    }
+}

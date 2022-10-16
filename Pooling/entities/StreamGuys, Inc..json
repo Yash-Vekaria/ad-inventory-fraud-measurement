@@ -1,0 +1,12 @@
+{
+    "name": "StreamGuys, Inc.",
+    "displayName": "StreamGuys",
+    "properties": [
+        "streamguys1.com"
+    ],
+    "prevalence": {
+        "tracking": 0.0000341,
+        "nonTracking": 0.0000683,
+        "total": 0.000102
+    }
+}

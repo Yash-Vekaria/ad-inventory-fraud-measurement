@@ -1,0 +1,19 @@
+{
+    "name": "BiliBili Inc.",
+    "displayName": "BiliBili",
+    "properties": [
+        "bigfun.cn",
+        "bigfunapp.cn",
+        "biliapi.com",
+        "biliapi.net",
+        "bilibili.com",
+        "biligame.com",
+        "biligame.net",
+        "hdslb.com"
+    ],
+    "prevalence": {
+        "tracking": 0.00000683,
+        "nonTracking": 0.0000341,
+        "total": 0.0000409
+    }
+}

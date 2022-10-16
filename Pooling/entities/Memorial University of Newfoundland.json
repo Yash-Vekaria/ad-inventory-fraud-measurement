@@ -1,0 +1,12 @@
+{
+    "name": "Memorial University of Newfoundland",
+    "displayName": "Memorial University of Newfoundland",
+    "properties": [
+        "mun.ca"
+    ],
+    "prevalence": {
+        "tracking": 0.000101,
+        "nonTracking": 0,
+        "total": 0.000101
+    }
+}

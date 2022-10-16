@@ -1,0 +1,13 @@
+{
+    "name": "DigitalOcean, LLC",
+    "displayName": "DigitalOcean",
+    "properties": [
+        "digitalocean.com",
+        "digitaloceanspaces.com"
+    ],
+    "prevalence": {
+        "tracking": 0.00028,
+        "nonTracking": 0.00219,
+        "total": 0.00247
+    }
+}

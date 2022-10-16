@@ -1,0 +1,13 @@
+{
+    "name": "Providence Health and Services",
+    "displayName": "Providence Health and Services",
+    "properties": [
+        "providence.org",
+        "swedish.org"
+    ],
+    "prevalence": {
+        "tracking": 0.0000069,
+        "nonTracking": 0,
+        "total": 0.0000069
+    }
+}

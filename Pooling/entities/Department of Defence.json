@@ -1,0 +1,12 @@
+{
+    "name": "Department of Defence",
+    "displayName": "Department of Defence",
+    "properties": [
+        "defence.gov.au"
+    ],
+    "prevalence": {
+        "tracking": 0.00000683,
+        "nonTracking": 0,
+        "total": 0.00000683
+    }
+}

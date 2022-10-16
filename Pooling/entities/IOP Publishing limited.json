@@ -1,0 +1,12 @@
+{
+    "name": "IOP Publishing limited",
+    "displayName": "IOP Publishing",
+    "properties": [
+        "iop.org"
+    ],
+    "prevalence": {
+        "tracking": 0.00000683,
+        "nonTracking": 0,
+        "total": 0.00000683
+    }
+}

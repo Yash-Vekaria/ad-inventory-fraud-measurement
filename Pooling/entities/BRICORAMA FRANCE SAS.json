@@ -1,0 +1,12 @@
+{
+    "name": "BRICORAMA FRANCE SAS",
+    "displayName": "BRICORAMA FRANCE",
+    "properties": [
+        "bricorama.fr"
+    ],
+    "prevalence": {
+        "tracking": 0.000102,
+        "nonTracking": 0,
+        "total": 0.000102
+    }
+}

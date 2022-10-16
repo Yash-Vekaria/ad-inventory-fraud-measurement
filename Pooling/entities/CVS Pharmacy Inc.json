@@ -1,0 +1,15 @@
+{
+    "name": "CVS Pharmacy Inc",
+    "displayName": "CVS Pharmacy",
+    "properties": [
+        "caremark.com",
+        "cvs.com",
+        "cvshealth.com",
+        "silverscript.com"
+    ],
+    "prevalence": {
+        "tracking": 0.0000478,
+        "nonTracking": 0,
+        "total": 0.0000478
+    }
+}

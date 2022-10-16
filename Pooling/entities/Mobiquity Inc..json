@@ -1,0 +1,14 @@
+{
+    "name": "Mobiquity Inc.",
+    "displayName": "Mobiquity",
+    "properties": [
+        "advangelists.com",
+        "mobiquity.com",
+        "mobiquityinc.com"
+    ],
+    "prevalence": {
+        "tracking": 0.013,
+        "nonTracking": 0.000799,
+        "total": 0.0138
+    }
+}

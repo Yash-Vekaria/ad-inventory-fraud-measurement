@@ -1,0 +1,12 @@
+{
+    "name": "NOUVELLE GENERATION DE PRESSE AGRICOLE",
+    "displayName": "NOUVELLE GENERATION DE PRESSE AGRICOLE",
+    "properties": [
+        "terre-net-media.fr"
+    ],
+    "prevalence": {
+        "tracking": 0.00000683,
+        "nonTracking": 0,
+        "total": 0.00000683
+    }
+}

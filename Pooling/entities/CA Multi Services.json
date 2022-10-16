@@ -1,0 +1,12 @@
+{
+    "name": "CA Multi Services",
+    "displayName": "CA Multi Services",
+    "properties": [
+        "e-catalogues.pro"
+    ],
+    "prevalence": {
+        "tracking": 0.0001,
+        "nonTracking": 0,
+        "total": 0.0001
+    }
+}

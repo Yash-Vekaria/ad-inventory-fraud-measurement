@@ -1,0 +1,7 @@
+{
+    "name": "AWMF-Geschaeftsstelle",
+    "displayName": "AWMF-Geschaeftsstelle",
+    "properties": [
+        "awmf.org"
+    ]
+}

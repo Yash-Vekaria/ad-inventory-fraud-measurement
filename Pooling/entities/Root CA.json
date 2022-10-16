@@ -1,0 +1,7 @@
+{
+    "name": "Root CA",
+    "displayName": "Root CA",
+    "properties": [
+        "onionmail.info"
+    ]
+}

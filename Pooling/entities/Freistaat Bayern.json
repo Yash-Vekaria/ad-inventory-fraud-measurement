@@ -1,0 +1,14 @@
+{
+    "name": "Freistaat Bayern",
+    "displayName": "Freistaat Bayern",
+    "properties": [
+        "bayern.de",
+        "freistaat.bayern",
+        "regensburg.de"
+    ],
+    "prevalence": {
+        "tracking": 0.000101,
+        "nonTracking": 0,
+        "total": 0.000101
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "name": "Limited Liability Company \"National sports channel\"",
+    "displayName": "National sports channel",
+    "properties": [
+        "matchtv.ru",
+        "sportbox.ru"
+    ],
+    "prevalence": {
+        "tracking": 0.00000693,
+        "nonTracking": 0,
+        "total": 0.00000693
+    }
+}

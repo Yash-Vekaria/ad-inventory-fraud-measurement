@@ -1,0 +1,12 @@
+{
+    "name": "STATIM SAS",
+    "displayName": "STATIM",
+    "properties": [
+        "ecoledirecte.com"
+    ],
+    "prevalence": {
+        "tracking": 0.0001,
+        "nonTracking": 0,
+        "total": 0.0001
+    }
+}

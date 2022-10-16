@@ -1,0 +1,12 @@
+{
+    "name": "Varsity Tutors, LLC",
+    "displayName": "Varsity Tutors",
+    "properties": [
+        "varsitytutors.com"
+    ],
+    "prevalence": {
+        "tracking": 0.0000136,
+        "nonTracking": 0,
+        "total": 0.0000136
+    }
+}

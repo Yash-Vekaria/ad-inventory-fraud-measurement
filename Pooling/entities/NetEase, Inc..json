@@ -1,0 +1,22 @@
+{
+    "name": "NetEase, Inc.",
+    "displayName": "NetEase",
+    "properties": [
+        "126.net",
+        "127.net",
+        "163.com",
+        "163yun.com",
+        "166.net",
+        "easebar.com",
+        "netease.com",
+        "netease.im",
+        "qiyukf.com",
+        "ydstatic.com",
+        "youdao.com"
+    ],
+    "prevalence": {
+        "tracking": 0.0000478,
+        "nonTracking": 0.00000683,
+        "total": 0.0000546
+    }
+}

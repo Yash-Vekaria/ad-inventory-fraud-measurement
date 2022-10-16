@@ -1,0 +1,12 @@
+{
+    "name": "Automatic Data Processing, Inc.",
+    "displayName": "Automatic Data Processing",
+    "properties": [
+        "adp.com"
+    ],
+    "prevalence": {
+        "tracking": 0.00000683,
+        "nonTracking": 0,
+        "total": 0.00000683
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "name": "Matthew Hesser",
+    "displayName": "Matthew Hesser",
+    "properties": [
+        "concertbank.com",
+        "theatreticketbank.com"
+    ],
+    "prevalence": {
+        "tracking": 0,
+        "nonTracking": 0.00000759,
+        "total": 0.00000759
+    }
+}

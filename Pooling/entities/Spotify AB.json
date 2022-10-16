@@ -1,0 +1,14 @@
+{
+    "name": "Spotify AB",
+    "displayName": "Spotify",
+    "properties": [
+        "chartable.com",
+        "scdn.co",
+        "spotify.com"
+    ],
+    "prevalence": {
+        "tracking": 0.000949,
+        "nonTracking": 0.000218,
+        "total": 0.00117
+    }
+}

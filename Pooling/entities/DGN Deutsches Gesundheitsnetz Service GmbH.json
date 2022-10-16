@@ -1,0 +1,8 @@
+{
+    "name": "DGN Deutsches Gesundheitsnetz Service GmbH",
+    "displayName": "DGN Deutsches Gesundheitsnetz Service",
+    "properties": [
+        "dgn.de",
+        "dgnservice.de"
+    ]
+}

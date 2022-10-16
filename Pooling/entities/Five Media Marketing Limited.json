@@ -1,0 +1,14 @@
+{
+    "name": "Five Media Marketing Limited",
+    "displayName": "Five Media",
+    "properties": [
+        "geoedge.be",
+        "geoedge.com",
+        "pangeopro.com"
+    ],
+    "prevalence": {
+        "tracking": 0.00267,
+        "nonTracking": 0.00104,
+        "total": 0.00371
+    }
+}

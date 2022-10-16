@@ -1,0 +1,21 @@
+{
+    "name": "Match Group, Inc.",
+    "displayName": "Match Group",
+    "properties": [
+        "azarlive.com",
+        "gotinder.com",
+        "hinge.co",
+        "match.com",
+        "mtch.com",
+        "okccdn.com",
+        "okcupid-live.com",
+        "okcupid.com",
+        "tinder.com",
+        "tindersparks.com"
+    ],
+    "prevalence": {
+        "tracking": 0.00000715,
+        "nonTracking": 0,
+        "total": 0.00000715
+    }
+}

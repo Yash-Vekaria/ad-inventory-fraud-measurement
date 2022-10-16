@@ -1,0 +1,7 @@
+{
+    "name": "EMIS",
+    "displayName": "EMIS",
+    "properties": [
+        "patient.info"
+    ]
+}

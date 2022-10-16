@@ -1,0 +1,16 @@
+{
+    "name": "Southwest Airlines Co.",
+    "displayName": "Southwest Airlines",
+    "properties": [
+        "southwest.com",
+        "southwestaircommunity.com",
+        "southwestco2.com",
+        "southwestwifi.com",
+        "swabiz.com"
+    ],
+    "prevalence": {
+        "tracking": 0.00000694,
+        "nonTracking": 0,
+        "total": 0.00000694
+    }
+}

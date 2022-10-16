@@ -1,0 +1,13 @@
+{
+    "name": "Tegna Media",
+    "displayName": "Tegna Media",
+    "properties": [
+        "760kfmb.com",
+        "cbs8.com"
+    ],
+    "prevalence": {
+        "tracking": 0,
+        "nonTracking": 0.00000693,
+        "total": 0.00000693
+    }
+}

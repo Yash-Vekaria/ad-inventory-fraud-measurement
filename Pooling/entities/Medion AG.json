@@ -1,0 +1,14 @@
+{
+    "name": "Medion AG",
+    "displayName": "Medion",
+    "properties": [
+        "aldimobile.com.au",
+        "alditalk.de",
+        "medion.com"
+    ],
+    "prevalence": {
+        "tracking": 0.0001,
+        "nonTracking": 0,
+        "total": 0.0001
+    }
+}

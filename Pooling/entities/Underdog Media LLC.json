@@ -1,0 +1,13 @@
+{
+    "name": "Underdog Media LLC",
+    "displayName": "Underdog Media",
+    "properties": [
+        "udmserve.net",
+        "underdog.media"
+    ],
+    "prevalence": {
+        "tracking": 0.00104,
+        "nonTracking": 0.0000137,
+        "total": 0.00105
+    }
+}

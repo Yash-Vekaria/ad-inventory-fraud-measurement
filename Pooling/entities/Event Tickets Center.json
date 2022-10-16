@@ -1,0 +1,12 @@
+{
+    "name": "Event Tickets Center",
+    "displayName": "Event Tickets Center",
+    "properties": [
+        "eventticketscenter.com"
+    ],
+    "prevalence": {
+        "tracking": 0.00000683,
+        "nonTracking": 0,
+        "total": 0.00000683
+    }
+}

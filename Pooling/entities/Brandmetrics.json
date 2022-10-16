@@ -1,0 +1,12 @@
+{
+    "name": "Brandmetrics",
+    "displayName": "Brandmetrics",
+    "properties": [
+        "brandmetrics.com"
+    ],
+    "prevalence": {
+        "tracking": 0.0169,
+        "nonTracking": 0.000253,
+        "total": 0.0172
+    }
+}

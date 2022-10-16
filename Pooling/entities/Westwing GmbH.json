@@ -1,0 +1,13 @@
+{
+    "name": "Westwing GmbH",
+    "displayName": "Westwing",
+    "properties": [
+        "westwing.de",
+        "westwingnow.de"
+    ],
+    "prevalence": {
+        "tracking": 0.000101,
+        "nonTracking": 0,
+        "total": 0.000101
+    }
+}

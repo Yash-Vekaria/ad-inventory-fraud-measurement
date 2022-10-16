@@ -1,0 +1,13 @@
+{
+    "name": "Graham Media Group",
+    "displayName": "Graham Media Group",
+    "properties": [
+        "gmg.io",
+        "grahamdigital.com"
+    ],
+    "prevalence": {
+        "tracking": 0.0000273,
+        "nonTracking": 0.0000683,
+        "total": 0.0000956
+    }
+}

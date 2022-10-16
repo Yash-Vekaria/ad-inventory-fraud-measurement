@@ -1,0 +1,12 @@
+{
+    "name": "Lasso Data Systems Inc",
+    "displayName": "Lasso Data Systems",
+    "properties": [
+        "lassocrm.com"
+    ],
+    "prevalence": {
+        "tracking": 0.000041,
+        "nonTracking": 0,
+        "total": 0.000041
+    }
+}

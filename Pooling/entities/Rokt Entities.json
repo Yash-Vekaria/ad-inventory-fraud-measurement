@@ -1,0 +1,14 @@
+{
+    "name": "Rokt Entities",
+    "displayName": "Rokt",
+    "properties": [
+        "rokt.com",
+        "rokt.de",
+        "tomorro.com"
+    ],
+    "prevalence": {
+        "tracking": 0.000177,
+        "nonTracking": 0,
+        "total": 0.000177
+    }
+}

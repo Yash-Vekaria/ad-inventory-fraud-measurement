@@ -1,0 +1,19 @@
+{
+    "name": "Webtrekk GmbH",
+    "displayName": "Webtrekk",
+    "properties": [
+        "cbtrk.net",
+        "mateti.net",
+        "wbtrk.net",
+        "wcfbc.net",
+        "webtrekk.com",
+        "webtrekk.net",
+        "wt-eu02.net",
+        "wt-safetag.com"
+    ],
+    "prevalence": {
+        "tracking": 0.00148,
+        "nonTracking": 0.0000341,
+        "total": 0.00151
+    }
+}

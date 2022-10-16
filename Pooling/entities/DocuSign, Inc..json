@@ -1,0 +1,12 @@
+{
+    "name": "DocuSign, Inc.",
+    "displayName": "DocuSign",
+    "properties": [
+        "docusign.com"
+    ],
+    "prevalence": {
+        "tracking": 0.00000683,
+        "nonTracking": 0,
+        "total": 0.00000683
+    }
+}

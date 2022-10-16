@@ -1,0 +1,14 @@
+{
+    "name": "Conduent Business Services, LLC",
+    "displayName": "Conduent Business Services",
+    "properties": [
+        "e-zpassny.com",
+        "ezpassnj.com",
+        "sunpass.com"
+    ],
+    "prevalence": {
+        "tracking": 0.00000692,
+        "nonTracking": 0,
+        "total": 0.00000692
+    }
+}

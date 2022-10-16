@@ -1,0 +1,14 @@
+{
+    "name": "NIKKEI INC.",
+    "displayName": "Nikkei",
+    "properties": [
+        "comemo.io",
+        "nikkei.com",
+        "nikkei.jp"
+    ],
+    "prevalence": {
+        "tracking": 0.00000683,
+        "nonTracking": 0,
+        "total": 0.00000683
+    }
+}

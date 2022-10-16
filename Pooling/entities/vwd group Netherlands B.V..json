@@ -1,0 +1,12 @@
+{
+    "name": "vwd group Netherlands B.V.",
+    "displayName": "vwd group Netherlands",
+    "properties": [
+        "vwdservices.com"
+    ],
+    "prevalence": {
+        "tracking": 0.0000341,
+        "nonTracking": 0,
+        "total": 0.0000341
+    }
+}

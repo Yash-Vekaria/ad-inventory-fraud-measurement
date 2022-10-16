@@ -1,0 +1,17 @@
+{
+    "name": "AppsFlyer",
+    "displayName": "AppsFlyer",
+    "properties": [
+        "aflink.com",
+        "appsflyer.com",
+        "appsflyersdk.com",
+        "esp-integrations.com",
+        "onelink.me",
+        "onelnk.com"
+    ],
+    "prevalence": {
+        "tracking": 0.00152,
+        "nonTracking": 0.000403,
+        "total": 0.00192
+    }
+}

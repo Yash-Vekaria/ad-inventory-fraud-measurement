@@ -1,0 +1,13 @@
+{
+    "name": "Cabela's Inc",
+    "displayName": "Cabela's",
+    "properties": [
+        "cabelas.ca",
+        "cabelas.com"
+    ],
+    "prevalence": {
+        "tracking": 0.00000683,
+        "nonTracking": 0,
+        "total": 0.00000683
+    }
+}

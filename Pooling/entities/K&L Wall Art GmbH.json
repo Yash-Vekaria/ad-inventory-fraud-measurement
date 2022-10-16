@@ -1,0 +1,12 @@
+{
+    "name": "K&L Wall Art GmbH",
+    "displayName": "K&L Wall Art",
+    "properties": [
+        "wall-art.de"
+    ],
+    "prevalence": {
+        "tracking": 0.0001,
+        "nonTracking": 0,
+        "total": 0.0001
+    }
+}

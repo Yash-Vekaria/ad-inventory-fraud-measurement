@@ -1,0 +1,12 @@
+{
+    "name": "Channel.me B.V.",
+    "displayName": "Channel.me",
+    "properties": [
+        "channel.me"
+    ],
+    "prevalence": {
+        "tracking": 0.00000683,
+        "nonTracking": 0,
+        "total": 0.00000683
+    }
+}

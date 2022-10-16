@@ -1,0 +1,12 @@
+{
+    "name": "IMEDIAPP SA",
+    "displayName": "IMEDIAPP",
+    "properties": [
+        "batch.com"
+    ],
+    "prevalence": {
+        "tracking": 0.000642,
+        "nonTracking": 0.0000751,
+        "total": 0.000717
+    }
+}

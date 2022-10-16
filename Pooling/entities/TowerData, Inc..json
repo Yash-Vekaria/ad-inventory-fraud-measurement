@@ -1,0 +1,14 @@
+{
+    "name": "TowerData, Inc.",
+    "displayName": "TowerData",
+    "properties": [
+        "alocdn.com",
+        "rapleaf.com",
+        "towerdata.com"
+    ],
+    "prevalence": {
+        "tracking": 0.00154,
+        "nonTracking": 0.0000273,
+        "total": 0.00157
+    }
+}

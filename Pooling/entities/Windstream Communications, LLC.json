@@ -1,0 +1,14 @@
+{
+    "name": "Windstream Communications, LLC",
+    "displayName": "Windstream Communications",
+    "properties": [
+        "earthlink.net",
+        "windstream.com",
+        "windstream.net"
+    ],
+    "prevalence": {
+        "tracking": 0.00000683,
+        "nonTracking": 0,
+        "total": 0.00000683
+    }
+}

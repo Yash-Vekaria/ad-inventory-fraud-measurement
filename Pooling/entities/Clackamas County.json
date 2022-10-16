@@ -1,0 +1,12 @@
+{
+    "name": "Clackamas County",
+    "displayName": "Clackamas County",
+    "properties": [
+        "clackamas.us"
+    ],
+    "prevalence": {
+        "tracking": 0,
+        "nonTracking": 0.00000761,
+        "total": 0.00000761
+    }
+}

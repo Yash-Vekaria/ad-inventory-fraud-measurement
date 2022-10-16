@@ -1,0 +1,12 @@
+{
+    "name": "Datawrkz Pte Ltd",
+    "displayName": "Datawrkz",
+    "properties": [
+        "datawrkz.com"
+    ],
+    "prevalence": {
+        "tracking": 0.000109,
+        "nonTracking": 0.0000137,
+        "total": 0.000123
+    }
+}

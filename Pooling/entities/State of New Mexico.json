@@ -1,0 +1,12 @@
+{
+    "name": "State of New Mexico",
+    "displayName": "State of New Mexico",
+    "properties": [
+        "state.nm.us"
+    ],
+    "prevalence": {
+        "tracking": 0.00000691,
+        "nonTracking": 0,
+        "total": 0.00000691
+    }
+}

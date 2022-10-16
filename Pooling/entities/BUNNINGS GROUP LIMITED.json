@@ -1,0 +1,12 @@
+{
+    "name": "BUNNINGS GROUP LIMITED",
+    "displayName": "BUNNINGS GROUP",
+    "properties": [
+        "bunnings.com.au"
+    ],
+    "prevalence": {
+        "tracking": 0.00000683,
+        "nonTracking": 0,
+        "total": 0.00000683
+    }
+}

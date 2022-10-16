@@ -1,0 +1,13 @@
+{
+    "name": "Teads ( Luxenbourg ) SA",
+    "displayName": "Teads",
+    "properties": [
+        "ebz.io",
+        "teads.tv"
+    ],
+    "prevalence": {
+        "tracking": 0.0682,
+        "nonTracking": 0.00383,
+        "total": 0.072
+    }
+}

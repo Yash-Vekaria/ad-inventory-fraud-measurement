@@ -1,0 +1,14 @@
+{
+    "name": "DIRECTION GENERALE DES FINANCES PUBLIQUES",
+    "displayName": "Direction Generale des Finances Publiques",
+    "properties": [
+        "amendes.gouv.fr",
+        "cadastre.gouv.fr",
+        "impots.gouv.fr"
+    ],
+    "prevalence": {
+        "tracking": 0.0000136,
+        "nonTracking": 0,
+        "total": 0.0000136
+    }
+}

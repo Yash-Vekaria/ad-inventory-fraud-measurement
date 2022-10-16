@@ -1,0 +1,21 @@
+{
+    "name": "Sina Corporation",
+    "displayName": "Sina",
+    "properties": [
+        "sina.cn",
+        "sina.com.cn",
+        "sina.net",
+        "sinaapp.com",
+        "sinaimg.cn",
+        "sinajs.cn",
+        "weibo.cn",
+        "weibo.com",
+        "weibocdn.com",
+        "weipan.cn"
+    ],
+    "prevalence": {
+        "tracking": 0.00000683,
+        "nonTracking": 0.00000683,
+        "total": 0.0000137
+    }
+}

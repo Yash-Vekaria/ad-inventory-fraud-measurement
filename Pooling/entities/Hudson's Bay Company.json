@@ -1,0 +1,29 @@
+{
+    "name": "Hudson's Bay Company",
+    "displayName": "Hudson's Bay Company",
+    "properties": [
+        "findatlt.com",
+        "hbc.com",
+        "hudsonsbaygiftcards.com",
+        "littleblackcard.com",
+        "lordandtaylor.com",
+        "off5th.ca",
+        "off5th.com",
+        "offfifth.ca",
+        "offfifth.com",
+        "s5a.com",
+        "saks.com",
+        "saksfifthavenue.com",
+        "saksfifthavenueofffifth.ca",
+        "saksgiftcards.com",
+        "saksoff5th.com",
+        "saksoff5thgiftcards.com",
+        "saksofffifth.ca",
+        "thebay.com"
+    ],
+    "prevalence": {
+        "tracking": 0.00000683,
+        "nonTracking": 0.00000683,
+        "total": 0.0000137
+    }
+}

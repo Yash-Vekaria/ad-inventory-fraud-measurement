@@ -1,0 +1,12 @@
+{
+    "name": "Wisconsin Department of Tourism",
+    "displayName": "Wisconsin Department of Tourism",
+    "properties": [
+        "travelwisconsin.com"
+    ],
+    "prevalence": {
+        "tracking": 0.0000069,
+        "nonTracking": 0,
+        "total": 0.0000069
+    }
+}

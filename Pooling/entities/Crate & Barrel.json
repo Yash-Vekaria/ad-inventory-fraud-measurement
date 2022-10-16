@@ -1,0 +1,13 @@
+{
+    "name": "Crate & Barrel",
+    "displayName": "Crate & Barrel",
+    "properties": [
+        "cb2.com",
+        "crateandbarrel.com"
+    ],
+    "prevalence": {
+        "tracking": 0.00000683,
+        "nonTracking": 0,
+        "total": 0.00000683
+    }
+}

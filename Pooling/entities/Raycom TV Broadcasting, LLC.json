@@ -1,0 +1,41 @@
+{
+    "name": "Raycom TV Broadcasting, LLC",
+    "displayName": "Raycom TV Broadcasting",
+    "properties": [
+        "14news.com",
+        "cleveland19.com",
+        "fox19.com",
+        "fox8live.com",
+        "kait8.com",
+        "kcbd.com",
+        "kfvs12.com",
+        "kltv.com",
+        "kplctv.com",
+        "ksla.com",
+        "live5news.com",
+        "mysuncoast.com",
+        "nbc12.com",
+        "newschannel10.com",
+        "tucsonnewsnow.com",
+        "wafb.com",
+        "waff.com",
+        "walb.com",
+        "wave3.com",
+        "wbrc.com",
+        "wbtv.com",
+        "wdam.com",
+        "wect.com",
+        "wistv.com",
+        "wlbt.com",
+        "wlox.com",
+        "wmcactionnews5.com",
+        "wsfa.com",
+        "wtoc.com",
+        "wtvm.com"
+    ],
+    "prevalence": {
+        "tracking": 0.00000681,
+        "nonTracking": 0,
+        "total": 0.00000681
+    }
+}

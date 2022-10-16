@@ -1,0 +1,12 @@
+{
+    "name": "Ascension",
+    "displayName": "Ascension",
+    "properties": [
+        "ascension.org"
+    ],
+    "prevalence": {
+        "tracking": 0.00000683,
+        "nonTracking": 0,
+        "total": 0.00000683
+    }
+}

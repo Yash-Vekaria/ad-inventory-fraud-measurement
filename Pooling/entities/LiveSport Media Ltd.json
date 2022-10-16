@@ -1,0 +1,27 @@
+{
+    "name": "LiveSport Media Ltd",
+    "displayName": "LiveSport Media",
+    "properties": [
+        "diretta.it",
+        "eredmenyek.com",
+        "flashresultats.fr",
+        "flashscore.com",
+        "livescore.in",
+        "livesportmedia.eu",
+        "liveticker.com",
+        "meusresultados.com",
+        "mismarcadores.com",
+        "oddsportal.com",
+        "resultados.com",
+        "rezultati.com",
+        "risultati.it",
+        "scoreboard.com",
+        "soccer24.com",
+        "tennisexplorer.com"
+    ],
+    "prevalence": {
+        "tracking": 0.00000683,
+        "nonTracking": 0.0000478,
+        "total": 0.0000546
+    }
+}

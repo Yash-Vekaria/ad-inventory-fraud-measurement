@@ -1,0 +1,13 @@
+{
+    "name": "Libertad Digital S.A.",
+    "displayName": "Libertad Digital",
+    "properties": [
+        "clublibertaddigital.com",
+        "libertaddigital.com"
+    ],
+    "prevalence": {
+        "tracking": 0.0000136,
+        "nonTracking": 0,
+        "total": 0.0000136
+    }
+}

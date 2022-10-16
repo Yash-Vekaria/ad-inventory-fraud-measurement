@@ -1,0 +1,12 @@
+{
+    "name": "Infomaniak Network SA",
+    "displayName": "Infomaniak Network",
+    "properties": [
+        "infomaniak.com"
+    ],
+    "prevalence": {
+        "tracking": 0.00000683,
+        "nonTracking": 0,
+        "total": 0.00000683
+    }
+}

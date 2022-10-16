@@ -1,0 +1,12 @@
+{
+    "name": "RICOH COMPANY,LTD.",
+    "displayName": "RICOH COMPANY",
+    "properties": [
+        "ricoh.com"
+    ],
+    "prevalence": {
+        "tracking": 0.00000678,
+        "nonTracking": 0,
+        "total": 0.00000678
+    }
+}

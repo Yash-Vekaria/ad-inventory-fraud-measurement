@@ -1,0 +1,14 @@
+{
+    "name": "Gravity R&D Zrt",
+    "displayName": "Gravity R&D Zrt",
+    "properties": [
+        "gravityrd-services.com",
+        "worldgravity.com",
+        "yusp.com"
+    ],
+    "prevalence": {
+        "tracking": 0.0000614,
+        "nonTracking": 0,
+        "total": 0.0000614
+    }
+}

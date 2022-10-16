@@ -1,0 +1,16 @@
+{
+    "name": "Societe Nationale De Radiodiffusion Radio France",
+    "displayName": "Societe Nationale De Radiodiffusion Radio France",
+    "properties": [
+        "francebleu.fr",
+        "franceculture.fr",
+        "franceinter.fr",
+        "francemusique.fr",
+        "radiofrance.fr"
+    ],
+    "prevalence": {
+        "tracking": 0.00000683,
+        "nonTracking": 0,
+        "total": 0.00000683
+    }
+}

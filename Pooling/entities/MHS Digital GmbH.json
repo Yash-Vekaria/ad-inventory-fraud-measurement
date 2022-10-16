@@ -1,0 +1,13 @@
+{
+    "name": "MHS Digital GmbH",
+    "displayName": "MHS Digital",
+    "properties": [
+        "stuttgarter-nachrichten.de",
+        "stuttgarter-zeitung.de"
+    ],
+    "prevalence": {
+        "tracking": 0.000201,
+        "nonTracking": 0,
+        "total": 0.000201
+    }
+}

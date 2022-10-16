@@ -1,0 +1,16 @@
+{
+    "name": "TELUS",
+    "displayName": "TELUS",
+    "properties": [
+        "koodomobile.com",
+        "telus.com",
+        "telus.digital",
+        "telus.net",
+        "telusplanet.net"
+    ],
+    "prevalence": {
+        "tracking": 0.0000205,
+        "nonTracking": 0,
+        "total": 0.0000205
+    }
+}

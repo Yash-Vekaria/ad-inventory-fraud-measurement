@@ -1,0 +1,28 @@
+{
+    "name": "ARNOLDO MONDADORI EDITORE SpA",
+    "displayName": "ARNOLDO MONDADORI EDITORE",
+    "properties": [
+        "androidworld.it",
+        "farmacoecura.it",
+        "filmtv.it",
+        "focus.it",
+        "grazia.it",
+        "mediamond.it",
+        "mondadori.it",
+        "my-personaltrainer.it",
+        "nostrofiglio.it",
+        "o2o.it",
+        "panorama.it",
+        "pianetadonna.it",
+        "salepepe.it",
+        "smartworld.it",
+        "soldionline.it",
+        "starbene.it",
+        "stbm.it"
+    ],
+    "prevalence": {
+        "tracking": 0.000102,
+        "nonTracking": 0.0000137,
+        "total": 0.000116
+    }
+}

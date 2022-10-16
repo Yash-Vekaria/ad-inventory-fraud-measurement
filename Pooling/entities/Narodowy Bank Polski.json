@@ -1,0 +1,12 @@
+{
+    "name": "Narodowy Bank Polski",
+    "displayName": "Narodowy Bank Polski",
+    "properties": [
+        "nbp.pl"
+    ],
+    "prevalence": {
+        "tracking": 0.00000679,
+        "nonTracking": 0,
+        "total": 0.00000679
+    }
+}

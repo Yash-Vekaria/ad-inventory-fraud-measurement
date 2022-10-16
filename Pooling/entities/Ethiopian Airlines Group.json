@@ -1,0 +1,12 @@
+{
+    "name": "Ethiopian Airlines Group",
+    "displayName": "Ethiopian Airlines Group",
+    "properties": [
+        "ethiopianairlines.com"
+    ],
+    "prevalence": {
+        "tracking": 0.0001,
+        "nonTracking": 0,
+        "total": 0.0001
+    }
+}

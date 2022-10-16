@@ -1,0 +1,12 @@
+{
+    "name": "Choice Hotels International, Inc.",
+    "displayName": "Choice Hotels International",
+    "properties": [
+        "choicehotels.com"
+    ],
+    "prevalence": {
+        "tracking": 0.00000683,
+        "nonTracking": 0,
+        "total": 0.00000683
+    }
+}

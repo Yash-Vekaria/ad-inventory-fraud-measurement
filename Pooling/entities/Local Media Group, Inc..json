@@ -1,0 +1,19 @@
+{
+    "name": "Local Media Group, Inc.",
+    "displayName": "Local Media Group",
+    "properties": [
+        "capecodtimes.com",
+        "poconorecord.com",
+        "providencejournal.com",
+        "recordnet.com",
+        "recordonline.com",
+        "seacoastonline.com",
+        "southcoasttoday.com",
+        "vvdailypress.com"
+    ],
+    "prevalence": {
+        "tracking": 0.0000147,
+        "nonTracking": 0,
+        "total": 0.0000147
+    }
+}

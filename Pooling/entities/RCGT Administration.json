@@ -1,0 +1,7 @@
+{
+    "name": "RCGT Administration",
+    "displayName": "RCGT Administration",
+    "properties": [
+        "rcgt.com"
+    ]
+}

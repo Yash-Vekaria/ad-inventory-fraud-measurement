@@ -1,0 +1,12 @@
+{
+    "name": "Pushly",
+    "displayName": "Pushly",
+    "properties": [
+        "p-n.io"
+    ],
+    "prevalence": {
+        "tracking": 0.00216,
+        "nonTracking": 0.0000956,
+        "total": 0.00226
+    }
+}

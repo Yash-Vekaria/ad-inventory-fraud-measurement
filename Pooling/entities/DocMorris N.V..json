@@ -1,0 +1,12 @@
+{
+    "name": "DocMorris N.V.",
+    "displayName": "DocMorris",
+    "properties": [
+        "docmorris.de"
+    ],
+    "prevalence": {
+        "tracking": 0.0000147,
+        "nonTracking": 0,
+        "total": 0.0000147
+    }
+}

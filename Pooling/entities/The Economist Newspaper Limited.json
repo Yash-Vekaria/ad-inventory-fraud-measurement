@@ -1,0 +1,13 @@
+{
+    "name": "The Economist Newspaper Limited",
+    "displayName": "The Economist Newspaper",
+    "properties": [
+        "economist.com",
+        "static-economist.com"
+    ],
+    "prevalence": {
+        "tracking": 0.00000682,
+        "nonTracking": 0,
+        "total": 0.00000682
+    }
+}

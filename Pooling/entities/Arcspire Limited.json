@@ -1,0 +1,12 @@
+{
+    "name": "Arcspire Limited",
+    "displayName": "Arcspire",
+    "properties": [
+        "arcspire.io"
+    ],
+    "prevalence": {
+        "tracking": 0.00128,
+        "nonTracking": 0.0000273,
+        "total": 0.00131
+    }
+}

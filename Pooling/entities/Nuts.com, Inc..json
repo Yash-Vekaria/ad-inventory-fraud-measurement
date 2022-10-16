@@ -1,0 +1,12 @@
+{
+    "name": "Nuts.com, Inc.",
+    "displayName": "Nuts.com",
+    "properties": [
+        "nuts.com"
+    ],
+    "prevalence": {
+        "tracking": 0.0000076,
+        "nonTracking": 0,
+        "total": 0.0000076
+    }
+}

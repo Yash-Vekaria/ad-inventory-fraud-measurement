@@ -1,0 +1,12 @@
+{
+    "name": "Encuentra24.com AG",
+    "displayName": "Encuentra24.com",
+    "properties": [
+        "encuentra24.com"
+    ],
+    "prevalence": {
+        "tracking": 0,
+        "nonTracking": 0.0000069,
+        "total": 0.0000069
+    }
+}

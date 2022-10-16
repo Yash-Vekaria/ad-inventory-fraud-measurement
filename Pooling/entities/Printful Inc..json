@@ -1,0 +1,12 @@
+{
+    "name": "Printful Inc.",
+    "displayName": "Printful",
+    "properties": [
+        "printful.com"
+    ],
+    "prevalence": {
+        "tracking": 0.00000683,
+        "nonTracking": 0.000683,
+        "total": 0.00069
+    }
+}

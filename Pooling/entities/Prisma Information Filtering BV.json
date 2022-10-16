@@ -1,0 +1,12 @@
+{
+    "name": "Prisma Information Filtering BV",
+    "displayName": "Prisma Information Filtering",
+    "properties": [
+        "crowdynews.com"
+    ],
+    "prevalence": {
+        "tracking": 0.00000683,
+        "nonTracking": 0.00000683,
+        "total": 0.0000137
+    }
+}

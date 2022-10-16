@@ -1,0 +1,15 @@
+{
+    "name": "Beijing Tendcloud Tianxia Technology Co., Ltd.",
+    "displayName": "Tendcloud Tianxia Technology",
+    "properties": [
+        "cpatrk.net",
+        "talkingdata.com",
+        "tendcloud.com",
+        "xdrig.com"
+    ],
+    "prevalence": {
+        "tracking": 0.0001,
+        "nonTracking": 0,
+        "total": 0.0001
+    }
+}

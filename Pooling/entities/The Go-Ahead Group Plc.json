@@ -1,0 +1,16 @@
+{
+    "name": "The Go-Ahead Group Plc",
+    "displayName": "The Go-Ahead Group",
+    "properties": [
+        "go-ahead.com",
+        "goaheadbus.com",
+        "southeasternrailway.co.uk",
+        "southernrailway.com",
+        "thameslinkrailway.com"
+    ],
+    "prevalence": {
+        "tracking": 0.00000683,
+        "nonTracking": 0,
+        "total": 0.00000683
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "name": "AT&T Services, Inc.",
+    "displayName": "AT&T Services",
+    "properties": [
+        "att.com",
+        "att.net",
+        "attccc.com",
+        "attinternetservice.com",
+        "attsavings.com",
+        "directvdeals.com",
+        "directvnow.com",
+        "paygonline.com"
+    ],
+    "prevalence": {
+        "tracking": 0.000102,
+        "nonTracking": 0.00000683,
+        "total": 0.000109
+    }
+}

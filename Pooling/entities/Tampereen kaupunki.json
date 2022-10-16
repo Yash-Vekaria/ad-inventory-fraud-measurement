@@ -1,0 +1,12 @@
+{
+    "name": "Tampereen kaupunki",
+    "displayName": "Tampereen kaupunki",
+    "properties": [
+        "tampere.fi"
+    ],
+    "prevalence": {
+        "tracking": 0.0000136,
+        "nonTracking": 0,
+        "total": 0.0000136
+    }
+}

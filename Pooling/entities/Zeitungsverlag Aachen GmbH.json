@@ -1,0 +1,12 @@
+{
+    "name": "Zeitungsverlag Aachen GmbH",
+    "displayName": "Zeitungsverlag Aachen",
+    "properties": [
+        "aachener-zeitung.de"
+    ],
+    "prevalence": {
+        "tracking": 0.00000683,
+        "nonTracking": 0,
+        "total": 0.00000683
+    }
+}

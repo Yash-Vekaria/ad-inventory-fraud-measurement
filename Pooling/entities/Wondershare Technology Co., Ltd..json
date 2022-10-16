@@ -1,0 +1,15 @@
+{
+    "name": "Wondershare Technology Co., Ltd.",
+    "displayName": "Wondershare Technology",
+    "properties": [
+        "iskysoft.com",
+        "iskysoft.us",
+        "ufotosoft.com",
+        "wondershare.com"
+    ],
+    "prevalence": {
+        "tracking": 0.00015,
+        "nonTracking": 0.000198,
+        "total": 0.000348
+    }
+}

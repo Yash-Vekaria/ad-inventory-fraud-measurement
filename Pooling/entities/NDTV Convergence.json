@@ -1,0 +1,16 @@
+{
+    "name": "NDTV Convergence",
+    "displayName": "NDTV Convergence",
+    "properties": [
+        "gadgets360.com",
+        "gadgets360cdn.com",
+        "kostprice.com",
+        "ndtv.com",
+        "ndtvimg.com"
+    ],
+    "prevalence": {
+        "tracking": 0.00000683,
+        "nonTracking": 0.0000683,
+        "total": 0.0000751
+    }
+}

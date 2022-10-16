@@ -1,0 +1,13 @@
+{
+    "name": "Audiencerate Ltd",
+    "displayName": "Audiencerate",
+    "properties": [
+        "audiencerate.com",
+        "audrte.com"
+    ],
+    "prevalence": {
+        "tracking": 0.0027,
+        "nonTracking": 0.0000683,
+        "total": 0.00277
+    }
+}

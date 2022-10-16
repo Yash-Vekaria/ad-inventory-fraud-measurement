@@ -1,0 +1,12 @@
+{
+    "name": "Pricewise B.V.",
+    "displayName": "Pricewise",
+    "properties": [
+        "pricewise.nl"
+    ],
+    "prevalence": {
+        "tracking": 0.000101,
+        "nonTracking": 0,
+        "total": 0.000101
+    }
+}

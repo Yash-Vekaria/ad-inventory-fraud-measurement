@@ -1,0 +1,17 @@
+{
+    "name": "Immediate Media Co.",
+    "displayName": "Immediate Media",
+    "properties": [
+        "bikeradar.com",
+        "cyclingnews.com",
+        "historyextra.com",
+        "madeformums.com",
+        "olivemagazine.com",
+        "radiotimes.com"
+    ],
+    "prevalence": {
+        "tracking": 0.00000683,
+        "nonTracking": 0,
+        "total": 0.00000683
+    }
+}

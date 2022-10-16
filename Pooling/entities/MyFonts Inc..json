@@ -1,0 +1,13 @@
+{
+    "name": "MyFonts Inc.",
+    "displayName": "MyFonts",
+    "properties": [
+        "myfonts.com",
+        "myfonts.net"
+    ],
+    "prevalence": {
+        "tracking": 0.00668,
+        "nonTracking": 0.0000137,
+        "total": 0.00669
+    }
+}

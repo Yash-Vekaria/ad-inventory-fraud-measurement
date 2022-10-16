@@ -1,0 +1,8 @@
+{
+    "name": "tagDelivery",
+    "displayName": "tagDelivery",
+    "properties": [
+        "tagdelivery.app",
+        "tagdelivery.com.br"
+    ]
+}

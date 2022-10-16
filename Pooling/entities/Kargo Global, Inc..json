@@ -1,0 +1,18 @@
+{
+    "name": "Kargo Global, Inc.",
+    "displayName": "Kargo",
+    "properties": [
+        "adelaidelift.com",
+        "adelaidemetrics.com",
+        "kargo.com",
+        "parsec.media",
+        "rhombusads.com",
+        "sledmobile.com",
+        "stitcherads.com"
+    ],
+    "prevalence": {
+        "tracking": 0.0317,
+        "nonTracking": 0.000109,
+        "total": 0.0318
+    }
+}

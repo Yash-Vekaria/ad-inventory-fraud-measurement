@@ -1,0 +1,24 @@
+{
+    "name": "Sankuai Technology Co., Ltd.",
+    "displayName": "Sankuai Technology",
+    "properties": [
+        "ddmeituan.com",
+        "dianping.com",
+        "dpfile.com",
+        "hotel.wang",
+        "kuxun.cn",
+        "meituan.com",
+        "meituan.net",
+        "mtdp.app",
+        "neixin.cn",
+        "nsbg.com.cn",
+        "nsbg.net",
+        "sankuai.com",
+        "yunmeng.wang"
+    ],
+    "prevalence": {
+        "tracking": 0,
+        "nonTracking": 0.0000069,
+        "total": 0.0000069
+    }
+}

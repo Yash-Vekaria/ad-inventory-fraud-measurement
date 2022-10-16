@@ -1,0 +1,12 @@
+{
+    "name": "Municipality of Anchorage",
+    "displayName": "Municipality of Anchorage",
+    "properties": [
+        "muni.org"
+    ],
+    "prevalence": {
+        "tracking": 0.00000679,
+        "nonTracking": 0,
+        "total": 0.00000679
+    }
+}

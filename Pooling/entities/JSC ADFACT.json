@@ -1,0 +1,12 @@
+{
+    "name": "JSC ADFACT",
+    "displayName": "ADFACT",
+    "properties": [
+        "tns-counter.ru"
+    ],
+    "prevalence": {
+        "tracking": 0.00209,
+        "nonTracking": 0.0000137,
+        "total": 0.0021
+    }
+}

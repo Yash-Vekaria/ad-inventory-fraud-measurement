@@ -1,0 +1,13 @@
+{
+    "name": "Samsung Electronics Co. Ltd",
+    "displayName": "Samsung",
+    "properties": [
+        "samsung.com",
+        "samsungapps.com"
+    ],
+    "prevalence": {
+        "tracking": 0.0000205,
+        "nonTracking": 0.00000683,
+        "total": 0.0000273
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Compubyte Limited",
+    "displayName": "Compubyte",
+    "properties": [
+        "clan.su",
+        "ucoz.com",
+        "ucoz.net",
+        "ucoz.ru",
+        "usocial.pro"
+    ],
+    "prevalence": {
+        "tracking": 0.0000819,
+        "nonTracking": 0.0000341,
+        "total": 0.000116
+    }
+}

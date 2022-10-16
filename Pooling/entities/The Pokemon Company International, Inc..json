@@ -1,0 +1,19 @@
+{
+    "name": "The Pokemon Company International, Inc.",
+    "displayName": "The Pokemon Company International",
+    "properties": [
+        "detectivepikachu.com",
+        "pokemon-sunmoon.com",
+        "pokemon.com",
+        "pokemongo.com",
+        "pokemonlegendary.com",
+        "pokemonplayhouse.com",
+        "pokemontcg.com",
+        "pokkentournament.com"
+    ],
+    "prevalence": {
+        "tracking": 0,
+        "nonTracking": 0.00000683,
+        "total": 0.00000683
+    }
+}

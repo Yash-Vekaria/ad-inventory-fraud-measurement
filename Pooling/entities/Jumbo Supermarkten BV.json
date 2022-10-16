@@ -1,0 +1,12 @@
+{
+    "name": "Jumbo Supermarkten BV",
+    "displayName": "Jumbo Supermarkten",
+    "properties": [
+        "jumbo.com"
+    ],
+    "prevalence": {
+        "tracking": 0.00000679,
+        "nonTracking": 0,
+        "total": 0.00000679
+    }
+}

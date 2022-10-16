@@ -1,0 +1,12 @@
+{
+    "name": "Mode Analytics, Inc.",
+    "displayName": "Mode Analytics",
+    "properties": [
+        "modeanalytics.com"
+    ],
+    "prevalence": {
+        "tracking": 0,
+        "nonTracking": 0.0000138,
+        "total": 0.0000138
+    }
+}

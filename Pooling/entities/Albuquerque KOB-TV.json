@@ -1,0 +1,12 @@
+{
+    "name": "Albuquerque KOB-TV",
+    "displayName": "Albuquerque KOB-TV",
+    "properties": [
+        "kob.com"
+    ],
+    "prevalence": {
+        "tracking": 0.00000691,
+        "nonTracking": 0,
+        "total": 0.00000691
+    }
+}

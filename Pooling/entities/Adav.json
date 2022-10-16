@@ -1,0 +1,12 @@
+{
+    "name": "Adav",
+    "displayName": "Adav",
+    "properties": [
+        "adav-assoc.com"
+    ],
+    "prevalence": {
+        "tracking": 0.000102,
+        "nonTracking": 0,
+        "total": 0.000102
+    }
+}

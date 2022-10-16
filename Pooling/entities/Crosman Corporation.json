@@ -1,0 +1,12 @@
+{
+    "name": "Crosman Corporation",
+    "displayName": "Crosman",
+    "properties": [
+        "crosman.com"
+    ],
+    "prevalence": {
+        "tracking": 0.00000694,
+        "nonTracking": 0,
+        "total": 0.00000694
+    }
+}

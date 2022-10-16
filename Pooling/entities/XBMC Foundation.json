@@ -1,0 +1,8 @@
+{
+    "name": "XBMC Foundation",
+    "displayName": "XBMC Foundation",
+    "properties": [
+        "kodi.tv",
+        "kodi.wiki"
+    ]
+}

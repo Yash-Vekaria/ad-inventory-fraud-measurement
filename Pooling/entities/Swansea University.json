@@ -1,0 +1,12 @@
+{
+    "name": "Swansea University",
+    "displayName": "Swansea University",
+    "properties": [
+        "swan.ac.uk"
+    ],
+    "prevalence": {
+        "tracking": 0.00000678,
+        "nonTracking": 0,
+        "total": 0.00000678
+    }
+}

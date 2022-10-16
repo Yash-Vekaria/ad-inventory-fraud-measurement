@@ -1,0 +1,14 @@
+{
+    "name": "U.S. Department of Agriculture",
+    "displayName": "U.S. Department of Agriculture",
+    "properties": [
+        "choosemyplate.gov",
+        "fs.fed.us",
+        "nwcg.gov"
+    ],
+    "prevalence": {
+        "tracking": 0.00000683,
+        "nonTracking": 0,
+        "total": 0.00000683
+    }
+}

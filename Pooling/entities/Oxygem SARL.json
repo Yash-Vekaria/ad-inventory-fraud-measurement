@@ -1,0 +1,14 @@
+{
+    "name": "Oxygem SARL",
+    "displayName": "Oxygem",
+    "properties": [
+        "fourchette-et-bikini.fr",
+        "meteocity.com",
+        "passeportsante.net"
+    ],
+    "prevalence": {
+        "tracking": 0.0001,
+        "nonTracking": 0,
+        "total": 0.0001
+    }
+}

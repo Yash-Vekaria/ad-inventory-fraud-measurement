@@ -1,0 +1,15 @@
+{
+    "name": "The Royal Bank of Scotland Group Plc",
+    "displayName": "The Royal Bank of Scotland Group",
+    "properties": [
+        "natwest.com",
+        "nwolb.com",
+        "rbs.co.uk",
+        "ulsterbank.ie"
+    ],
+    "prevalence": {
+        "tracking": 0.00000681,
+        "nonTracking": 0.0000136,
+        "total": 0.0000204
+    }
+}

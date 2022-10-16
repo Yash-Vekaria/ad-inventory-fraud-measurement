@@ -1,0 +1,19 @@
+{
+    "name": "Canon Inc.",
+    "displayName": "Canon",
+    "properties": [
+        "c-ij.com",
+        "canon-europe.com",
+        "canon.ch",
+        "canon.co.uk",
+        "canon.com",
+        "canon.de",
+        "canon.fr",
+        "canon.nl"
+    ],
+    "prevalence": {
+        "tracking": 0.0000137,
+        "nonTracking": 0.00000683,
+        "total": 0.0000205
+    }
+}

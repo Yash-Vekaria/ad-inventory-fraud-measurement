@@ -1,0 +1,20 @@
+{
+    "name": "GoodRx, Inc.",
+    "displayName": "GoodRx",
+    "properties": [
+        "goodrx.com",
+        "goodrx.pharmacy",
+        "goodrxgold.com",
+        "grxstatic.com",
+        "grxweb.com",
+        "heydoctor.com",
+        "heydoctor.xyz",
+        "sappira.com",
+        "sappira.io"
+    ],
+    "prevalence": {
+        "tracking": 0.00000683,
+        "nonTracking": 0,
+        "total": 0.00000683
+    }
+}

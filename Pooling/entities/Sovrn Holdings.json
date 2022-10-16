@@ -1,0 +1,16 @@
+{
+    "name": "Sovrn Holdings",
+    "displayName": "Sovrn Holdings",
+    "properties": [
+        "lijit.com",
+        "s-onetag.com",
+        "sovrn.com",
+        "sovrnlabs.net",
+        "viglink.com"
+    ],
+    "prevalence": {
+        "tracking": 0.111,
+        "nonTracking": 0.00177,
+        "total": 0.113
+    }
+}

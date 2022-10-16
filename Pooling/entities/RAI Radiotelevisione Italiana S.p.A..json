@@ -1,0 +1,16 @@
+{
+    "name": "RAI Radiotelevisione Italiana S.p.A.",
+    "displayName": "RAI Radiotelevisione Italiana",
+    "properties": [
+        "rai.it",
+        "rai.tv",
+        "rainews.it",
+        "raiplay.it",
+        "raiplayradio.it"
+    ],
+    "prevalence": {
+        "tracking": 0.00000683,
+        "nonTracking": 0,
+        "total": 0.00000683
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Dos Mil Palabras S.L.",
+    "displayName": "Dos Mil Palabras",
+    "properties": [
+        "okdiario.com"
+    ],
+    "prevalence": {
+        "tracking": 0,
+        "nonTracking": 0.0000204,
+        "total": 0.0000204
+    }
+}

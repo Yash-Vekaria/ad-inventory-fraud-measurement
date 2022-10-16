@@ -1,0 +1,12 @@
+{
+    "name": "Digital Science Research Solutions Inc",
+    "displayName": "Digital Science Research Solutions",
+    "properties": [
+        "dimensions.ai"
+    ],
+    "prevalence": {
+        "tracking": 0.000102,
+        "nonTracking": 0.00000683,
+        "total": 0.000109
+    }
+}

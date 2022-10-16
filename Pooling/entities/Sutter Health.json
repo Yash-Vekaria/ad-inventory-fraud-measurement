@@ -1,0 +1,8 @@
+{
+    "name": "Sutter Health",
+    "displayName": "Sutter Health",
+    "properties": [
+        "pamf.org",
+        "sutterhealth.org"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Focus on the Family",
+    "displayName": "Focus on the Family",
+    "properties": [
+        "boundless.org",
+        "focusonthefamily.com",
+        "pluggedin.com"
+    ],
+    "prevalence": {
+        "tracking": 0.00000683,
+        "nonTracking": 0,
+        "total": 0.00000683
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Sherwin-Williams",
+    "displayName": "Sherwin-Williams",
+    "properties": [
+        "minwax.com",
+        "sherwin-williams.com",
+        "valsparpaint.com"
+    ],
+    "prevalence": {
+        "tracking": 0.00000683,
+        "nonTracking": 0,
+        "total": 0.00000683
+    }
+}

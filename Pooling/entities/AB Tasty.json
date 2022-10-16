@@ -1,0 +1,13 @@
+{
+    "name": "AB Tasty",
+    "displayName": "AB Tasty",
+    "properties": [
+        "abtasty.com",
+        "flagship.io"
+    ],
+    "prevalence": {
+        "tracking": 0.00253,
+        "nonTracking": 0.000355,
+        "total": 0.00288
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "name": "A&E Television Networks, LLC",
+    "displayName": "A&E Television Networks",
+    "properties": [
+        "aetn.com",
+        "aetnd.com",
+        "aetv.com",
+        "biography.com",
+        "history.com",
+        "mylifetime.com"
+    ],
+    "prevalence": {
+        "tracking": 0.00000683,
+        "nonTracking": 0,
+        "total": 0.00000683
+    }
+}

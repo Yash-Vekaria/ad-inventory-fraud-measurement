@@ -1,0 +1,12 @@
+{
+    "name": "Expansion",
+    "displayName": "Expansion",
+    "properties": [
+        "expansion.mx"
+    ],
+    "prevalence": {
+        "tracking": 0.00000683,
+        "nonTracking": 0,
+        "total": 0.00000683
+    }
+}

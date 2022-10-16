@@ -1,0 +1,19 @@
+{
+    "name": "Luxottica Group SpA",
+    "displayName": "Luxottica Group",
+    "properties": [
+        "lenscrafters.com",
+        "luxottica.com",
+        "oakley.com",
+        "oliverpeoples.com",
+        "pearlevision.com",
+        "ray-ban.com",
+        "sunglasshut.com",
+        "targetoptical.com"
+    ],
+    "prevalence": {
+        "tracking": 0.00000683,
+        "nonTracking": 0.0000137,
+        "total": 0.0000205
+    }
+}

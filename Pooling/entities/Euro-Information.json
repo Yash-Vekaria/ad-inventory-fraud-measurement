@@ -1,0 +1,21 @@
+{
+    "name": "Euro-Information",
+    "displayName": "Euro-Information",
+    "properties": [
+        "bienpublic.com",
+        "dna.fr",
+        "estrepublicain.fr",
+        "lalsace.fr",
+        "ledauphine.com",
+        "lejsl.com",
+        "leprogres.fr",
+        "libramemoria.com",
+        "prsmedia.fr",
+        "republicain-lorrain.fr"
+    ],
+    "prevalence": {
+        "tracking": 0.00000683,
+        "nonTracking": 0,
+        "total": 0.00000683
+    }
+}

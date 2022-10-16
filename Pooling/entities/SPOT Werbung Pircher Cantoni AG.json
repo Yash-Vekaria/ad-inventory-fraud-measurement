@@ -1,0 +1,12 @@
+{
+    "name": "SPOT Werbung Pircher Cantoni AG",
+    "displayName": "SPOT Werbung Pircher Cantoni",
+    "properties": [
+        "spotwerbung.ch"
+    ],
+    "prevalence": {
+        "tracking": 0.00000683,
+        "nonTracking": 0,
+        "total": 0.00000683
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "name": "bitmovin GmbH",
+    "displayName": "bitmovin",
+    "properties": [
+        "bitmovin.com"
+    ],
+    "prevalence": {
+        "tracking": 0.0000546,
+        "nonTracking": 0.000109,
+        "total": 0.000164
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "name": "Native Ads Inc",
+    "displayName": "Native Ads",
+    "properties": [
+        "headbidding.net",
+        "nativeads.com"
+    ],
+    "prevalence": {
+        "tracking": 0.0000205,
+        "nonTracking": 0,
+        "total": 0.0000205
+    }
+}

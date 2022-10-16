@@ -1,0 +1,12 @@
+{
+    "name": "MedTargetSystem",
+    "displayName": "MedTargetSystem",
+    "properties": [
+        "medtargetsystem.com"
+    ],
+    "prevalence": {
+        "tracking": 0.00133,
+        "nonTracking": 0.0000137,
+        "total": 0.00134
+    }
+}

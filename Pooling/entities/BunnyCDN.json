@@ -1,0 +1,13 @@
+{
+    "name": "BunnyCDN",
+    "displayName": "BunnyCDN",
+    "properties": [
+        "b-cdn.net",
+        "bunnycdn.com"
+    ],
+    "prevalence": {
+        "tracking": 0.00407,
+        "nonTracking": 0.006,
+        "total": 0.0101
+    }
+}

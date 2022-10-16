@@ -1,0 +1,12 @@
+{
+    "name": "International Air Transport Association",
+    "displayName": "International Air Transport Association",
+    "properties": [
+        "iata.org"
+    ],
+    "prevalence": {
+        "tracking": 0.000101,
+        "nonTracking": 0,
+        "total": 0.000101
+    }
+}

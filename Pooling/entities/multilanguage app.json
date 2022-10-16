@@ -1,0 +1,12 @@
+{
+    "name": "multilanguage app",
+    "displayName": "multilanguage app",
+    "properties": [
+        "multilanguage.xyz"
+    ],
+    "prevalence": {
+        "tracking": 0.000101,
+        "nonTracking": 0,
+        "total": 0.000101
+    }
+}

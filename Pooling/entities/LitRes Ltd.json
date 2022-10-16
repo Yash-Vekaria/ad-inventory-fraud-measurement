@@ -1,0 +1,12 @@
+{
+    "name": "LitRes Ltd",
+    "displayName": "LitRes",
+    "properties": [
+        "litres.ru"
+    ],
+    "prevalence": {
+        "tracking": 0.00000683,
+        "nonTracking": 0.0000205,
+        "total": 0.0000273
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Rochester Post-Bulletin",
+    "displayName": "Rochester Post-Bulletin",
+    "properties": [
+        "postbulletin.com"
+    ],
+    "prevalence": {
+        "tracking": 0.0000069,
+        "nonTracking": 0,
+        "total": 0.0000069
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "name": "8x8, Inc.",
+    "displayName": "8x8",
+    "properties": [
+        "8x8.com",
+        "jitsi.org"
+    ],
+    "prevalence": {
+        "tracking": 0.000218,
+        "nonTracking": 0.00000683,
+        "total": 0.000225
+    }
+}

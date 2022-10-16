@@ -1,0 +1,12 @@
+{
+    "name": "Heathrow Airport Limited",
+    "displayName": "Heathrow Airport",
+    "properties": [
+        "heathrow.com"
+    ],
+    "prevalence": {
+        "tracking": 0.00000681,
+        "nonTracking": 0,
+        "total": 0.00000681
+    }
+}

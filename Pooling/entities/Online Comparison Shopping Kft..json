@@ -1,0 +1,13 @@
+{
+    "name": "Online Comparison Shopping Kft.",
+    "displayName": "Online Comparison Shopping Kft",
+    "properties": [
+        "akcdn.net",
+        "arukereso.com"
+    ],
+    "prevalence": {
+        "tracking": 0.0000205,
+        "nonTracking": 0.00000683,
+        "total": 0.0000273
+    }
+}

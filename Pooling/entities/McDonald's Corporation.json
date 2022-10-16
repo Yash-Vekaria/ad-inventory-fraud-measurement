@@ -1,0 +1,21 @@
+{
+    "name": "McDonald's Corporation",
+    "displayName": "McDonald's",
+    "properties": [
+        "chatotaberu.jp",
+        "mcd-holdings.co.jp",
+        "mcdonalds.co.jp",
+        "mcdonalds.com",
+        "mcdonalds.com.au",
+        "mcdonalds.de",
+        "mcdonalds.fr",
+        "mcdvoice.com",
+        "mcpr.jp",
+        "mdj.jp"
+    ],
+    "prevalence": {
+        "tracking": 0.0001,
+        "nonTracking": 0,
+        "total": 0.0001
+    }
+}

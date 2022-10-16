@@ -1,0 +1,13 @@
+{
+    "name": "Third Door Media",
+    "displayName": "Third Door Media",
+    "properties": [
+        "marketingland.com",
+        "searchengineland.com"
+    ],
+    "prevalence": {
+        "tracking": 0,
+        "nonTracking": 0.000101,
+        "total": 0.000101
+    }
+}

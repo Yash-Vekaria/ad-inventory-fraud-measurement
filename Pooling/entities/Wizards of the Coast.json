@@ -1,0 +1,13 @@
+{
+    "name": "Wizards of the Coast",
+    "displayName": "Wizards of the Coast",
+    "properties": [
+        "dmsguild.com",
+        "wizards.com"
+    ],
+    "prevalence": {
+        "tracking": 0.00000683,
+        "nonTracking": 0.00000683,
+        "total": 0.0000137
+    }
+}

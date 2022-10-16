@@ -1,0 +1,12 @@
+{
+    "name": "CleverPush GmbH",
+    "displayName": "CleverPush",
+    "properties": [
+        "cleverpush.com"
+    ],
+    "prevalence": {
+        "tracking": 0.00113,
+        "nonTracking": 0.0000478,
+        "total": 0.00118
+    }
+}

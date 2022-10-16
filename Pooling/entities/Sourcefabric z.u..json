@@ -1,0 +1,13 @@
+{
+    "name": "Sourcefabric z.u.",
+    "displayName": "Sourcefabric z.u",
+    "properties": [
+        "airtime.pro",
+        "liveblog.pro"
+    ],
+    "prevalence": {
+        "tracking": 0,
+        "nonTracking": 0.0000136,
+        "total": 0.0000136
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "name": "G Media",
+    "displayName": "G Media",
+    "properties": [
+        "abbywinters.com"
+    ],
+    "prevalence": {
+        "tracking": 0.0000139,
+        "nonTracking": 0,
+        "total": 0.0000139
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "name": "Gouvernement du Quebec Conseil du tresor Services gouvernementaux",
+    "displayName": "Gouvernement du Quebec Conseil du tresor Services gouvernementaux",
+    "properties": [
+        "gouv.qc.ca",
+        "quebec.ca"
+    ],
+    "prevalence": {
+        "tracking": 0.000102,
+        "nonTracking": 0,
+        "total": 0.000102
+    }
+}

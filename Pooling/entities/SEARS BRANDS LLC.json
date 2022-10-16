@@ -1,0 +1,20 @@
+{
+    "name": "SEARS BRANDS LLC",
+    "displayName": "SEARS BRANDS",
+    "properties": [
+        "kenmore.com",
+        "kmart.com",
+        "sears.com",
+        "searshc.com",
+        "searshomeservices.com",
+        "searsoutlet.com",
+        "searspartsdirect.com",
+        "shld.net",
+        "shopyourway.com"
+    ],
+    "prevalence": {
+        "tracking": 0.0000137,
+        "nonTracking": 0,
+        "total": 0.0000137
+    }
+}

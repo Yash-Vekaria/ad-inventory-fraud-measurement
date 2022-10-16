@@ -1,0 +1,28 @@
+{
+    "name": "apilayer GmbH",
+    "displayName": "apilayer",
+    "properties": [
+        "apilayer.com",
+        "authorizelayer.com",
+        "coinlayer.com",
+        "currencylayer.com",
+        "eversign.com",
+        "fixer.io",
+        "freegeoip.net",
+        "giflayer.com",
+        "ipstack.com",
+        "languagelayer.com",
+        "mailboxlayer.com",
+        "nekudo.com",
+        "numverify.com",
+        "pdflayer.com",
+        "screenshotlayer.com",
+        "vatlayer.com",
+        "weatherstack.com"
+    ],
+    "prevalence": {
+        "tracking": 0,
+        "nonTracking": 0.00128,
+        "total": 0.00128
+    }
+}

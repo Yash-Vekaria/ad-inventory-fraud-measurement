@@ -1,0 +1,14 @@
+{
+    "name": "Thomann GmbH",
+    "displayName": "Thomann",
+    "properties": [
+        "gearnews.com",
+        "thomann.de",
+        "thomannmusic.com"
+    ],
+    "prevalence": {
+        "tracking": 0.0000205,
+        "nonTracking": 0.0000273,
+        "total": 0.0000478
+    }
+}

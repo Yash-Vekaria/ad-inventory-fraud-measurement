@@ -1,0 +1,12 @@
+{
+    "name": "North Carolina Department Of Transportation",
+    "displayName": "North Carolina Department Of Transportation",
+    "properties": [
+        "ncdot.gov"
+    ],
+    "prevalence": {
+        "tracking": 0.0000069,
+        "nonTracking": 0,
+        "total": 0.0000069
+    }
+}

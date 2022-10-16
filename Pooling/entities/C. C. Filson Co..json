@@ -1,0 +1,12 @@
+{
+    "name": "C. C. Filson Co.",
+    "displayName": "C. C. Filson",
+    "properties": [
+        "filson.com"
+    ],
+    "prevalence": {
+        "tracking": 0.0000076,
+        "nonTracking": 0,
+        "total": 0.0000076
+    }
+}

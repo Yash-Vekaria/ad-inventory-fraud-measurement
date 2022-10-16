@@ -1,0 +1,17 @@
+{
+    "name": "Fanatics, Inc.",
+    "displayName": "Fanatics",
+    "properties": [
+        "fanatics.com",
+        "fansedge.com",
+        "footballfanatics.com",
+        "frgimages.com",
+        "mlbshop.com",
+        "sportsmemorabilia.com"
+    ],
+    "prevalence": {
+        "tracking": 0.00000683,
+        "nonTracking": 0.000116,
+        "total": 0.000123
+    }
+}

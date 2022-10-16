@@ -1,0 +1,16 @@
+{
+    "name": "Titan Gate AD",
+    "displayName": "Titan Gate",
+    "properties": [
+        "phonearena.com",
+        "phonearena.cz",
+        "phonearena.it",
+        "pubgalaxy.com",
+        "titangate.com"
+    ],
+    "prevalence": {
+        "tracking": 0.000355,
+        "nonTracking": 0.000041,
+        "total": 0.000396
+    }
+}

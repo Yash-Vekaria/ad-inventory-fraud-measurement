@@ -1,0 +1,13 @@
+{
+    "name": "Evaneos",
+    "displayName": "Evaneos",
+    "properties": [
+        "evaneos.com",
+        "evcdn.net"
+    ],
+    "prevalence": {
+        "tracking": 0,
+        "nonTracking": 0.00000678,
+        "total": 0.00000678
+    }
+}

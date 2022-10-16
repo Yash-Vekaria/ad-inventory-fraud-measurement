@@ -1,0 +1,12 @@
+{
+    "name": "American Diabetes Association",
+    "displayName": "American Diabetes Association",
+    "properties": [
+        "diabetes.org"
+    ],
+    "prevalence": {
+        "tracking": 0.00000692,
+        "nonTracking": 0.00000692,
+        "total": 0.0000138
+    }
+}

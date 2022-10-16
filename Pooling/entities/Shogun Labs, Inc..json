@@ -1,0 +1,12 @@
+{
+    "name": "Shogun Labs, Inc.",
+    "displayName": "Shogun Labs",
+    "properties": [
+        "getshogun.com"
+    ],
+    "prevalence": {
+        "tracking": 0.00425,
+        "nonTracking": 0.00013,
+        "total": 0.00438
+    }
+}

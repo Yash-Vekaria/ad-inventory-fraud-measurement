@@ -1,0 +1,20 @@
+{
+    "name": "JUST MAGAZINES PTY LTD",
+    "displayName": "JUST MAGAZINES",
+    "properties": [
+        "boattrader.com.au",
+        "just4x4.com.au",
+        "justauto.com.au",
+        "justbikes.com.au",
+        "justcars.com.au",
+        "justheavyequipment.com.au",
+        "justparts.com",
+        "justparts.com.au",
+        "justtrucks.com.au"
+    ],
+    "prevalence": {
+        "tracking": 0.0000136,
+        "nonTracking": 0,
+        "total": 0.0000136
+    }
+}

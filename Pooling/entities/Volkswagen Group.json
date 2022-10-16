@@ -1,0 +1,30 @@
+{
+    "name": "Volkswagen Group",
+    "displayName": "Volkswagen Group",
+    "properties": [
+        "audi.co.uk",
+        "audi.com",
+        "audi.de",
+        "audi.nl",
+        "audiusa.com",
+        "modiforce.com",
+        "porsche.com",
+        "porsche.de",
+        "porsche.fr",
+        "porsche.it",
+        "porsche.nl",
+        "seat.nl",
+        "skoda.nl",
+        "volkswagen-nutzfahrzeuge.de",
+        "volkswagen.co.uk",
+        "volkswagen.de",
+        "volkswagen.nl",
+        "vw.com",
+        "vwbedrijfswagens.nl"
+    ],
+    "prevalence": {
+        "tracking": 0.0000273,
+        "nonTracking": 0,
+        "total": 0.0000273
+    }
+}

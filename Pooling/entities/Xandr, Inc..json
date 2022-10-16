@@ -1,0 +1,14 @@
+{
+    "name": "Xandr, Inc.",
+    "displayName": "Xandr",
+    "properties": [
+        "adnxs-simple.com",
+        "adnxs.com",
+        "appnexus.com"
+    ],
+    "prevalence": {
+        "tracking": 0.232,
+        "nonTracking": 0.0124,
+        "total": 0.244
+    }
+}

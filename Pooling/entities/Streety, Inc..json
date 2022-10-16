@@ -1,0 +1,13 @@
+{
+    "name": "Streety, Inc.",
+    "displayName": "Streety",
+    "properties": [
+        "streetify.io",
+        "streety.io"
+    ],
+    "prevalence": {
+        "tracking": 0.0000152,
+        "nonTracking": 0,
+        "total": 0.0000152
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Duke Energy Carolinas, LLC",
+    "displayName": "Duke Energy Carolinas",
+    "properties": [
+        "duke-energy.com"
+    ],
+    "prevalence": {
+        "tracking": 0.00000683,
+        "nonTracking": 0,
+        "total": 0.00000683
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Bright Market LLC dba FastSpring",
+    "displayName": "FastSpring",
+    "properties": [
+        "onfastspring.com"
+    ],
+    "prevalence": {
+        "tracking": 0.00000683,
+        "nonTracking": 0.00013,
+        "total": 0.000137
+    }
+}

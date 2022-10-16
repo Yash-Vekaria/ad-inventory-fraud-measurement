@@ -1,0 +1,42 @@
+{
+    "name": "Naver Corporation",
+    "displayName": "Naver",
+    "properties": [
+        "autoline.link",
+        "b612.net",
+        "b612kaji.com",
+        "bgzt.co.kr",
+        "blogimg.jp",
+        "blogos.com",
+        "blogsys.jp",
+        "bunjang.co.kr",
+        "bunjang.net",
+        "fivecdm.com",
+        "jlisting.jp",
+        "kajicam.cn",
+        "kajicam.com",
+        "livedoor.com",
+        "livedoor.jp",
+        "livedoor.net",
+        "naver.com",
+        "naver.jp",
+        "naver.net",
+        "navercloudcorp.com",
+        "naverlabs.com",
+        "pstatic.net",
+        "snow.me",
+        "snowcam.cn",
+        "snowcorp.com",
+        "unthem.com",
+        "wattpad.com",
+        "webtoons.com",
+        "webtoonscorp.com",
+        "worksmobile.com",
+        "yiruikecorp.com"
+    ],
+    "prevalence": {
+        "tracking": 0.000642,
+        "nonTracking": 0.0000819,
+        "total": 0.000724
+    }
+}

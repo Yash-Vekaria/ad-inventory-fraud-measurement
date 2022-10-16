@@ -1,0 +1,30 @@
+{
+    "name": "Leaf Group LTD",
+    "displayName": "Leaf Group",
+    "properties": [
+        "bizfluent.com",
+        "cuteness.com",
+        "ehow.com",
+        "ehowcdn.com",
+        "healthfully.com",
+        "hunker.com",
+        "leafcdn.tv",
+        "legalzoom.com",
+        "livestrong.com",
+        "livestrongcdn.com",
+        "pocketsense.com",
+        "s6img.com",
+        "saatchiart.com",
+        "sapling.com",
+        "sportsrec.com",
+        "synonym.com",
+        "techwalla.com",
+        "theclassroom.com",
+        "wellandgood.com"
+    ],
+    "prevalence": {
+        "tracking": 0.0000137,
+        "nonTracking": 0.00041,
+        "total": 0.000424
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "name": "General Motors LLC",
+    "displayName": "General Motors",
+    "properties": [
+        "acdelcomaps.com",
+        "buick.com",
+        "cadillac.com",
+        "chevrolet.com",
+        "gm.com",
+        "gmc.com",
+        "gmfleet.com",
+        "vauxhall.co.uk"
+    ],
+    "prevalence": {
+        "tracking": 0.000041,
+        "nonTracking": 0,
+        "total": 0.000041
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "name": "Sberbank of Russia",
+    "displayName": "Sberbank of Russia",
+    "properties": [
+        "pokupay.ru",
+        "sberbank.chat",
+        "sberbank.com",
+        "sberbank.ru",
+        "sberbusinessconf.ru",
+        "sbermama.ru",
+        "sbrf.ru",
+        "sbspasibo.ru",
+        "spasibo.ru"
+    ],
+    "prevalence": {
+        "tracking": 0.0000273,
+        "nonTracking": 0,
+        "total": 0.0000273
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "name": "Koninklijke Ahold Delhaize N.V.",
+    "displayName": "Ahold Delhaize",
+    "properties": [
+        "ah.be",
+        "ah.nl",
+        "ahold.com",
+        "aholddelhaize.com",
+        "aholdusa.com",
+        "bol.com",
+        "delhaize.be",
+        "etos.nl",
+        "foodlion.com",
+        "freshdirect.com",
+        "gall.nl",
+        "giantfood.com",
+        "hannaford.com",
+        "hotspotsvankpn.com",
+        "s-bol.com",
+        "stopandshop.com"
+    ],
+    "prevalence": {
+        "tracking": 0.000041,
+        "nonTracking": 0.0000478,
+        "total": 0.0000888
+    }
+}

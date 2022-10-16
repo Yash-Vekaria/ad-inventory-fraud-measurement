@@ -1,0 +1,13 @@
+{
+    "name": "University of Virginia",
+    "displayName": "University of Virginia",
+    "properties": [
+        "centerforpolitics.org",
+        "virginia.edu"
+    ],
+    "prevalence": {
+        "tracking": 0.00000683,
+        "nonTracking": 0.00000683,
+        "total": 0.0000137
+    }
+}

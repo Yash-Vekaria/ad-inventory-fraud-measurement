@@ -1,0 +1,15 @@
+{
+    "name": "Wells Fargo & Company",
+    "displayName": "Wells Fargo & Company",
+    "properties": [
+        "wellsfargo.com",
+        "wellsfargoadvisors.com",
+        "wellsfargodealerservices.com",
+        "wellsfargomedia.com"
+    ],
+    "prevalence": {
+        "tracking": 0.00000678,
+        "nonTracking": 0,
+        "total": 0.00000678
+    }
+}

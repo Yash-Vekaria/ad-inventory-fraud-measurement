@@ -1,0 +1,13 @@
+{
+    "name": "BPCE",
+    "displayName": "BPCE",
+    "properties": [
+        "banquepopulaire.fr",
+        "credit-cooperatif.coop"
+    ],
+    "prevalence": {
+        "tracking": 0.0001,
+        "nonTracking": 0,
+        "total": 0.0001
+    }
+}

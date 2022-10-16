@@ -1,0 +1,12 @@
+{
+    "name": "VTL DailyD Websites",
+    "displayName": "VTL DailyD Websites",
+    "properties": [
+        "dailydiapers.com"
+    ],
+    "prevalence": {
+        "tracking": 0.00000683,
+        "nonTracking": 0,
+        "total": 0.00000683
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "name": "ForeSee Results, Inc.",
+    "displayName": "ForeSee Results",
+    "properties": [
+        "4seeresults.com",
+        "foresee.com",
+        "foreseeresults.com"
+    ],
+    "prevalence": {
+        "tracking": 0.00301,
+        "nonTracking": 0.000389,
+        "total": 0.0034
+    }
+}

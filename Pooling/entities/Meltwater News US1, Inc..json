@@ -1,0 +1,12 @@
+{
+    "name": "Meltwater News US1, Inc.",
+    "displayName": "Meltwater News US1",
+    "properties": [
+        "meltwaternews.com"
+    ],
+    "prevalence": {
+        "tracking": 0.000101,
+        "nonTracking": 0,
+        "total": 0.000101
+    }
+}

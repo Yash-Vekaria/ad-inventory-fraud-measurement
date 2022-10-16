@@ -1,0 +1,12 @@
+{
+    "name": "Georg-August-Universitaet Goettingen",
+    "displayName": "Georg-August-Universitaet Goettingen",
+    "properties": [
+        "uni-goettingen.de"
+    ],
+    "prevalence": {
+        "tracking": 0.00000681,
+        "nonTracking": 0,
+        "total": 0.00000681
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "name": "Snap Inc.",
+    "displayName": "Snap",
+    "properties": [
+        "bitmoji.com",
+        "bitstrips.com",
+        "sc-cdn.net",
+        "sc-jpl.com",
+        "sc-prod.net",
+        "sc-static.net",
+        "snap.com",
+        "snapads.com",
+        "snapchat.com",
+        "snapkit.com",
+        "zen.ly",
+        "zenly-app.com",
+        "zenly.com"
+    ],
+    "prevalence": {
+        "tracking": 0.0277,
+        "nonTracking": 0.0000887,
+        "total": 0.0278
+    }
+}

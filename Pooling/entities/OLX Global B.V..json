@@ -1,0 +1,41 @@
+{
+    "name": "OLX Global B.V.",
+    "displayName": "OLX Global",
+    "properties": [
+        "grupozap.com",
+        "olx-st.com",
+        "olx.ba",
+        "olx.bg",
+        "olx.co.id",
+        "olx.co.za",
+        "olx.com",
+        "olx.com.ar",
+        "olx.com.br",
+        "olx.com.co",
+        "olx.com.ec",
+        "olx.com.gt",
+        "olx.com.ng",
+        "olx.com.ni",
+        "olx.com.pe",
+        "olx.com.sv",
+        "olx.in",
+        "olx.kz",
+        "olx.org",
+        "olx.ph",
+        "olx.pl",
+        "olx.pt",
+        "olx.ro",
+        "olx.ua",
+        "olx.uz",
+        "olxcdn.com",
+        "olxgroup.com",
+        "otodom.pl",
+        "otomoto.pl",
+        "standvirtual.com"
+    ],
+    "prevalence": {
+        "tracking": 0.000041,
+        "nonTracking": 0,
+        "total": 0.000041
+    }
+}

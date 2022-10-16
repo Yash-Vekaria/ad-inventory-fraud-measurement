@@ -1,0 +1,14 @@
+{
+    "name": "The Globe and Mail Inc.",
+    "displayName": "The Globe and Mail",
+    "properties": [
+        "sophi.io",
+        "theglobeandmail.ca",
+        "theglobeandmail.com"
+    ],
+    "prevalence": {
+        "tracking": 0.000403,
+        "nonTracking": 0.0000137,
+        "total": 0.000417
+    }
+}

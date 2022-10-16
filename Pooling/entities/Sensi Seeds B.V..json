@@ -1,0 +1,14 @@
+{
+    "name": "Sensi Seeds B.V.",
+    "displayName": "Sensi Seeds",
+    "properties": [
+        "cannaclicks.com",
+        "sensiseeds.com",
+        "weedseedshop.com"
+    ],
+    "prevalence": {
+        "tracking": 0.00000683,
+        "nonTracking": 0,
+        "total": 0.00000683
+    }
+}

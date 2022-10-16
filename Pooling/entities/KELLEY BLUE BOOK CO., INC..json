@@ -1,0 +1,13 @@
+{
+    "name": "KELLEY BLUE BOOK CO., INC.",
+    "displayName": "KELLEY BLUE BOOK",
+    "properties": [
+        "kbb.com",
+        "kelleybluebookimages.com"
+    ],
+    "prevalence": {
+        "tracking": 0.0000205,
+        "nonTracking": 0.0000137,
+        "total": 0.0000342
+    }
+}

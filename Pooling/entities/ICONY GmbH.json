@@ -1,0 +1,12 @@
+{
+    "name": "ICONY GmbH",
+    "displayName": "ICONY",
+    "properties": [
+        "icony.com"
+    ],
+    "prevalence": {
+        "tracking": 0,
+        "nonTracking": 0.0000205,
+        "total": 0.0000205
+    }
+}

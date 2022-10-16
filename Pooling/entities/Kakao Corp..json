@@ -1,0 +1,24 @@
+{
+    "name": "Kakao Corp.",
+    "displayName": "Kakao",
+    "properties": [
+        "blackdesertonline.com",
+        "brunch.co.kr",
+        "daum.net",
+        "daumcdn.net",
+        "kakao.co.kr",
+        "kakao.com",
+        "kakaocdn.net",
+        "kakaocorp.com",
+        "kakaofriends.com",
+        "kakaogame.com",
+        "kakaotalk.com",
+        "kgslb.com",
+        "kgstatic.net"
+    ],
+    "prevalence": {
+        "tracking": 0.00154,
+        "nonTracking": 0.0000341,
+        "total": 0.00157
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Robert Bosch GmbH",
+    "displayName": "Robert Bosch",
+    "properties": [
+        "1-2-do.com",
+        "bosch-do-it.com",
+        "bosch-do-it.de",
+        "bosch-ebike.com",
+        "bosch-professional.com",
+        "bosch.com",
+        "bosch.de",
+        "boschautoparts.com",
+        "boschtools.com",
+        "boschwebservices.com",
+        "dremel.com",
+        "ebike-connect.com"
+    ],
+    "prevalence": {
+        "tracking": 0.0000614,
+        "nonTracking": 0,
+        "total": 0.0000614
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "name": "OPEN BANK SA",
+    "displayName": "OPEN BANK",
+    "properties": [
+        "openbank.es"
+    ],
+    "prevalence": {
+        "tracking": 0.0001,
+        "nonTracking": 0,
+        "total": 0.0001
+    }
+}

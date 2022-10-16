@@ -1,0 +1,16 @@
+{
+    "name": "Universal City Studios",
+    "displayName": "Universal City Studios",
+    "properties": [
+        "grinchmovie.com",
+        "ucdp.net",
+        "universalorlando.com",
+        "universalstudioshollywood.com",
+        "usanetwork.com"
+    ],
+    "prevalence": {
+        "tracking": 0.0000137,
+        "nonTracking": 0.0000273,
+        "total": 0.000041
+    }
+}

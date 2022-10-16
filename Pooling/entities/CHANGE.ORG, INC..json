@@ -1,0 +1,12 @@
+{
+    "name": "CHANGE.ORG, INC.",
+    "displayName": "CHANGE.ORG",
+    "properties": [
+        "change.org"
+    ],
+    "prevalence": {
+        "tracking": 0.00000692,
+        "nonTracking": 0,
+        "total": 0.00000692
+    }
+}

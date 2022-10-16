@@ -1,0 +1,8 @@
+{
+    "name": "CustomWeather, Inc",
+    "displayName": "CustomWeather",
+    "properties": [
+        "myforecast.co",
+        "myforecast.com"
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Technische Universität Wien",
+    "displayName": "Technische Universität Wien",
+    "properties": [
+        "tuwien.ac.at"
+    ],
+    "prevalence": {
+        "tracking": 0.00000683,
+        "nonTracking": 0,
+        "total": 0.00000683
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Think Web Content SL",
+    "displayName": "Think Web Content",
+    "properties": [
+        "thinkwebcontent.com"
+    ],
+    "prevalence": {
+        "tracking": 0.00000683,
+        "nonTracking": 0,
+        "total": 0.00000683
+    }
+}

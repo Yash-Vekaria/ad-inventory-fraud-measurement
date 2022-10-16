@@ -1,0 +1,12 @@
+{
+    "name": "STATSMINISTERENS KONTOR",
+    "displayName": "STATSMINISTERENS KONTOR",
+    "properties": [
+        "regjeringen.no"
+    ],
+    "prevalence": {
+        "tracking": 0.0001,
+        "nonTracking": 0,
+        "total": 0.0001
+    }
+}

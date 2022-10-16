@@ -1,0 +1,13 @@
+{
+    "name": "Pelicanparts, LLC",
+    "displayName": "Pelicanparts",
+    "properties": [
+        "peachparts.com",
+        "pelicanparts.com"
+    ],
+    "prevalence": {
+        "tracking": 0.00000683,
+        "nonTracking": 0.00000683,
+        "total": 0.0000137
+    }
+}

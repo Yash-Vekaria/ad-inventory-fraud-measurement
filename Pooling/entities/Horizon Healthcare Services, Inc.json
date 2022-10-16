@@ -1,0 +1,12 @@
+{
+    "name": "Horizon Healthcare Services, Inc",
+    "displayName": "Horizon Healthcare Services",
+    "properties": [
+        "horizonblue.com"
+    ],
+    "prevalence": {
+        "tracking": 0.00000683,
+        "nonTracking": 0,
+        "total": 0.00000683
+    }
+}

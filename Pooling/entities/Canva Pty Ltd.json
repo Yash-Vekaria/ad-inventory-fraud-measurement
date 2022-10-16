@@ -1,0 +1,16 @@
+{
+    "name": "Canva Pty Ltd",
+    "displayName": "Canva",
+    "properties": [
+        "canva.com",
+        "canvastatus.com",
+        "kaleido.ai",
+        "pexels.com",
+        "pixabay.com"
+    ],
+    "prevalence": {
+        "tracking": 0.000164,
+        "nonTracking": 0.0000137,
+        "total": 0.000178
+    }
+}

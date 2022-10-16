@@ -1,0 +1,17 @@
+{
+    "name": "H & M Hennes & Mauritz AB",
+    "displayName": "H & M Hennes & Mauritz",
+    "properties": [
+        "arket.com",
+        "cosstores.com",
+        "hm.com",
+        "hmgroup.tech",
+        "monki.com",
+        "stories.com"
+    ],
+    "prevalence": {
+        "tracking": 0.0000205,
+        "nonTracking": 0,
+        "total": 0.0000205
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Northeastern University",
+    "displayName": "Northeastern University",
+    "properties": [
+        "northeastern.edu"
+    ],
+    "prevalence": {
+        "tracking": 0.0001,
+        "nonTracking": 0,
+        "total": 0.0001
+    }
+}

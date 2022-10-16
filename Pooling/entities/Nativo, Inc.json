@@ -1,0 +1,14 @@
+{
+    "name": "Nativo, Inc",
+    "displayName": "Nativo",
+    "properties": [
+        "nativo.net",
+        "ntv.io",
+        "postrelease.com"
+    ],
+    "prevalence": {
+        "tracking": 0.0439,
+        "nonTracking": 0.00996,
+        "total": 0.0539
+    }
+}

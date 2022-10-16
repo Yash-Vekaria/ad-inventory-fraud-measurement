@@ -1,0 +1,12 @@
+{
+    "name": "The Columbian Publishing Company",
+    "displayName": "The Columbian Publishing Company",
+    "properties": [
+        "columbian.com"
+    ],
+    "prevalence": {
+        "tracking": 0,
+        "nonTracking": 0.00000692,
+        "total": 0.00000692
+    }
+}

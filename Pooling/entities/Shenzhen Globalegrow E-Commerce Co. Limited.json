@@ -1,0 +1,14 @@
+{
+    "name": "Shenzhen Globalegrow E-Commerce Co. Limited",
+    "displayName": "Shenzhen Globalegrow E-Commerce",
+    "properties": [
+        "dresslily.com",
+        "gearbest.com",
+        "rosegal.com"
+    ],
+    "prevalence": {
+        "tracking": 0.0000136,
+        "nonTracking": 0.000373,
+        "total": 0.000387
+    }
+}

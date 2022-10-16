@@ -1,0 +1,12 @@
+{
+    "name": "ChessBase - Schachprogramme-Schachdatenbank Verlagsges. mbH",
+    "displayName": "ChessBase - Schachprogramme-Schachdatenbank Verlagsges",
+    "properties": [
+        "chessbase.com"
+    ],
+    "prevalence": {
+        "tracking": 0.000101,
+        "nonTracking": 0,
+        "total": 0.000101
+    }
+}

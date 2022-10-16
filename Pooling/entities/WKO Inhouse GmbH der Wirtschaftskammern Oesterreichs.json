@@ -1,0 +1,12 @@
+{
+    "name": "WKO Inhouse GmbH der Wirtschaftskammern Oesterreichs",
+    "displayName": "WKO Inhouse GmbH der Wirtschaftskammern Oesterreichs",
+    "properties": [
+        "wko.at"
+    ],
+    "prevalence": {
+        "tracking": 0.00000681,
+        "nonTracking": 0,
+        "total": 0.00000681
+    }
+}

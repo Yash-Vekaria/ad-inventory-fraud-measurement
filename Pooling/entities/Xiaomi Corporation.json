@@ -1,0 +1,30 @@
+{
+    "name": "Xiaomi Corporation",
+    "displayName": "Xiaomi",
+    "properties": [
+        "amazfit.com",
+        "appmifile.com",
+        "buy8.in",
+        "huami.com",
+        "mi-fds.net",
+        "mi-img.com",
+        "mi.co.id",
+        "mi.com",
+        "mifile.cn",
+        "mioffice.nc",
+        "miui.com",
+        "miwifi.com",
+        "po.co",
+        "po.co.id",
+        "poco.in",
+        "poco.net",
+        "xiaomi-france.com",
+        "xiaomi.com",
+        "xiaomi.net"
+    ],
+    "prevalence": {
+        "tracking": 0.00000683,
+        "nonTracking": 0,
+        "total": 0.00000683
+    }
+}

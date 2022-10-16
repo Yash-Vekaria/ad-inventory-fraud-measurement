@@ -1,0 +1,13 @@
+{
+    "name": "Glimr",
+    "displayName": "Glimr",
+    "properties": [
+        "glimr.io",
+        "katalysator.io"
+    ],
+    "prevalence": {
+        "tracking": 0.00000683,
+        "nonTracking": 0.000137,
+        "total": 0.000144
+    }
+}

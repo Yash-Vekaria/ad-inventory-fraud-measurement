@@ -1,0 +1,13 @@
+{
+    "name": "TMD Swiss AG",
+    "displayName": "TMD Swiss",
+    "properties": [
+        "acwebconnecting.com",
+        "wlresources.com"
+    ],
+    "prevalence": {
+        "tracking": 0.0000546,
+        "nonTracking": 0.000041,
+        "total": 0.0000956
+    }
+}

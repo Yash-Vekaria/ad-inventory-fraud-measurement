@@ -1,0 +1,14 @@
+{
+    "name": "MetroPress Ltd.",
+    "displayName": "MetroPress",
+    "properties": [
+        "bidspotter.com",
+        "globalauctionplatform.com",
+        "the-saleroom.com"
+    ],
+    "prevalence": {
+        "tracking": 0,
+        "nonTracking": 0.00000683,
+        "total": 0.00000683
+    }
+}

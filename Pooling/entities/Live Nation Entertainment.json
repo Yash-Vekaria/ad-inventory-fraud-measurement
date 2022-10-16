@@ -1,0 +1,30 @@
+{
+    "name": "Live Nation Entertainment",
+    "displayName": "Live Nation Entertainment",
+    "properties": [
+        "academymusicgroup.com",
+        "houseofblues.com",
+        "livenation.com",
+        "livenation.se",
+        "livenationinternational.com",
+        "ontourmedia.io",
+        "setlistfm.com",
+        "ticketmaster.ca",
+        "ticketmaster.co.uk",
+        "ticketmaster.com",
+        "ticketmaster.com.au",
+        "ticketmaster.com.mx",
+        "ticketmaster.de",
+        "ticketmaster.fr",
+        "ticketweb.ca",
+        "ticketweb.co.nz",
+        "ticketweb.com",
+        "ticketweb.com.au",
+        "ticketweb.ie"
+    ],
+    "prevalence": {
+        "tracking": 0.000041,
+        "nonTracking": 0.0000478,
+        "total": 0.0000888
+    }
+}

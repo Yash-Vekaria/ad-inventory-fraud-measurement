@@ -1,0 +1,25 @@
+{
+    "name": "Epic Games, Inc.",
+    "displayName": "Epic Games",
+    "properties": [
+        "battlebreakers.com",
+        "epicgames.com",
+        "epicgames.dev",
+        "epicgames.net",
+        "fortnite.com",
+        "paragon.com",
+        "playparagon.com",
+        "psyonix.com",
+        "roborecall.com",
+        "rocketleague.com",
+        "shadowcomplex.com",
+        "spyjinx.com",
+        "unrealengine.com",
+        "unrealtournament.com"
+    ],
+    "prevalence": {
+        "tracking": 0.0000205,
+        "nonTracking": 0.00000683,
+        "total": 0.0000273
+    }
+}

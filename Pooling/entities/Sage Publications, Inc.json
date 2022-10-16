@@ -1,0 +1,13 @@
+{
+    "name": "Sage Publications, Inc",
+    "displayName": "Sage Publications",
+    "properties": [
+        "gvpi.net",
+        "sagepub.com"
+    ],
+    "prevalence": {
+        "tracking": 0.0000069,
+        "nonTracking": 0,
+        "total": 0.0000069
+    }
+}

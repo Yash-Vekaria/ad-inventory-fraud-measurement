@@ -1,0 +1,23 @@
+{
+    "name": "Wirtualna Polska",
+    "displayName": "Wirtualna Polska",
+    "properties": [
+        "adtotal.pl",
+        "dobreprogramy.pl",
+        "fotoblogia.pl",
+        "gadzetomania.pl",
+        "kafeteria.pl",
+        "komorkomania.pl",
+        "money.pl",
+        "o2.pl",
+        "open.fm",
+        "pudelek.pl",
+        "wp.pl",
+        "wpimg.pl"
+    ],
+    "prevalence": {
+        "tracking": 0.000225,
+        "nonTracking": 0.000703,
+        "total": 0.000928
+    }
+}

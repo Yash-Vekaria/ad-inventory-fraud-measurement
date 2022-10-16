@@ -1,0 +1,28 @@
+{
+    "name": "Nippon Telegraph and Telephone Corporation",
+    "displayName": "NTT",
+    "properties": [
+        "dearone.io",
+        "docomo-analytics.com",
+        "docomo.ne.jp",
+        "docomodigital.com",
+        "dpoint.jp",
+        "ec-concier.com",
+        "global.ntt",
+        "group.ntt",
+        "imanara.jp",
+        "moduleapps.com",
+        "ntt.com",
+        "nttdocomo-ssw.com",
+        "nttdocomo.co.jp",
+        "nttglobal.net",
+        "p01-dpayment.com",
+        "transatel.com",
+        "whitehatsec.com"
+    ],
+    "prevalence": {
+        "tracking": 0.000246,
+        "nonTracking": 0.000143,
+        "total": 0.000389
+    }
+}

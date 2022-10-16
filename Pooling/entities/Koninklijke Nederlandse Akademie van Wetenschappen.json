@@ -1,0 +1,12 @@
+{
+    "name": "Koninklijke Nederlandse Akademie van Wetenschappen",
+    "displayName": "Koninklijke Nederlandse Akademie van Wetenschappen",
+    "properties": [
+        "knaw.nl"
+    ],
+    "prevalence": {
+        "tracking": 0.000101,
+        "nonTracking": 0,
+        "total": 0.000101
+    }
+}

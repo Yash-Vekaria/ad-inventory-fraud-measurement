@@ -1,0 +1,13 @@
+{
+    "name": "Matomo",
+    "displayName": "Matomo",
+    "properties": [
+        "matomo.cloud",
+        "matomo.org"
+    ],
+    "prevalence": {
+        "tracking": 0.000833,
+        "nonTracking": 0.000328,
+        "total": 0.00116
+    }
+}

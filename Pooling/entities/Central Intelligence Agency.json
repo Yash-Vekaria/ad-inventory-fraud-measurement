@@ -1,0 +1,12 @@
+{
+    "name": "Central Intelligence Agency",
+    "displayName": "Central Intelligence Agency",
+    "properties": [
+        "cia.gov"
+    ],
+    "prevalence": {
+        "tracking": 0.00000694,
+        "nonTracking": 0,
+        "total": 0.00000694
+    }
+}

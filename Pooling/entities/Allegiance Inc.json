@@ -1,0 +1,12 @@
+{
+    "name": "Allegiance Inc",
+    "displayName": "Allegiance",
+    "properties": [
+        "allegiancetech.com"
+    ],
+    "prevalence": {
+        "tracking": 0.0000478,
+        "nonTracking": 0.0000205,
+        "total": 0.0000683
+    }
+}

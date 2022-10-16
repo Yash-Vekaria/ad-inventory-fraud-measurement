@@ -1,0 +1,12 @@
+{
+    "name": "Vivocha S.r.l.",
+    "displayName": "Vivocha",
+    "properties": [
+        "vivocha.com"
+    ],
+    "prevalence": {
+        "tracking": 0.0000273,
+        "nonTracking": 0.0000137,
+        "total": 0.000041
+    }
+}

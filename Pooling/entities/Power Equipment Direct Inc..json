@@ -1,0 +1,26 @@
+{
+    "name": "Power Equipment Direct Inc.",
+    "displayName": "Power Equipment Direct",
+    "properties": [
+        "aircompressorsdirect.com",
+        "chainsawsdirect.com",
+        "chippersdirect.com",
+        "ecomfort.com",
+        "electricgeneratorsdirect.com",
+        "leafblowersdirect.com",
+        "logsplittersdirect.com",
+        "mowersdirect.com",
+        "powerequipmentdirect.com",
+        "pressurewashersdirect.com",
+        "snowblowersdirect.com",
+        "stringtrimmersdirect.com",
+        "sumppumpsdirect.com",
+        "tillersdirect.com",
+        "waterpumpsdirect.com"
+    ],
+    "prevalence": {
+        "tracking": 0.00000683,
+        "nonTracking": 0,
+        "total": 0.00000683
+    }
+}

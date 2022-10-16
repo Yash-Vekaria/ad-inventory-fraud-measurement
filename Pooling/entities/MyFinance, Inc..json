@@ -1,0 +1,13 @@
+{
+    "name": "MyFinance, Inc.",
+    "displayName": "MyFinance",
+    "properties": [
+        "myfidevs.io",
+        "myfinance.com"
+    ],
+    "prevalence": {
+        "tracking": 0.000191,
+        "nonTracking": 0,
+        "total": 0.000191
+    }
+}

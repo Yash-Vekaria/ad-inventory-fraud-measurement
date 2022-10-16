@@ -1,0 +1,13 @@
+{
+    "name": "Diginet GmbH & Co. KG",
+    "displayName": "Diginet",
+    "properties": [
+        "pixum.com",
+        "pixum.de"
+    ],
+    "prevalence": {
+        "tracking": 0.0001,
+        "nonTracking": 0,
+        "total": 0.0001
+    }
+}

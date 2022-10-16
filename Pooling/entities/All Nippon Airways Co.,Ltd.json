@@ -1,0 +1,12 @@
+{
+    "name": "All Nippon Airways Co.,Ltd",
+    "displayName": "All Nippon Airways",
+    "properties": [
+        "ana.co.jp"
+    ],
+    "prevalence": {
+        "tracking": 0.00000683,
+        "nonTracking": 0,
+        "total": 0.00000683
+    }
+}

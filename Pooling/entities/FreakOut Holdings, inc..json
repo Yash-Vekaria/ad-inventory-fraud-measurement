@@ -1,0 +1,13 @@
+{
+    "name": "FreakOut Holdings, inc.",
+    "displayName": "FreakOut Holdings",
+    "properties": [
+        "fout.jp",
+        "mtburn.com"
+    ],
+    "prevalence": {
+        "tracking": 0.00165,
+        "nonTracking": 0.000116,
+        "total": 0.00177
+    }
+}

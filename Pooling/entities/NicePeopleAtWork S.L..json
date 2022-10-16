@@ -1,0 +1,14 @@
+{
+    "name": "NicePeopleAtWork S.L.",
+    "displayName": "NicePeopleAtWork",
+    "properties": [
+        "nicepeopleatwork.com",
+        "youbora.com",
+        "youboranqs01.com"
+    ],
+    "prevalence": {
+        "tracking": 0.0000137,
+        "nonTracking": 0.00015,
+        "total": 0.000164
+    }
+}

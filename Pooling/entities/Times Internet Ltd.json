@@ -1,0 +1,31 @@
+{
+    "name": "Times Internet Ltd",
+    "displayName": "Times Internet",
+    "properties": [
+        "astrospeak.com",
+        "clmbtech.com",
+        "colombiaonline.com",
+        "economictimes.com",
+        "etimg.com",
+        "gaanacdn.com",
+        "gadgetsnow.com",
+        "idiva.com",
+        "iimg.in",
+        "indiatimes.com",
+        "indiatimes.in",
+        "langimg.com",
+        "magicbricks.com",
+        "mensxp.com",
+        "timesinternet.in",
+        "timesofindia.com",
+        "timespoints.com",
+        "toiimg.com",
+        "zigcdn.com",
+        "zigwheels.com"
+    ],
+    "prevalence": {
+        "tracking": 0.000123,
+        "nonTracking": 0.000587,
+        "total": 0.00071
+    }
+}

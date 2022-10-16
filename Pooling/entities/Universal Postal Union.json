@@ -1,0 +1,7 @@
+{
+    "name": "Universal Postal Union",
+    "displayName": "Universal Postal Union",
+    "properties": [
+        "ems.post"
+    ]
+}

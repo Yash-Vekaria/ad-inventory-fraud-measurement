@@ -1,0 +1,13 @@
+{
+    "name": "proinity GmbH",
+    "displayName": "proinity",
+    "properties": [
+        "keycdn.com",
+        "kxcdn.com"
+    ],
+    "prevalence": {
+        "tracking": 0.00356,
+        "nonTracking": 0.00217,
+        "total": 0.00573
+    }
+}

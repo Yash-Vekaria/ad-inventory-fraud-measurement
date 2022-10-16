@@ -1,0 +1,19 @@
+{
+    "name": "RCS Mediagroup S.p.A",
+    "displayName": "RCS Mediagroup",
+    "properties": [
+        "corriere.it",
+        "corrieredellosport.it",
+        "corriereobjects.it",
+        "oggi.it",
+        "rcs.it",
+        "rcsmediagroup.it",
+        "rcsmetrics.it",
+        "rcsobjects.it"
+    ],
+    "prevalence": {
+        "tracking": 0.000102,
+        "nonTracking": 0.0000137,
+        "total": 0.000116
+    }
+}

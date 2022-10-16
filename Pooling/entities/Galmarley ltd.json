@@ -1,0 +1,12 @@
+{
+    "name": "Galmarley ltd",
+    "displayName": "Galmarley",
+    "properties": [
+        "bullionvault.com"
+    ],
+    "prevalence": {
+        "tracking": 0.00000683,
+        "nonTracking": 0,
+        "total": 0.00000683
+    }
+}

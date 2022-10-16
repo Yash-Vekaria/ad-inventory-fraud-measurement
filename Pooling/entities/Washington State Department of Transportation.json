@@ -1,0 +1,13 @@
+{
+    "name": "Washington State Department of Transportation",
+    "displayName": "Washington State Department of Transportation",
+    "properties": [
+        "wa.gov",
+        "wsdot.com"
+    ],
+    "prevalence": {
+        "tracking": 0,
+        "nonTracking": 0.0000205,
+        "total": 0.0000205
+    }
+}

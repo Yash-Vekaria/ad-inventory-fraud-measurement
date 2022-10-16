@@ -1,0 +1,12 @@
+{
+    "name": "Plarium Global Ltd",
+    "displayName": "Plarium Global",
+    "properties": [
+        "plarium.com"
+    ],
+    "prevalence": {
+        "tracking": 0.00000693,
+        "nonTracking": 0,
+        "total": 0.00000693
+    }
+}

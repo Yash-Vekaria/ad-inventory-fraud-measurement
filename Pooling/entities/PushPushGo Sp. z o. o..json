@@ -1,0 +1,12 @@
+{
+    "name": "PushPushGo Sp. z o. o.",
+    "displayName": "PushPushGo",
+    "properties": [
+        "pushpushgo.com"
+    ],
+    "prevalence": {
+        "tracking": 0.00045,
+        "nonTracking": 0.0000341,
+        "total": 0.000484
+    }
+}

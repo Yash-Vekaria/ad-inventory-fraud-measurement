@@ -1,0 +1,35 @@
+{
+    "name": "SK Group",
+    "displayName": "SK Group",
+    "properties": [
+        "011st.com",
+        "11st.co.kr",
+        "11st.kr",
+        "astellnkern.com",
+        "dreamuscompany.com",
+        "groovers.kr",
+        "iriver.co.kr",
+        "iriver.com",
+        "music-flo.com",
+        "music-flo.io",
+        "nate.com",
+        "nateimg.co.kr",
+        "pann.com",
+        "recopick.com",
+        "sk-inc.com",
+        "sk-pay.co.kr",
+        "sk.co.kr",
+        "sk.com",
+        "skcareers.com",
+        "skcomms.co.kr",
+        "skinnovation.com",
+        "skplanet.com",
+        "sktelecom.com",
+        "sktnugu.com"
+    ],
+    "prevalence": {
+        "tracking": 0.0000273,
+        "nonTracking": 0,
+        "total": 0.0000273
+    }
+}

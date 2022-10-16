@@ -1,0 +1,12 @@
+{
+    "name": "PostFinance AG",
+    "displayName": "PostFinance",
+    "properties": [
+        "postfinance.ch"
+    ],
+    "prevalence": {
+        "tracking": 0.000404,
+        "nonTracking": 0,
+        "total": 0.000404
+    }
+}

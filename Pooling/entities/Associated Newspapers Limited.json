@@ -1,0 +1,23 @@
+{
+    "name": "Associated Newspapers Limited",
+    "displayName": "Associated Newspapers",
+    "properties": [
+        "dailymail.co.uk",
+        "dailymailplus.co.uk",
+        "dmgmedia.co.uk",
+        "mailexperiences.co.uk",
+        "mailfinance.co.uk",
+        "mailshop.co.uk",
+        "mailtravel.co.uk",
+        "mailwineclub.co.uk",
+        "metro.co.uk",
+        "mymail.co.uk",
+        "thisismoney.co.uk",
+        "you.co.uk"
+    ],
+    "prevalence": {
+        "tracking": 0.0000478,
+        "nonTracking": 0.000232,
+        "total": 0.00028
+    }
+}

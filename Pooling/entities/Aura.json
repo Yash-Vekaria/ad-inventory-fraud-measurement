@@ -1,0 +1,30 @@
+{
+    "name": "Aura",
+    "displayName": "Aura",
+    "properties": [
+        "anchorfree.com",
+        "aura.com",
+        "auracompany.com",
+        "betternet.co",
+        "figleaf.com",
+        "hexatechvpn.com",
+        "hotspotshield.com",
+        "hsselite.com",
+        "identityguard.com",
+        "intrusta.com",
+        "isubscribed.com",
+        "meetcircle.com",
+        "northghost.com",
+        "pango.co",
+        "privacymate.com",
+        "roboshield.com",
+        "touchvpn.net",
+        "ultravpn.com",
+        "vpnintouch.com"
+    ],
+    "prevalence": {
+        "tracking": 0,
+        "nonTracking": 0.00000678,
+        "total": 0.00000678
+    }
+}

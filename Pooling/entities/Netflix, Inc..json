@@ -1,0 +1,30 @@
+{
+    "name": "Netflix, Inc.",
+    "displayName": "Netflix",
+    "properties": [
+        "fast.com",
+        "netflix.ca",
+        "netflix.cn",
+        "netflix.co.jp",
+        "netflix.co.nz",
+        "netflix.co.uk",
+        "netflix.com",
+        "netflix.com.br",
+        "netflix.com.mx",
+        "netflix.de",
+        "netflix.es",
+        "netflix.in",
+        "netflix.net",
+        "netflix.nl",
+        "netflix.pt",
+        "nflxext.com",
+        "nflximg.net",
+        "nflxso.net",
+        "nflxvideo.net"
+    ],
+    "prevalence": {
+        "tracking": 0,
+        "nonTracking": 0.00000683,
+        "total": 0.00000683
+    }
+}

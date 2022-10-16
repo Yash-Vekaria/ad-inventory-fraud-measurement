@@ -1,0 +1,7 @@
+{
+    "name": "FreeBSD Foundation",
+    "displayName": "FreeBSD Foundation",
+    "properties": [
+        "freebsd.org"
+    ]
+}

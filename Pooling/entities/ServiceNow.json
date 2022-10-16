@@ -1,0 +1,7 @@
+{
+    "name": "ServiceNow",
+    "displayName": "ServiceNow",
+    "properties": [
+        "servicenow.com"
+    ]
+}

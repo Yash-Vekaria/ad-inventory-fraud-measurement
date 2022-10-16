@@ -1,0 +1,15 @@
+{
+    "name": "Altice USA, Inc.",
+    "displayName": "Altice USA",
+    "properties": [
+        "cv.net",
+        "experiencetheone.com",
+        "news12.com",
+        "optimum.com"
+    ],
+    "prevalence": {
+        "tracking": 0.0000136,
+        "nonTracking": 0,
+        "total": 0.0000136
+    }
+}

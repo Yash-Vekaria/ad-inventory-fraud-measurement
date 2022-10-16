@@ -1,0 +1,13 @@
+{
+    "name": "Cloud.IQ Limited",
+    "displayName": "Cloud.IQ",
+    "properties": [
+        "cloud-iq.com",
+        "cloudiq.com"
+    ],
+    "prevalence": {
+        "tracking": 0.000273,
+        "nonTracking": 0.0000819,
+        "total": 0.000355
+    }
+}

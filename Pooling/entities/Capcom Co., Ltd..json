@@ -1,0 +1,12 @@
+{
+    "name": "Capcom Co., Ltd.",
+    "displayName": "Capcom",
+    "properties": [
+        "capcom.co.jp"
+    ],
+    "prevalence": {
+        "tracking": 0.00000689,
+        "nonTracking": 0,
+        "total": 0.00000689
+    }
+}

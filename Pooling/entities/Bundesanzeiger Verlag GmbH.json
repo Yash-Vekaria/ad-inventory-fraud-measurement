@@ -1,0 +1,13 @@
+{
+    "name": "Bundesanzeiger Verlag GmbH",
+    "displayName": "Bundesanzeiger Verlag",
+    "properties": [
+        "bundesanzeiger-verlag.de",
+        "bundesanzeiger.de"
+    ],
+    "prevalence": {
+        "tracking": 0.000104,
+        "nonTracking": 0,
+        "total": 0.000104
+    }
+}

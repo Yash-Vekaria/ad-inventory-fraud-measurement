@@ -1,0 +1,21 @@
+{
+    "name": "Cookie Information A/S",
+    "displayName": "Cookie Information",
+    "properties": [
+        "cookiebanner.com",
+        "cookieinfo.dk",
+        "cookieinformation.co.uk",
+        "cookieinformation.com",
+        "cookieinformation.dk",
+        "cookieinformation.eu",
+        "cookieinformation.se",
+        "freeccpatool.com",
+        "vendorlistgenerator.eu",
+        "wpgdprc.com"
+    ],
+    "prevalence": {
+        "tracking": 0.000935,
+        "nonTracking": 0.000041,
+        "total": 0.000976
+    }
+}

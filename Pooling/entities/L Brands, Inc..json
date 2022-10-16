@@ -1,0 +1,13 @@
+{
+    "name": "L Brands, Inc.",
+    "displayName": "L Brands",
+    "properties": [
+        "bathandbodyworks.com",
+        "victoriassecret.com"
+    ],
+    "prevalence": {
+        "tracking": 0.00000693,
+        "nonTracking": 0,
+        "total": 0.00000693
+    }
+}

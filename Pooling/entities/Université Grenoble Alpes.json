@@ -1,0 +1,12 @@
+{
+    "name": "Université Grenoble Alpes",
+    "displayName": "Université Grenoble Alpes",
+    "properties": [
+        "univ-grenoble-alpes.fr"
+    ],
+    "prevalence": {
+        "tracking": 0.000101,
+        "nonTracking": 0,
+        "total": 0.000101
+    }
+}

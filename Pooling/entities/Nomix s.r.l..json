@@ -1,0 +1,13 @@
+{
+    "name": "Nomix s.r.l.",
+    "displayName": "Nomix",
+    "properties": [
+        "nomix.eu",
+        "nomix.it"
+    ],
+    "prevalence": {
+        "tracking": 0.00000683,
+        "nonTracking": 0,
+        "total": 0.00000683
+    }
+}

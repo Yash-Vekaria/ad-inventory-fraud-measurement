@@ -1,0 +1,12 @@
+{
+    "name": "Uppsala University Library / Epc",
+    "displayName": "Uppsala University Library / Epc",
+    "properties": [
+        "diva-portal.org"
+    ],
+    "prevalence": {
+        "tracking": 0.00000681,
+        "nonTracking": 0,
+        "total": 0.00000681
+    }
+}

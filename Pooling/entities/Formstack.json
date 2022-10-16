@@ -1,0 +1,12 @@
+{
+    "name": "Formstack",
+    "displayName": "Formstack",
+    "properties": [
+        "formstack.com"
+    ],
+    "prevalence": {
+        "tracking": 0.00045,
+        "nonTracking": 0.000198,
+        "total": 0.000648
+    }
+}

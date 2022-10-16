@@ -1,0 +1,12 @@
+{
+    "name": "OwnLocal.com",
+    "displayName": "OwnLocal.com",
+    "properties": [
+        "ownlocal.com"
+    ],
+    "prevalence": {
+        "tracking": 0.000157,
+        "nonTracking": 0.000123,
+        "total": 0.00028
+    }
+}

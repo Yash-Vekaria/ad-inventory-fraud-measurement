@@ -1,0 +1,12 @@
+{
+    "name": "Granify Inc.",
+    "displayName": "Granify",
+    "properties": [
+        "granify.com"
+    ],
+    "prevalence": {
+        "tracking": 0.000253,
+        "nonTracking": 0.00000683,
+        "total": 0.00026
+    }
+}

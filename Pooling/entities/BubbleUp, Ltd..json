@@ -1,0 +1,14 @@
+{
+    "name": "BubbleUp, Ltd.",
+    "displayName": "BubbleUp",
+    "properties": [
+        "bubbleup.net",
+        "ethanallensweepstakes.com",
+        "kissonline.com"
+    ],
+    "prevalence": {
+        "tracking": 0.00000683,
+        "nonTracking": 0.0000205,
+        "total": 0.0000273
+    }
+}

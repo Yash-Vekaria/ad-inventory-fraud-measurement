@@ -1,0 +1,12 @@
+{
+    "name": "US Office of Personnel Management",
+    "displayName": "US Office of Personnel Management",
+    "properties": [
+        "usajobs.gov"
+    ],
+    "prevalence": {
+        "tracking": 0.00000683,
+        "nonTracking": 0,
+        "total": 0.00000683
+    }
+}

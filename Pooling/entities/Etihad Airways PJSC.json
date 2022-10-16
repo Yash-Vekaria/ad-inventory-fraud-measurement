@@ -1,0 +1,12 @@
+{
+    "name": "Etihad Airways PJSC",
+    "displayName": "Etihad Airways",
+    "properties": [
+        "etihad.com"
+    ],
+    "prevalence": {
+        "tracking": 0.00000682,
+        "nonTracking": 0,
+        "total": 0.00000682
+    }
+}

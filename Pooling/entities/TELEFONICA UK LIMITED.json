@@ -1,0 +1,12 @@
+{
+    "name": "TELEFONICA UK LIMITED",
+    "displayName": "TELEFONICA UK",
+    "properties": [
+        "o2.co.uk"
+    ],
+    "prevalence": {
+        "tracking": 0.000101,
+        "nonTracking": 0,
+        "total": 0.000101
+    }
+}

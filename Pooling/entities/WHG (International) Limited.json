@@ -1,0 +1,13 @@
+{
+    "name": "WHG (International) Limited",
+    "displayName": "WHG (International)",
+    "properties": [
+        "staticcache.org",
+        "williamhill.com"
+    ],
+    "prevalence": {
+        "tracking": 0.00000683,
+        "nonTracking": 0,
+        "total": 0.00000683
+    }
+}

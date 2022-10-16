@@ -1,0 +1,12 @@
+{
+    "name": "trueAnthem Corp",
+    "displayName": "trueAnthem",
+    "properties": [
+        "tru.am"
+    ],
+    "prevalence": {
+        "tracking": 0.00254,
+        "nonTracking": 0.000566,
+        "total": 0.00311
+    }
+}

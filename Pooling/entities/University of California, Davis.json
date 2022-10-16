@@ -1,0 +1,12 @@
+{
+    "name": "University of California, Davis",
+    "displayName": "University of California, Davis",
+    "properties": [
+        "ucdavis.edu"
+    ],
+    "prevalence": {
+        "tracking": 0.00000678,
+        "nonTracking": 0,
+        "total": 0.00000678
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Pew Research Center",
+    "displayName": "Pew Research Center",
+    "properties": [
+        "people-press.org",
+        "pewforum.org",
+        "pewinternet.org",
+        "pewresearch.org",
+        "pewsocialtrends.org"
+    ],
+    "prevalence": {
+        "tracking": 0,
+        "nonTracking": 0.00000691,
+        "total": 0.00000691
+    }
+}

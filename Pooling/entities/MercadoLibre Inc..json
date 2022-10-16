@@ -1,0 +1,33 @@
+{
+    "name": "MercadoLibre Inc.",
+    "displayName": "MercadoLibre",
+    "properties": [
+        "mercadoclics.com",
+        "mercadolibre.cl",
+        "mercadolibre.com",
+        "mercadolibre.com.ar",
+        "mercadolibre.com.co",
+        "mercadolibre.com.ec",
+        "mercadolibre.com.mx",
+        "mercadolibre.com.pe",
+        "mercadolibre.com.uy",
+        "mercadolibre.com.ve",
+        "mercadolivre.com",
+        "mercadolivre.com.br",
+        "mercadopago.com",
+        "mercadopago.com.ar",
+        "mercadopago.com.br",
+        "mercadopago.com.co",
+        "mercadopago.com.mx",
+        "mlapps.com",
+        "mlstatic.com",
+        "portalinmobiliario.com",
+        "tucarro.com.co",
+        "tumoto.com.co"
+    ],
+    "prevalence": {
+        "tracking": 0.0000137,
+        "nonTracking": 0.00000683,
+        "total": 0.0000205
+    }
+}

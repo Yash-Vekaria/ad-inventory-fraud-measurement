@@ -1,0 +1,13 @@
+{
+    "name": "LiveIntent Inc.",
+    "displayName": "LiveIntent",
+    "properties": [
+        "liadm.com",
+        "liveintent.com"
+    ],
+    "prevalence": {
+        "tracking": 0.056,
+        "nonTracking": 0.000956,
+        "total": 0.057
+    }
+}

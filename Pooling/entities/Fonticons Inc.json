@@ -1,0 +1,16 @@
+{
+    "name": "Fonticons Inc",
+    "displayName": "Fonticons",
+    "properties": [
+        "fontawesome.com",
+        "fontawesome.io",
+        "fonticons.com",
+        "fortawesome.com",
+        "symbolset.com"
+    ],
+    "prevalence": {
+        "tracking": 0.00858,
+        "nonTracking": 0.0549,
+        "total": 0.0635
+    }
+}

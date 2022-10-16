@@ -1,0 +1,22 @@
+{
+    "name": "58.com Inc.",
+    "displayName": "58.com",
+    "properties": [
+        "58.com",
+        "58.com.cn",
+        "5858.com",
+        "58cdn.com.cn",
+        "58ganji.com",
+        "58xueche.com",
+        "anjuke.com",
+        "jikejia.cn",
+        "jxedt.com",
+        "xcydt.com",
+        "xueche.com"
+    ],
+    "prevalence": {
+        "tracking": 0,
+        "nonTracking": 0.0000069,
+        "total": 0.0000069
+    }
+}

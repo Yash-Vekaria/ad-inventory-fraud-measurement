@@ -1,0 +1,13 @@
+{
+    "name": "Bolsas y Mercados Esp Soc Hold Mercados y Sist Fin S.A.",
+    "displayName": "Bolsas y Mercados Esp Soc Hold Mercados y Sist Fin",
+    "properties": [
+        "infobolsa.es",
+        "infobolsanet.com"
+    ],
+    "prevalence": {
+        "tracking": 0.00000679,
+        "nonTracking": 0,
+        "total": 0.00000679
+    }
+}

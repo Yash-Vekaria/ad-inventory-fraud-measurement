@@ -1,0 +1,14 @@
+{
+    "name": "University of Michigan",
+    "displayName": "University of Michigan",
+    "properties": [
+        "hathitrust.org",
+        "michiganradio.org",
+        "umich.edu"
+    ],
+    "prevalence": {
+        "tracking": 0.00000683,
+        "nonTracking": 0.00000683,
+        "total": 0.0000137
+    }
+}

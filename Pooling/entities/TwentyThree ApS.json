@@ -1,0 +1,13 @@
+{
+    "name": "TwentyThree ApS",
+    "displayName": "TwentyThree",
+    "properties": [
+        "23video.com",
+        "jobindex.tv"
+    ],
+    "prevalence": {
+        "tracking": 0.00000683,
+        "nonTracking": 0.00000683,
+        "total": 0.0000137
+    }
+}

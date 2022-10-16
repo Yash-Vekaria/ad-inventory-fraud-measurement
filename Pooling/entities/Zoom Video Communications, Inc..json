@@ -1,0 +1,12 @@
+{
+    "name": "Zoom Video Communications, Inc.",
+    "displayName": "Zoom Video Communications",
+    "properties": [
+        "zoom.us"
+    ],
+    "prevalence": {
+        "tracking": 0.00000683,
+        "nonTracking": 0.0000205,
+        "total": 0.0000273
+    }
+}

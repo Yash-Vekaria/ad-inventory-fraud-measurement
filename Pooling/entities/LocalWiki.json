@@ -1,0 +1,9 @@
+{
+    "name": "LocalWiki",
+    "displayName": "LocalWiki",
+    "properties": [
+        "daviswiki.org",
+        "localwiki.org",
+        "oaklandwiki.org"
+    ]
+}

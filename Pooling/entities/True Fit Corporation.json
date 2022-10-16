@@ -1,0 +1,13 @@
+{
+    "name": "True Fit Corporation",
+    "displayName": "True Fit",
+    "properties": [
+        "truefit.com",
+        "truefitcorp.com"
+    ],
+    "prevalence": {
+        "tracking": 0.000369,
+        "nonTracking": 0.00000683,
+        "total": 0.000376
+    }
+}

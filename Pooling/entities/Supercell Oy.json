@@ -1,0 +1,16 @@
+{
+    "name": "Supercell Oy",
+    "displayName": "Supercell",
+    "properties": [
+        "clashofclans.com",
+        "supercell.com",
+        "supercell.net",
+        "supercellevents.com",
+        "supercellsupport.com"
+    ],
+    "prevalence": {
+        "tracking": 0.0000136,
+        "nonTracking": 0,
+        "total": 0.0000136
+    }
+}

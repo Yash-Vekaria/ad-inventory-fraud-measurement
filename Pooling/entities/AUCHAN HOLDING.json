@@ -1,0 +1,13 @@
+{
+    "name": "AUCHAN HOLDING",
+    "displayName": "AUCHAN HOLDING",
+    "properties": [
+        "auchan.fr",
+        "auchan.net"
+    ],
+    "prevalence": {
+        "tracking": 0.000102,
+        "nonTracking": 0,
+        "total": 0.000102
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Atresmedia Corporacion de Medios de Comunicacion SA",
+    "displayName": "Atresmedia Corporacion de Medios de Comunicacion",
+    "properties": [
+        "antena3.com",
+        "atresmedia.com",
+        "atresplayer.com",
+        "lasexta.com",
+        "ondacero.es"
+    ],
+    "prevalence": {
+        "tracking": 0.00000683,
+        "nonTracking": 0,
+        "total": 0.00000683
+    }
+}

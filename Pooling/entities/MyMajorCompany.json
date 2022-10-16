@@ -1,0 +1,12 @@
+{
+    "name": "MyMajorCompany",
+    "displayName": "MyMajorCompany",
+    "properties": [
+        "tipeee.com"
+    ],
+    "prevalence": {
+        "tracking": 0.000713,
+        "nonTracking": 0,
+        "total": 0.000713
+    }
+}

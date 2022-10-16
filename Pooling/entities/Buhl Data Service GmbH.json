@@ -1,0 +1,12 @@
+{
+    "name": "Buhl Data Service GmbH",
+    "displayName": "Buhl Data Service",
+    "properties": [
+        "buhl.de"
+    ],
+    "prevalence": {
+        "tracking": 0.000101,
+        "nonTracking": 0,
+        "total": 0.000101
+    }
+}

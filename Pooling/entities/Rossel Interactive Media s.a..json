@@ -1,0 +1,12 @@
+{
+    "name": "Rossel Interactive Media s.a.",
+    "displayName": "Rossel Interactive Media",
+    "properties": [
+        "rosselcdn.net"
+    ],
+    "prevalence": {
+        "tracking": 0.0000137,
+        "nonTracking": 0.0000137,
+        "total": 0.0000274
+    }
+}

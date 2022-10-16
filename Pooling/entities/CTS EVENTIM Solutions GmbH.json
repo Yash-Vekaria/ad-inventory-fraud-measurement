@@ -1,0 +1,15 @@
+{
+    "name": "CTS EVENTIM Solutions GmbH",
+    "displayName": "CTS EVENTIM Solutions",
+    "properties": [
+        "eventim.de",
+        "oeticket.com",
+        "ticketcorner.ch",
+        "ticketone.it"
+    ],
+    "prevalence": {
+        "tracking": 0.000101,
+        "nonTracking": 0.000202,
+        "total": 0.000303
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "name": "Impremedia Operating Co",
+    "displayName": "Impremedia Operating",
+    "properties": [
+        "eldiariony.com",
+        "laopinion.com"
+    ],
+    "prevalence": {
+        "tracking": 0,
+        "nonTracking": 0.00000683,
+        "total": 0.00000683
+    }
+}

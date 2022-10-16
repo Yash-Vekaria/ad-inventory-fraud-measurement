@@ -1,0 +1,14 @@
+{
+    "name": "Shutterfly, Inc.",
+    "displayName": "Shutterfly",
+    "properties": [
+        "borrowlenses.com",
+        "shutterfly.com",
+        "staticsfly.com"
+    ],
+    "prevalence": {
+        "tracking": 0.0000205,
+        "nonTracking": 0.00000683,
+        "total": 0.0000273
+    }
+}

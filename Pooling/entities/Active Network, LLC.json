@@ -1,0 +1,17 @@
+{
+    "name": "Active Network, LLC",
+    "displayName": "Active Network",
+    "properties": [
+        "active.com",
+        "caltrain.com",
+        "cityofchesapeake.net",
+        "coolrunning.com",
+        "reserveamerica.com",
+        "usta.com"
+    ],
+    "prevalence": {
+        "tracking": 0.0000205,
+        "nonTracking": 0,
+        "total": 0.0000205
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "name": "Chewy Inc",
+    "displayName": "Chewy",
+    "properties": [
+        "chewy.com",
+        "petmd.com"
+    ],
+    "prevalence": {
+        "tracking": 0.0000205,
+        "nonTracking": 0,
+        "total": 0.0000205
+    }
+}

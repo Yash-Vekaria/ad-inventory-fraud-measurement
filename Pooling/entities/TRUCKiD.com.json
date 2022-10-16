@@ -1,0 +1,12 @@
+{
+    "name": "TRUCKiD.com",
+    "displayName": "TRUCKiD.com",
+    "properties": [
+        "truckid.com"
+    ],
+    "prevalence": {
+        "tracking": 0.0000271,
+        "nonTracking": 0,
+        "total": 0.0000271
+    }
+}

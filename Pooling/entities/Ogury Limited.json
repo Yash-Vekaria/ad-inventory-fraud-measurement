@@ -1,0 +1,15 @@
+{
+    "name": "Ogury Limited",
+    "displayName": "Ogury",
+    "properties": [
+        "ogury.co",
+        "ogury.com",
+        "ogury.io",
+        "presage.io"
+    ],
+    "prevalence": {
+        "tracking": 0.0000341,
+        "nonTracking": 0.000437,
+        "total": 0.000471
+    }
+}

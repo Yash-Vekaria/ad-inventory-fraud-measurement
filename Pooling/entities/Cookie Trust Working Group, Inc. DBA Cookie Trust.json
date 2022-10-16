@@ -1,0 +1,12 @@
+{
+    "name": "Cookie Trust Working Group, Inc. DBA Cookie Trust",
+    "displayName": "Cookie Trust",
+    "properties": [
+        "digitru.st"
+    ],
+    "prevalence": {
+        "tracking": 0,
+        "nonTracking": 0.00015,
+        "total": 0.00015
+    }
+}

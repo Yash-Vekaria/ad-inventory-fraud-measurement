@@ -1,0 +1,12 @@
+{
+    "name": "Kaleva365 Oy",
+    "displayName": "Kaleva365",
+    "properties": [
+        "kaleva.fi"
+    ],
+    "prevalence": {
+        "tracking": 0,
+        "nonTracking": 0.00000681,
+        "total": 0.00000681
+    }
+}

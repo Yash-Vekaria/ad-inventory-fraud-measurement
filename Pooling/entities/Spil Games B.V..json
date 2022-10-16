@@ -1,0 +1,23 @@
+{
+    "name": "Spil Games B.V.",
+    "displayName": "Spil Games",
+    "properties": [
+        "a10.com",
+        "agame.com",
+        "gamesgames.com",
+        "girlsgogames.com",
+        "gry.pl",
+        "jetztspielen.de",
+        "jeu.fr",
+        "jeux.fr",
+        "juegos.com",
+        "spelletjes.nl",
+        "spilcdn.com",
+        "spilcloud.com"
+    ],
+    "prevalence": {
+        "tracking": 0.00000683,
+        "nonTracking": 0,
+        "total": 0.00000683
+    }
+}

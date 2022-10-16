@@ -1,0 +1,12 @@
+{
+    "name": "COnnecting REpositories",
+    "displayName": "COnnecting REpositories",
+    "properties": [
+        "core.ac.uk"
+    ],
+    "prevalence": {
+        "tracking": 0.00000681,
+        "nonTracking": 0,
+        "total": 0.00000681
+    }
+}

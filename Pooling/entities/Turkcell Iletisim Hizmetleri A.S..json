@@ -1,0 +1,12 @@
+{
+    "name": "Turkcell Iletisim Hizmetleri A.S.",
+    "displayName": "Turkcell Iletisim Hizmetleri",
+    "properties": [
+        "turkcell.com.tr"
+    ],
+    "prevalence": {
+        "tracking": 0,
+        "nonTracking": 0.00000678,
+        "total": 0.00000678
+    }
+}

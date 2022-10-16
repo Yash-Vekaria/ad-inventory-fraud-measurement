@@ -1,0 +1,7 @@
+{
+    "name": "Mattermost",
+    "displayName": "Mattermost",
+    "properties": [
+        "mattermost.com"
+    ]
+}

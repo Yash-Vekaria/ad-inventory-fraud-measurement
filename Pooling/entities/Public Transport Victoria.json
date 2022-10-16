@@ -1,0 +1,12 @@
+{
+    "name": "Public Transport Victoria",
+    "displayName": "Public Transport Victoria",
+    "properties": [
+        "ptv.vic.gov.au"
+    ],
+    "prevalence": {
+        "tracking": 0.000101,
+        "nonTracking": 0,
+        "total": 0.000101
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "name": "It Concepts",
+    "displayName": "It Concepts",
+    "properties": [
+        "adxcel-ec2.com"
+    ],
+    "prevalence": {
+        "tracking": 0.0000273,
+        "nonTracking": 0.00483,
+        "total": 0.00486
+    }
+}

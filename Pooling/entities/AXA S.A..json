@@ -1,0 +1,14 @@
+{
+    "name": "AXA S.A.",
+    "displayName": "AXA",
+    "properties": [
+        "axa.com",
+        "axa.de",
+        "axa.fr"
+    ],
+    "prevalence": {
+        "tracking": 0.000102,
+        "nonTracking": 0,
+        "total": 0.000102
+    }
+}

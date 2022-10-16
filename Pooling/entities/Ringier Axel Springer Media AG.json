@@ -1,0 +1,28 @@
+{
+    "name": "Ringier Axel Springer Media AG",
+    "displayName": "Ringier Axel Springer",
+    "properties": [
+        "auto-swiat.pl",
+        "blikk.hu",
+        "dreamlab.pl",
+        "ewydania.pl",
+        "grupaonet.pl",
+        "komputerswiat.pl",
+        "medonet.pl",
+        "newsweek.pl",
+        "nk.pl",
+        "ocdn.eu",
+        "onet.pl",
+        "pclab.pl",
+        "schweizer-illustrierte.ch",
+        "skapiec.pl",
+        "vod.pl",
+        "zapytaj.com.pl",
+        "zumi.pl"
+    ],
+    "prevalence": {
+        "tracking": 0.000266,
+        "nonTracking": 0.0000273,
+        "total": 0.000293
+    }
+}

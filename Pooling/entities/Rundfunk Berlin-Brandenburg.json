@@ -1,0 +1,14 @@
+{
+    "name": "Rundfunk Berlin-Brandenburg",
+    "displayName": "Rundfunk Berlin-Brandenburg",
+    "properties": [
+        "radioeins.de",
+        "rbb-online.de",
+        "rbb24.de"
+    ],
+    "prevalence": {
+        "tracking": 0.000101,
+        "nonTracking": 0,
+        "total": 0.000101
+    }
+}

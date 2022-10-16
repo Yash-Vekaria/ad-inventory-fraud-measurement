@@ -1,0 +1,12 @@
+{
+    "name": "New Dream Global Corp",
+    "displayName": "New Dream Global",
+    "properties": [
+        "newdreamglobal.com"
+    ],
+    "prevalence": {
+        "tracking": 0.0000205,
+        "nonTracking": 0,
+        "total": 0.0000205
+    }
+}

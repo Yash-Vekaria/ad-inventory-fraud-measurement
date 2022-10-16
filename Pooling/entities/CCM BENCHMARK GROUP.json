@@ -1,0 +1,24 @@
+{
+    "name": "CCM BENCHMARK GROUP",
+    "displayName": "CCM BENCHMARK GROUP",
+    "properties": [
+        "ccm.net",
+        "ccm2.net",
+        "ccmbg.com",
+        "commentcamarche.com",
+        "commentcamarche.net",
+        "hugolescargot.com",
+        "jeux-gratuits.com",
+        "journaldesfemmes.com",
+        "journaldesfemmes.fr",
+        "journaldunet.com",
+        "linternaute.com",
+        "linternaute.fr",
+        "recht-finanzen.de"
+    ],
+    "prevalence": {
+        "tracking": 0.0000341,
+        "nonTracking": 0.00000683,
+        "total": 0.0000409
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "name": "ANZ Bank New Zealand Limited",
+    "displayName": "ANZ Bank New Zealand",
+    "properties": [
+        "anz.co.nz"
+    ],
+    "prevalence": {
+        "tracking": 0.00000682,
+        "nonTracking": 0,
+        "total": 0.00000682
+    }
+}

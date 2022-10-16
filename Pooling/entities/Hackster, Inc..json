@@ -1,0 +1,13 @@
+{
+    "name": "Hackster, Inc.",
+    "displayName": "Hackster",
+    "properties": [
+        "hackster-cdn.online",
+        "hackster.io"
+    ],
+    "prevalence": {
+        "tracking": 0.00000683,
+        "nonTracking": 0,
+        "total": 0.00000683
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "name": "State of New Hampshire",
+    "displayName": "State of New Hampshire",
+    "properties": [
+        "nh.gov"
+    ],
+    "prevalence": {
+        "tracking": 0.0000138,
+        "nonTracking": 0.0000069,
+        "total": 0.0000207
+    }
+}

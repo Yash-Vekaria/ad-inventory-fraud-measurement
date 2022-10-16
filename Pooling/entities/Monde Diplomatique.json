@@ -1,0 +1,12 @@
+{
+    "name": "Monde Diplomatique",
+    "displayName": "Monde Diplomatique",
+    "properties": [
+        "monde-diplomatique.fr"
+    ],
+    "prevalence": {
+        "tracking": 0.0001,
+        "nonTracking": 0,
+        "total": 0.0001
+    }
+}

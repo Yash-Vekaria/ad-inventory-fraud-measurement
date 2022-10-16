@@ -1,0 +1,7 @@
+{
+    "name": "Vision Service Plan",
+    "displayName": "Vision Service Plan",
+    "properties": [
+        "vsp.com"
+    ]
+}

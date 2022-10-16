@@ -1,0 +1,12 @@
+{
+    "name": "JustWatch GmbH",
+    "displayName": "JustWatch",
+    "properties": [
+        "justwatch.com"
+    ],
+    "prevalence": {
+        "tracking": 0.000041,
+        "nonTracking": 0.0000546,
+        "total": 0.0000956
+    }
+}

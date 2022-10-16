@@ -1,0 +1,12 @@
+{
+    "name": "Intermountain Health Care Inc",
+    "displayName": "Intermountain Health Care",
+    "properties": [
+        "intermountainhealthcare.org"
+    ],
+    "prevalence": {
+        "tracking": 0.0001,
+        "nonTracking": 0,
+        "total": 0.0001
+    }
+}

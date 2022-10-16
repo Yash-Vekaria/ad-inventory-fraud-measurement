@@ -1,0 +1,12 @@
+{
+    "name": "MediaMath, Inc.",
+    "displayName": "MediaMath",
+    "properties": [
+        "mathtag.com"
+    ],
+    "prevalence": {
+        "tracking": 0.132,
+        "nonTracking": 0.000505,
+        "total": 0.133
+    }
+}

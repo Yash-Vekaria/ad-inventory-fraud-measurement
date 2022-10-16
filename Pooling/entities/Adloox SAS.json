@@ -1,0 +1,14 @@
+{
+    "name": "Adloox SAS",
+    "displayName": "Adloox",
+    "properties": [
+        "adloox.com",
+        "adloox.io",
+        "adlooxtracking.com"
+    ],
+    "prevalence": {
+        "tracking": 0.000191,
+        "nonTracking": 0.000334,
+        "total": 0.000525
+    }
+}

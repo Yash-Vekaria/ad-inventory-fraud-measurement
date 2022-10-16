@@ -1,0 +1,14 @@
+{
+    "name": "Webscale Networks",
+    "displayName": "Webscale Networks",
+    "properties": [
+        "cloudmaestro.com",
+        "lagrangesystems.net",
+        "webscalenetworks.net"
+    ],
+    "prevalence": {
+        "tracking": 0.000157,
+        "nonTracking": 0.000123,
+        "total": 0.00028
+    }
+}

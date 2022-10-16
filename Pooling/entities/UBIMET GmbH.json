@@ -1,0 +1,12 @@
+{
+    "name": "UBIMET GmbH",
+    "displayName": "UBIMET",
+    "properties": [
+        "ubimet.com"
+    ],
+    "prevalence": {
+        "tracking": 0,
+        "nonTracking": 0.0000546,
+        "total": 0.0000546
+    }
+}

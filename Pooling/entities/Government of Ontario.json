@@ -1,0 +1,13 @@
+{
+    "name": "Government of Ontario",
+    "displayName": "Government of Ontario",
+    "properties": [
+        "gov.on.ca",
+        "ontario.ca"
+    ],
+    "prevalence": {
+        "tracking": 0,
+        "nonTracking": 0.00000683,
+        "total": 0.00000683
+    }
+}

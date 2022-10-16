@@ -1,0 +1,12 @@
+{
+    "name": "NetZero, Inc.",
+    "displayName": "NetZero",
+    "properties": [
+        "netzero.net"
+    ],
+    "prevalence": {
+        "tracking": 0.00000683,
+        "nonTracking": 0.0000341,
+        "total": 0.0000409
+    }
+}

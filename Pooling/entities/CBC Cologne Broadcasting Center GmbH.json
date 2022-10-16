@@ -1,0 +1,13 @@
+{
+    "name": "CBC Cologne Broadcasting Center GmbH",
+    "displayName": "CBC Cologne Broadcasting Center",
+    "properties": [
+        "nitro-tv.de",
+        "technical-service.net"
+    ],
+    "prevalence": {
+        "tracking": 0.0000273,
+        "nonTracking": 0.00000683,
+        "total": 0.0000341
+    }
+}

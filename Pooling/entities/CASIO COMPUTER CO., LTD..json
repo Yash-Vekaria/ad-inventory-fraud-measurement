@@ -1,0 +1,13 @@
+{
+    "name": "CASIO COMPUTER CO., LTD.",
+    "displayName": "CASIO COMPUTER",
+    "properties": [
+        "casio-intl.com",
+        "casio.com"
+    ],
+    "prevalence": {
+        "tracking": 0.0000136,
+        "nonTracking": 0,
+        "total": 0.0000136
+    }
+}

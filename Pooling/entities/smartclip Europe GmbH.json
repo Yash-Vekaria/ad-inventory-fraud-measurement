@@ -1,0 +1,16 @@
+{
+    "name": "smartclip Europe GmbH",
+    "displayName": "Smartclip",
+    "properties": [
+        "adkymia.com",
+        "realytics.io",
+        "realytics.net",
+        "smartclip.net",
+        "smartclip.tv"
+    ],
+    "prevalence": {
+        "tracking": 0.000962,
+        "nonTracking": 0.000205,
+        "total": 0.00117
+    }
+}

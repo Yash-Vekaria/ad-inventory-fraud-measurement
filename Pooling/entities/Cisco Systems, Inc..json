@@ -1,0 +1,21 @@
+{
+    "name": "Cisco Systems, Inc.",
+    "displayName": "Cisco Systems",
+    "properties": [
+        "appdynamics.com",
+        "cisco.com",
+        "clamav.net",
+        "duo.com",
+        "eum-appdynamics.com",
+        "jasper.com",
+        "netacad.com",
+        "opendns.com",
+        "static-cisco.com",
+        "webex.com"
+    ],
+    "prevalence": {
+        "tracking": 0.00309,
+        "nonTracking": 0.0000683,
+        "total": 0.00316
+    }
+}

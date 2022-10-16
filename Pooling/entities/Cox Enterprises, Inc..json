@@ -1,0 +1,35 @@
+{
+    "name": "Cox Enterprises, Inc.",
+    "displayName": "Cox Enterprises",
+    "properties": [
+        "actionnewsjax.com",
+        "adify.com",
+        "afy11.com",
+        "afy11.net",
+        "ajc.com",
+        "autotrader.com",
+        "boston25news.com",
+        "cox.com",
+        "cox.net",
+        "coxautoinc.com",
+        "fox23.com",
+        "gocarolinas.com",
+        "kiro7.com",
+        "kirotv.com",
+        "krmg.com",
+        "news965.com",
+        "theboneonline.com",
+        "wftv.com",
+        "whio.com",
+        "wpxi.com",
+        "wsbradio.com",
+        "wsbtv.com",
+        "wsbtvapps.com",
+        "wsoctv.com"
+    ],
+    "prevalence": {
+        "tracking": 0.00000683,
+        "nonTracking": 0.0000683,
+        "total": 0.0000751
+    }
+}

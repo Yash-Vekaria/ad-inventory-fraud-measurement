@@ -1,0 +1,12 @@
+{
+    "name": "OtherLevels Inc",
+    "displayName": "OtherLevels",
+    "properties": [
+        "otherlevels.com"
+    ],
+    "prevalence": {
+        "tracking": 0.0000341,
+        "nonTracking": 0.0000273,
+        "total": 0.0000614
+    }
+}

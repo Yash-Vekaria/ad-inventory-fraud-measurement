@@ -1,0 +1,7 @@
+{
+    "name": "ConnectWise",
+    "displayName": "ConnectWise",
+    "properties": [
+        "connectwise.com"
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "name": "Uitvoeringsorganisatie Bedrijfsvoering Rijk UBR",
+    "displayName": "Uitvoeringsorganisatie Bedrijfsvoering Rijk UBR",
+    "properties": [
+        "becop.nl",
+        "officielebekendmakingen.nl"
+    ],
+    "prevalence": {
+        "tracking": 0,
+        "nonTracking": 0.0000136,
+        "total": 0.0000136
+    }
+}

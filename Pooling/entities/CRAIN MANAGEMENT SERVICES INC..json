@@ -1,0 +1,15 @@
+{
+    "name": "CRAIN MANAGEMENT SERVICES INC.",
+    "displayName": "Crain Management Services",
+    "properties": [
+        "adage.com",
+        "autonews.com",
+        "chicagobusiness.com",
+        "crainsdetroit.com"
+    ],
+    "prevalence": {
+        "tracking": 0,
+        "nonTracking": 0.0000137,
+        "total": 0.0000137
+    }
+}

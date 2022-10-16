@@ -1,0 +1,12 @@
+{
+    "name": "Traffic Roots",
+    "displayName": "Traffic Roots",
+    "properties": [
+        "trafficroots.com"
+    ],
+    "prevalence": {
+        "tracking": 0.00115,
+        "nonTracking": 0.0000478,
+        "total": 0.0012
+    }
+}

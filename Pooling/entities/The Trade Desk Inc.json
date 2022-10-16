@@ -1,0 +1,14 @@
+{
+    "name": "The Trade Desk Inc",
+    "displayName": "The Trade Desk",
+    "properties": [
+        "adbrain.com",
+        "adbrn.com",
+        "adsrvr.org"
+    ],
+    "prevalence": {
+        "tracking": 0.217,
+        "nonTracking": 0.00556,
+        "total": 0.223
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "name": "notebooksbilliger.de AG",
+    "displayName": "notebooksbilliger.de",
+    "properties": [
+        "nbb-cdn.de",
+        "notebooksbilliger.de"
+    ],
+    "prevalence": {
+        "tracking": 0,
+        "nonTracking": 0.0000153,
+        "total": 0.0000153
+    }
+}

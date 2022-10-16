@@ -1,0 +1,24 @@
+{
+    "name": "Oracle + Dyn",
+    "displayName": "Oracle + Dyn",
+    "properties": [
+        "bibliocms.com",
+        "electrical-engineering-portal.com",
+        "evolvehq.com",
+        "hybridcloudspan.com",
+        "pa-cdn.com",
+        "pbpython.com",
+        "penny-arcade.com",
+        "puppet.com",
+        "sekindo.com",
+        "sitecues.com",
+        "solitr.com",
+        "songsterr.com",
+        "thrillcall.com"
+    ],
+    "prevalence": {
+        "tracking": 0.000143,
+        "nonTracking": 0.0000273,
+        "total": 0.00017
+    }
+}

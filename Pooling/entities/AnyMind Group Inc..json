@@ -1,0 +1,24 @@
+{
+    "name": "AnyMind Group Inc.",
+    "displayName": "AnyMind",
+    "properties": [
+        "any-creator.com",
+        "any-digital.com",
+        "any-factory.com",
+        "any-manager.com",
+        "any-x.com",
+        "anylogi.com",
+        "anymanager.io",
+        "anymind.com",
+        "anymind360.com",
+        "anymindgroup.com",
+        "anyshop.tech",
+        "anytag.tech",
+        "talentmind.ai"
+    ],
+    "prevalence": {
+        "tracking": 0.000553,
+        "nonTracking": 0.0000205,
+        "total": 0.000574
+    }
+}

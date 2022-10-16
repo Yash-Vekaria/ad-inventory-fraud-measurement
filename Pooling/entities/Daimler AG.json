@@ -1,0 +1,20 @@
+{
+    "name": "Daimler AG",
+    "displayName": "Daimler",
+    "properties": [
+        "car2go.com",
+        "corpinter.net",
+        "daimler.com",
+        "mbusa.com",
+        "mbvans.com",
+        "mercedes-amg.com",
+        "mercedes-benz.ca",
+        "mercedes-benz.com",
+        "smart.com"
+    ],
+    "prevalence": {
+        "tracking": 0.0000478,
+        "nonTracking": 0,
+        "total": 0.0000478
+    }
+}

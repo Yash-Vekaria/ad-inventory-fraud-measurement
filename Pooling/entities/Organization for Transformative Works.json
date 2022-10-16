@@ -1,0 +1,13 @@
+{
+    "name": "Organization for Transformative Works",
+    "displayName": "Organization for Transformative Works",
+    "properties": [
+        "archiveofourown.org",
+        "fanlore.org"
+    ],
+    "prevalence": {
+        "tracking": 0.0000152,
+        "nonTracking": 0,
+        "total": 0.0000152
+    }
+}

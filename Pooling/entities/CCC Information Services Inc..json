@@ -1,0 +1,12 @@
+{
+    "name": "CCC Information Services Inc.",
+    "displayName": "CCC Information Services",
+    "properties": [
+        "carwise.com"
+    ],
+    "prevalence": {
+        "tracking": 0.0000069,
+        "nonTracking": 0,
+        "total": 0.0000069
+    }
+}

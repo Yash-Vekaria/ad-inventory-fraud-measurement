@@ -1,0 +1,12 @@
+{
+    "name": "Norwegian Air Shuttle ASA",
+    "displayName": "Norwegian Air Shuttle",
+    "properties": [
+        "norwegian.com"
+    ],
+    "prevalence": {
+        "tracking": 0.0001,
+        "nonTracking": 0,
+        "total": 0.0001
+    }
+}

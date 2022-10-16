@@ -1,0 +1,42 @@
+{
+    "name": "TransPerfect Global, Inc.",
+    "displayName": "TransPerfect",
+    "properties": [
+        "agmfactory.com",
+        "applanga.com",
+        "astoriasoftware.com",
+        "chulengo.tv",
+        "crglegal.com",
+        "digitalreefinc.com",
+        "lassostudios.es",
+        "lassostudios.org",
+        "lmkclinicalresearch.com",
+        "lylo.tv",
+        "milim.co.il",
+        "mogi-group.com",
+        "propulsevideo.com",
+        "scheune-muenchen.com",
+        "semantix.com",
+        "semantix.fi",
+        "somagic.com",
+        "sublimesubtitling.com",
+        "tauyou.com",
+        "translatenow.com",
+        "translations.com",
+        "transperfect.com",
+        "transperfectlegal.com",
+        "webcertain.cn.com",
+        "webcertain.com",
+        "webcertain.com.br",
+        "webcertain.de",
+        "webcertain.es",
+        "webcertain.hk",
+        "webcertain.it",
+        "worldlingo.com"
+    ],
+    "prevalence": {
+        "tracking": 0.0000137,
+        "nonTracking": 0,
+        "total": 0.0000137
+    }
+}

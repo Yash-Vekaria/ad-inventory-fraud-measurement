@@ -1,0 +1,12 @@
+{
+    "name": "World Wildlife Fund, Inc.",
+    "displayName": "World Wildlife Fund",
+    "properties": [
+        "worldwildlife.org"
+    ],
+    "prevalence": {
+        "tracking": 0,
+        "nonTracking": 0.00000691,
+        "total": 0.00000691
+    }
+}

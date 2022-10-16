@@ -1,0 +1,17 @@
+{
+    "name": "Enterprise Holdings Inc.",
+    "displayName": "Enterprise Holdings",
+    "properties": [
+        "alamo.com",
+        "enterprise.ca",
+        "enterprise.co.uk",
+        "enterprise.com",
+        "enterprisecarsales.com",
+        "nationalcar.com"
+    ],
+    "prevalence": {
+        "tracking": 0.0000205,
+        "nonTracking": 0,
+        "total": 0.0000205
+    }
+}

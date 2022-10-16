@@ -1,0 +1,13 @@
+{
+    "name": "Sport Ngin",
+    "displayName": "Sport Ngin",
+    "properties": [
+        "ngin.com",
+        "sportngin.com"
+    ],
+    "prevalence": {
+        "tracking": 0.0000887,
+        "nonTracking": 0.0000205,
+        "total": 0.000109
+    }
+}

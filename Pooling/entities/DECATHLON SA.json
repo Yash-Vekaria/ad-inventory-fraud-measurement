@@ -1,0 +1,23 @@
+{
+    "name": "DECATHLON SA",
+    "displayName": "Decathlon",
+    "properties": [
+        "decathlon.be",
+        "decathlon.co.uk",
+        "decathlon.com",
+        "decathlon.de",
+        "decathlon.es",
+        "decathlon.fr",
+        "decathlon.in",
+        "decathlon.it",
+        "decathlon.nl",
+        "decathlon.pl",
+        "decathlon.ru",
+        "mydecathlon.com"
+    ],
+    "prevalence": {
+        "tracking": 0.00000678,
+        "nonTracking": 0,
+        "total": 0.00000678
+    }
+}

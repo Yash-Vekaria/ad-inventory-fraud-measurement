@@ -1,0 +1,13 @@
+{
+    "name": "Bayt.com, Inc.",
+    "displayName": "Bayt.com",
+    "properties": [
+        "b8cdn.com",
+        "bayt.com"
+    ],
+    "prevalence": {
+        "tracking": 0.0000136,
+        "nonTracking": 0,
+        "total": 0.0000136
+    }
+}

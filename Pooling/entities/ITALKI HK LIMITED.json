@@ -1,0 +1,12 @@
+{
+    "name": "ITALKI HK LIMITED",
+    "displayName": "ITALKI HK",
+    "properties": [
+        "italki.com"
+    ],
+    "prevalence": {
+        "tracking": 0.00000681,
+        "nonTracking": 0,
+        "total": 0.00000681
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Khach Xoan",
+    "displayName": "Khach Xoan",
+    "properties": [
+        "app1pro.com"
+    ],
+    "prevalence": {
+        "tracking": 0.0000136,
+        "nonTracking": 0,
+        "total": 0.0000136
+    }
+}

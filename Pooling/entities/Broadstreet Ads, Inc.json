@@ -1,0 +1,12 @@
+{
+    "name": "Broadstreet Ads, Inc",
+    "displayName": "Broadstreet Ads",
+    "properties": [
+        "broadstreetads.com"
+    ],
+    "prevalence": {
+        "tracking": 0.000717,
+        "nonTracking": 0.0000478,
+        "total": 0.000765
+    }
+}

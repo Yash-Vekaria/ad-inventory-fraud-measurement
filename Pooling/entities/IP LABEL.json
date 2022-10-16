@@ -1,0 +1,12 @@
+{
+    "name": "IP LABEL",
+    "displayName": "IP LABEL",
+    "properties": [
+        "ip-label.net"
+    ],
+    "prevalence": {
+        "tracking": 0.0000478,
+        "nonTracking": 0.00000683,
+        "total": 0.0000546
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "name": "Suomen Hintavertailu Oy",
+    "displayName": "Suomen Hintavertailu",
+    "properties": [
+        "hinta.fi",
+        "io-tech.fi"
+    ],
+    "prevalence": {
+        "tracking": 0.00000678,
+        "nonTracking": 0,
+        "total": 0.00000678
+    }
+}

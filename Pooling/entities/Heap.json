@@ -1,0 +1,13 @@
+{
+    "name": "Heap",
+    "displayName": "Heap",
+    "properties": [
+        "heap.io",
+        "heapanalytics.com"
+    ],
+    "prevalence": {
+        "tracking": 0.00472,
+        "nonTracking": 0.000253,
+        "total": 0.00497
+    }
+}

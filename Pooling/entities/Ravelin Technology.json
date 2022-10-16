@@ -1,0 +1,12 @@
+{
+    "name": "Ravelin Technology",
+    "displayName": "Ravelin",
+    "properties": [
+        "ravelin.net"
+    ],
+    "prevalence": {
+        "tracking": 0.0000273,
+        "nonTracking": 0,
+        "total": 0.0000273
+    }
+}

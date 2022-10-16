@@ -1,0 +1,14 @@
+{
+    "name": "Admedo",
+    "displayName": "Admedo",
+    "properties": [
+        "a8723.com",
+        "adizio.com",
+        "admedo.com"
+    ],
+    "prevalence": {
+        "tracking": 0.0115,
+        "nonTracking": 0.000382,
+        "total": 0.0119
+    }
+}

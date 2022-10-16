@@ -1,0 +1,16 @@
+{
+    "name": "BoardGameGeek, LLC",
+    "displayName": "BoardGameGeek",
+    "properties": [
+        "boardgamegeek.com",
+        "geekdo-images.com",
+        "geekdo-static.com",
+        "geekdo.com",
+        "rpggeek.com"
+    ],
+    "prevalence": {
+        "tracking": 0,
+        "nonTracking": 0.00000683,
+        "total": 0.00000683
+    }
+}

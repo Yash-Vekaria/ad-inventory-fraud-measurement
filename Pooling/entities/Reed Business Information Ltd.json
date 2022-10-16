@@ -1,0 +1,14 @@
+{
+    "name": "Reed Business Information Ltd",
+    "displayName": "Reed Business Information",
+    "properties": [
+        "flightstats.com",
+        "hotfrog.com.au",
+        "reedbusiness.net"
+    ],
+    "prevalence": {
+        "tracking": 0.00000683,
+        "nonTracking": 0,
+        "total": 0.00000683
+    }
+}

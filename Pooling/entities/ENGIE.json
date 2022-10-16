@@ -1,0 +1,12 @@
+{
+    "name": "ENGIE",
+    "displayName": "ENGIE",
+    "properties": [
+        "engie.fr"
+    ],
+    "prevalence": {
+        "tracking": 0.0001,
+        "nonTracking": 0,
+        "total": 0.0001
+    }
+}

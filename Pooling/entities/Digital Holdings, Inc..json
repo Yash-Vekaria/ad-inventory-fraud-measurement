@@ -1,0 +1,26 @@
+{
+    "name": "Digital Holdings, Inc.",
+    "displayName": "Digital Holdings",
+    "properties": [
+        "adplan7.com",
+        "advg.jp",
+        "anddigital.co.jp",
+        "bonds-ig.com",
+        "connectom.co.jp",
+        "digital-holdings.co.jp",
+        "digitalshift.co.jp",
+        "linebc.jp",
+        "media-engine.jp",
+        "opt-incubate.com",
+        "opt.ne.jp",
+        "reteigi.co.jp",
+        "signate.co.jp",
+        "so-tech.co.jp",
+        "sold-out.co.jp"
+    ],
+    "prevalence": {
+        "tracking": 0,
+        "nonTracking": 0.0000205,
+        "total": 0.0000205
+    }
+}

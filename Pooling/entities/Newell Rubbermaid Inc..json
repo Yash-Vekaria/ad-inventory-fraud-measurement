@@ -1,0 +1,13 @@
+{
+    "name": "Newell Rubbermaid Inc.",
+    "displayName": "Newell Rubbermaid",
+    "properties": [
+        "freshpreserving.com",
+        "nrecommerce.com"
+    ],
+    "prevalence": {
+        "tracking": 0.0000152,
+        "nonTracking": 0,
+        "total": 0.0000152
+    }
+}

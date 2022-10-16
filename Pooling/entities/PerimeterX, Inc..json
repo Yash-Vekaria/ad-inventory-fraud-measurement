@@ -1,0 +1,17 @@
+{
+    "name": "PerimeterX, Inc.",
+    "displayName": "PerimeterX",
+    "properties": [
+        "perimeterx.com",
+        "perimeterx.net",
+        "px-cdn.net",
+        "px-client.net",
+        "px-cloud.net",
+        "pxi.pub"
+    ],
+    "prevalence": {
+        "tracking": 0.000799,
+        "nonTracking": 0.00196,
+        "total": 0.00276
+    }
+}

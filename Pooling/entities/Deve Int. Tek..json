@@ -1,0 +1,10 @@
+{
+    "name": "Deve Int. Tek.",
+    "displayName": "Deve Int. Tek",
+    "properties": [
+        "distancefromto.net",
+        "gbmb.org",
+        "latlong.net",
+        "where-am-i.net"
+    ]
+}

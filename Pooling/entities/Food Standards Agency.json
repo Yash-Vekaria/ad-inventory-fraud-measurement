@@ -1,0 +1,12 @@
+{
+    "name": "Food Standards Agency",
+    "displayName": "Food Standards Agency",
+    "properties": [
+        "food.gov.uk"
+    ],
+    "prevalence": {
+        "tracking": 0.00000681,
+        "nonTracking": 0,
+        "total": 0.00000681
+    }
+}

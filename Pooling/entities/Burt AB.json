@@ -1,0 +1,12 @@
+{
+    "name": "Burt AB",
+    "displayName": "Burt",
+    "properties": [
+        "burt.io"
+    ],
+    "prevalence": {
+        "tracking": 0.000101,
+        "nonTracking": 0,
+        "total": 0.000101
+    }
+}

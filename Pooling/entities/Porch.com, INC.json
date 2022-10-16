@@ -1,0 +1,13 @@
+{
+    "name": "Porch.com, INC",
+    "displayName": "Porch.com",
+    "properties": [
+        "porch.com",
+        "staticp.com"
+    ],
+    "prevalence": {
+        "tracking": 0.00000682,
+        "nonTracking": 0,
+        "total": 0.00000682
+    }
+}

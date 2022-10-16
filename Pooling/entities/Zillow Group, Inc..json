@@ -1,0 +1,22 @@
+{
+    "name": "Zillow Group, Inc.",
+    "displayName": "Zillow Group",
+    "properties": [
+        "hotpads.com",
+        "realestate.com",
+        "streeteasy.com",
+        "trulia.com",
+        "zg-api.com",
+        "zillow.ca",
+        "zillow.com",
+        "zillow.net",
+        "zillowgroup.com",
+        "zillowgroup.net",
+        "zillowstatic.com"
+    ],
+    "prevalence": {
+        "tracking": 0.00000683,
+        "nonTracking": 0.0000205,
+        "total": 0.0000273
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "name": "Trusted Media Brands, Inc",
+    "displayName": "Trusted Media Brands",
+    "properties": [
+        "birdsandblooms.com",
+        "familyhandyman.com",
+        "havenhomemedia.com",
+        "rd.com",
+        "reimanpub.com",
+        "selection.ca",
+        "tasteofhome.com",
+        "tmbi.com"
+    ],
+    "prevalence": {
+        "tracking": 0.00000683,
+        "nonTracking": 0.000041,
+        "total": 0.0000478
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "name": "American Council on Science and Health",
+    "displayName": "American Council on Science and Health",
+    "properties": [
+        "acsh.org"
+    ],
+    "prevalence": {
+        "tracking": 0,
+        "nonTracking": 0.00000692,
+        "total": 0.00000692
+    }
+}

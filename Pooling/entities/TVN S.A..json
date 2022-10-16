@@ -1,0 +1,16 @@
+{
+    "name": "TVN S.A.",
+    "displayName": "TVN",
+    "properties": [
+        "cdntvn.pl",
+        "player.pl",
+        "tvn.pl",
+        "tvn24.pl",
+        "tvn24bis.pl"
+    ],
+    "prevalence": {
+        "tracking": 0.0000273,
+        "nonTracking": 0,
+        "total": 0.0000273
+    }
+}

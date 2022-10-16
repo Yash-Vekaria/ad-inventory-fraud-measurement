@@ -1,0 +1,12 @@
+{
+    "name": "Terminus",
+    "displayName": "Terminus",
+    "properties": [
+        "terminus.services"
+    ],
+    "prevalence": {
+        "tracking": 0.000805,
+        "nonTracking": 0.000177,
+        "total": 0.000982
+    }
+}

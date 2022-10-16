@@ -1,0 +1,14 @@
+{
+    "name": "LENDINGTREE, LLC",
+    "displayName": "LendingTree",
+    "properties": [
+        "comparecards.com",
+        "lendingtree.com",
+        "tree.com"
+    ],
+    "prevalence": {
+        "tracking": 0.0000546,
+        "nonTracking": 0,
+        "total": 0.0000546
+    }
+}

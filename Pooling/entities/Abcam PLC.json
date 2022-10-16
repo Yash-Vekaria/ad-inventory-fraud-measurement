@@ -1,0 +1,8 @@
+{
+    "name": "Abcam PLC",
+    "displayName": "Abcam",
+    "properties": [
+        "abcam.com",
+        "static-abcam.com"
+    ]
+}

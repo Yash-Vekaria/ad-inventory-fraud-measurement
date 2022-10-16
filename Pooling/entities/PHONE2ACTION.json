@@ -1,0 +1,12 @@
+{
+    "name": "PHONE2ACTION",
+    "displayName": "PHONE2ACTION",
+    "properties": [
+        "p2a.co"
+    ],
+    "prevalence": {
+        "tracking": 0.0000138,
+        "nonTracking": 0,
+        "total": 0.0000138
+    }
+}

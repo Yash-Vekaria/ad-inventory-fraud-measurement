@@ -1,0 +1,8 @@
+{
+    "name": "Wikiloc Outdoor SL",
+    "displayName": "Wikiloc Outdoor",
+    "properties": [
+        "wikiloc.com",
+        "wklcdn.com"
+    ]
+}

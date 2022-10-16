@@ -1,0 +1,12 @@
+{
+    "name": "Booz Allen Hamilton, Inc.",
+    "displayName": "Booz Allen Hamilton",
+    "properties": [
+        "recreation.gov"
+    ],
+    "prevalence": {
+        "tracking": 0,
+        "nonTracking": 0.00000681,
+        "total": 0.00000681
+    }
+}

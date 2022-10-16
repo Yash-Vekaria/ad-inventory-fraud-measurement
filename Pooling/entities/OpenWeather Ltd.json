@@ -1,0 +1,13 @@
+{
+    "name": "OpenWeather Ltd",
+    "displayName": "OpenWeather",
+    "properties": [
+        "openweather.co.uk",
+        "openweathermap.org"
+    ],
+    "prevalence": {
+        "tracking": 0.0000683,
+        "nonTracking": 0.000416,
+        "total": 0.000484
+    }
+}

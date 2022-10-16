@@ -1,0 +1,12 @@
+{
+    "name": "HiConversion, Inc.",
+    "displayName": "HiConversion",
+    "properties": [
+        "hiconversion.com"
+    ],
+    "prevalence": {
+        "tracking": 0.000171,
+        "nonTracking": 0.0000273,
+        "total": 0.000198
+    }
+}

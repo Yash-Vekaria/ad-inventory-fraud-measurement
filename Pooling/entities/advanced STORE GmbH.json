@@ -1,0 +1,13 @@
+{
+    "name": "advanced STORE GmbH",
+    "displayName": "advanced STORE",
+    "properties": [
+        "ad4m.at",
+        "ad4mat.net"
+    ],
+    "prevalence": {
+        "tracking": 0.000403,
+        "nonTracking": 0.0000205,
+        "total": 0.000423
+    }
+}

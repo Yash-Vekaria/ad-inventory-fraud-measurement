@@ -1,0 +1,13 @@
+{
+    "name": "AcuityAds",
+    "displayName": "AcuityAds",
+    "properties": [
+        "acuityads.com",
+        "acuityplatform.com"
+    ],
+    "prevalence": {
+        "tracking": 0.0311,
+        "nonTracking": 0.000253,
+        "total": 0.0314
+    }
+}

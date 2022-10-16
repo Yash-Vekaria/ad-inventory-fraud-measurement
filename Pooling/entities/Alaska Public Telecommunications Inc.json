@@ -1,0 +1,12 @@
+{
+    "name": "Alaska Public Telecommunications Inc",
+    "displayName": "Alaska Public Telecommunications",
+    "properties": [
+        "alaskapublic.org"
+    ],
+    "prevalence": {
+        "tracking": 0,
+        "nonTracking": 0.00000682,
+        "total": 0.00000682
+    }
+}

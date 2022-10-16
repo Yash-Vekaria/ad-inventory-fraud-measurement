@@ -1,0 +1,7 @@
+{
+    "name": "EUMETSAT",
+    "displayName": "EUMETSAT",
+    "properties": [
+        "eumetsat.org"
+    ]
+}

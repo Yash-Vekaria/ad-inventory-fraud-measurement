@@ -1,0 +1,17 @@
+{
+    "name": "audienzz AG",
+    "displayName": "NZZ Management",
+    "properties": [
+        "adnz.co",
+        "audienzz.ch",
+        "danzz.ch",
+        "nzz-tech.ch",
+        "nzz.ch",
+        "static-nzz.ch"
+    ],
+    "prevalence": {
+        "tracking": 0.000177,
+        "nonTracking": 0,
+        "total": 0.000177
+    }
+}

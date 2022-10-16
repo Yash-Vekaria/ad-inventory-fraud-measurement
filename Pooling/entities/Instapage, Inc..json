@@ -1,0 +1,12 @@
+{
+    "name": "Instapage, Inc.",
+    "displayName": "Instapage",
+    "properties": [
+        "instapage.com"
+    ],
+    "prevalence": {
+        "tracking": 0.00000683,
+        "nonTracking": 0,
+        "total": 0.00000683
+    }
+}

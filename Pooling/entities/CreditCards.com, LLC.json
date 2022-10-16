@@ -1,0 +1,12 @@
+{
+    "name": "CreditCards.com, LLC",
+    "displayName": "CreditCards.com",
+    "properties": [
+        "creditcards.com"
+    ],
+    "prevalence": {
+        "tracking": 0.00000683,
+        "nonTracking": 0.0000341,
+        "total": 0.0000409
+    }
+}

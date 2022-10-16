@@ -1,0 +1,16 @@
+{
+    "name": "Storytel Group",
+    "displayName": "Storytel",
+    "properties": [
+        "audiobooks.co.uk",
+        "audiobooks.com",
+        "mktmix.com.br",
+        "storytel.com",
+        "storytel.net"
+    ],
+    "prevalence": {
+        "tracking": 0.00000683,
+        "nonTracking": 0,
+        "total": 0.00000683
+    }
+}

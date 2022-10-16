@@ -1,0 +1,13 @@
+{
+    "name": "Qumu",
+    "displayName": "Qumu",
+    "properties": [
+        "kulu.net",
+        "qumucloud.com"
+    ],
+    "prevalence": {
+        "tracking": 0.00000683,
+        "nonTracking": 0.0000137,
+        "total": 0.0000205
+    }
+}

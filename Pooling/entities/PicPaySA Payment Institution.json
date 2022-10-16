@@ -1,0 +1,7 @@
+{
+    "name": "PicPaySA Payment Institution",
+    "displayName": "PicPay",
+    "properties": [
+        "picpay.com"
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "name": "Continental AG",
+    "displayName": "Continental",
+    "properties": [
+        "continental-tires.com",
+        "continentaltire.com"
+    ],
+    "prevalence": {
+        "tracking": 0.00000683,
+        "nonTracking": 0,
+        "total": 0.00000683
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "name": "University of Georgia",
+    "displayName": "University of Georgia",
+    "properties": [
+        "uga.edu"
+    ],
+    "prevalence": {
+        "tracking": 0.00000704,
+        "nonTracking": 0,
+        "total": 0.00000704
+    }
+}

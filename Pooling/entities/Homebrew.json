@@ -1,0 +1,7 @@
+{
+    "name": "Homebrew",
+    "displayName": "Homebrew",
+    "properties": [
+        "brew.sh"
+    ]
+}

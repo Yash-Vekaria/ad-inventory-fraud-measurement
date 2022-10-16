@@ -1,0 +1,12 @@
+{
+    "name": "SHENZHEN GEEKBUY E-COMMERCE Co., Ltd",
+    "displayName": "SHENZHEN GEEKBUY E-COMMERCE",
+    "properties": [
+        "geekbuying.com"
+    ],
+    "prevalence": {
+        "tracking": 0.000102,
+        "nonTracking": 0,
+        "total": 0.000102
+    }
+}

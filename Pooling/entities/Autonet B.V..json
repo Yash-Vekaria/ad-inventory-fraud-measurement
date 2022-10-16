@@ -1,0 +1,12 @@
+{
+    "name": "Autonet B.V.",
+    "displayName": "Autonet",
+    "properties": [
+        "onderdelenlijn.nl"
+    ],
+    "prevalence": {
+        "tracking": 0,
+        "nonTracking": 0.00000685,
+        "total": 0.00000685
+    }
+}

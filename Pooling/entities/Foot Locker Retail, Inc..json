@@ -1,0 +1,14 @@
+{
+    "name": "Foot Locker Retail, Inc.",
+    "displayName": "Foot Locker Retail",
+    "properties": [
+        "champssports.com",
+        "eastbay.com",
+        "footlocker.com"
+    ],
+    "prevalence": {
+        "tracking": 0,
+        "nonTracking": 0.0000205,
+        "total": 0.0000205
+    }
+}

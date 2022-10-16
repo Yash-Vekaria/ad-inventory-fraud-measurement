@@ -1,0 +1,13 @@
+{
+    "name": "Val-Pak Direct Marketing Systems, Inc.",
+    "displayName": "Val-Pak Direct Marketing Systems",
+    "properties": [
+        "sdccdn.com",
+        "valpak.com"
+    ],
+    "prevalence": {
+        "tracking": 0.0000137,
+        "nonTracking": 0,
+        "total": 0.0000137
+    }
+}

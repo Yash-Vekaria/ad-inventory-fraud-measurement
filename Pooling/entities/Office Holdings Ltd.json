@@ -1,0 +1,12 @@
+{
+    "name": "Office Holdings Ltd",
+    "displayName": "Office Holdings",
+    "properties": [
+        "office.co.uk"
+    ],
+    "prevalence": {
+        "tracking": 0.0001,
+        "nonTracking": 0,
+        "total": 0.0001
+    }
+}

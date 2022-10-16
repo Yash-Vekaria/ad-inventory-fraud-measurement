@@ -1,0 +1,12 @@
+{
+    "name": "Publitas.com B.V.",
+    "displayName": "Publitas.com",
+    "properties": [
+        "publitas.com"
+    ],
+    "prevalence": {
+        "tracking": 0.00000683,
+        "nonTracking": 0.0000205,
+        "total": 0.0000273
+    }
+}

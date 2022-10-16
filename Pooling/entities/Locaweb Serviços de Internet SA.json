@@ -1,0 +1,12 @@
+{
+    "name": "Locaweb Serviços de Internet S/A",
+    "displayName": "Locaweb Serviços de Internet",
+    "properties": [
+        "btg360.com.br"
+    ],
+    "prevalence": {
+        "tracking": 0.00000683,
+        "nonTracking": 0,
+        "total": 0.00000683
+    }
+}

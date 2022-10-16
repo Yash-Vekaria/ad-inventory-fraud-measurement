@@ -1,0 +1,13 @@
+{
+    "name": "Heureka Shopping, s.r.o.",
+    "displayName": "Heureka Shopping",
+    "properties": [
+        "heureka.cz",
+        "srovnanicen.cz"
+    ],
+    "prevalence": {
+        "tracking": 0.0000205,
+        "nonTracking": 0,
+        "total": 0.0000205
+    }
+}
