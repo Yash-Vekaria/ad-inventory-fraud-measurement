@@ -134,7 +134,7 @@ def discover_misrepresentations(websites):
 	
 	for domain in websites:
 		
-		dftemp = dfa[dfa["domain"] == domain]
+		dftemp = dfa[dfa["website_domain"] == domain]
 		num_adstxt_entries = len(dftemp)
 		# Direct labeled entries in ads.txt
 		direct_entries = len(dftemp[(dftemp["seller_account_type"].isin(["DIRECT", "direct", "Direct"]))])
@@ -220,14 +220,14 @@ def main():
 	output_file_path = os.path.join("", "adstxt_misrepresentations.csv")
 
 	# Defining and writing header to output file
-	header_str = "domain, adstxt_lines, case1_(correct_direct), case2_(incorrect_direct), total_direct, case3_(correct_reseller), case4_(incorrect_reseller), total_reseller, case5_(duplicate_entries), case6_(fabricated_sids), case7_(nonexistent_sjson), case8_(correct_direct), case9_(correct_direct), case10_(correct_direct)"
+	header_str = "website_domain, adstxt_lines, case1_(correct_direct), case2_(incorrect_direct), total_direct, case3_(correct_reseller), case4_(incorrect_reseller), total_reseller, case5_(duplicate_entries), case6_(fabricated_sids), case7_(nonexistent_sjson), case8_(correct_direct), case9_(correct_direct), case10_(correct_direct)"
 	header = header_str.split(", ")
 	f_csv = open(output_file_path, 'w', encoding='UTF8')
 	writer = csv.writer(f_csv)
 	writer.writerow(header)
 
 	# Distributing list of websites into chunks for parallel processing
-	websites = dfa[dfa["adstxt_presence"] == "Yes"]["domain"].unique().tolist()
+	websites = dfa[(dfa["adstxt_presence"] == "Yes")]["website_domain"].unique().tolist()
 	chunks = []
 	for site in websites:
 		current_chunk = []
@@ -238,7 +238,6 @@ def main():
 	# Parallelizing misrepresentation computations
 	with Pool(processes=agents) as pool:
 		write_rows = pool.map(discover_misrepresentations, chunks, chunksize)
-		print(write_rows)
 
 	# Writing the misrepresentation output to csv
 	for outp_row in write_rows:
