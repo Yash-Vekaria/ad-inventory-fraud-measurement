@@ -65,13 +65,13 @@ In order to study sellers.json misrepresentations, first step is to crawl seller
 The following scenarios describe different misrepresentations in `ads.txt` file:
 
 <p align="center">
-  <img src="https://github.com/Yash-Vekaria/Ad-Inventory-Fraud-Measurement/files/9781761/adstxt-inventory-fraud-toy-examples.pdf">
+  <img src="https://github.com/Yash-Vekaria/Ad-Inventory-Fraud-Measurement/files/9793766/adstxt-inventory-fraud-toy-examples.pdf">
 </p>
 
 The following scenarios describe different misrepresentations in `sellers.json` file:
 
 <p align="center">
-  <img src="https://github.com/Yash-Vekaria/Ad-Inventory-Fraud-Measurement/files/9781965/sellersjson-inventory-fraud.pdf">
+  <img src="https://github.com/Yash-Vekaria/Ad-Inventory-Fraud-Measurement/files/9793769/sellersjson-inventory-fraud.pdf">
 </p>
 
 The counts for above misrepresentations can be discovered in ads.txt and sellers.json files using the `summary_adstxt.csv` and `summary_sellersjson.csv` files generated above. Misrepresentation codes have been parallelized using Python `multiprocessing` library because usually even for 100 websites, the `summary_sellersjson.csv` becomes very large and non-parallel processing can take more time. `chunksize` representing the number of websites to be assigned to each thread and `agents` representing the number of threads to be run in parallel are initialized inside the `main()` function. These should be customized as per the number of websites studied by you.
