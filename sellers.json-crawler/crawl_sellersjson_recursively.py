@@ -106,12 +106,19 @@ def crawl_sellersjson(output_directory, input_filepath, outpath_filepath, seller
 			fm = open(sellersjson_presence_filepath, "w")
 		else:
 			fm = open(sellersjson_presence_filepath, "a")
+			fm.write("\n")
 
 		# Instantiate chromedriver
 		driver = get_chromedriver()
 
+		print("Domains to crawl in this iteration:", len(ad_domains_to_crawl))
 		for site in ad_domains_to_crawl:
 
+			print(site)
+			termination_char = ""
+			if ad_domains_to_crawl.index(site) != len(ad_domains_to_crawl)-1:
+				termination_char = "\n"
+			
 			# Hard-coding google.com (having sellers.json at non-standard location: http://realtimebidding.google.com) to have sellers.json as "Yes". 
 			# The google's sellers.json needs to be manually saved into "sellersjson" directory as "google_com.json"
 			# Some problematic domains are also ignored
@@ -121,13 +128,13 @@ def crawl_sellersjson(output_directory, input_filepath, outpath_filepath, seller
 				print(iteration, site + ", Yes")
 				fm.write(str(site) + f", Yes{termination_char}")
 				continue
+			elif site in ["croooober.com"]:
+				print(iteration, site + ", No")
+				fm.write(str(site) + f", No{termination_char}")
+				continue
 			
 			# Generating the standard URL storing sellers.json file for the current website
 			site_sellersjson = "http://" + site + "/sellers.json"
-
-			termination_char = ""
-			if ad_domains_to_crawl.index(site) != len(ad_domains_to_crawl)-1:
-				termination_char = "\n"
 			
 			# If site domain is only digits then its not valid seller domain
 			if site.isdigit():
