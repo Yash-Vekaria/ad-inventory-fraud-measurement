@@ -1,6 +1,7 @@
 from multiprocessing import Pool
 import pandas as pd
 import statistics
+import math
 import csv
 import os
 
@@ -199,7 +200,7 @@ def discover_misrepresentations(websites):
 		
 		case10 = "NA" if len(t_case10) == 0 else statistics.mean(t_case10)
 		
-        # Appending misrepresentations associated with current domain in sellers.json
+        # Appending misrepresentations associated with current domain in ads.txt
 		print(domain, num_adstxt_entries, case1, case2, direct_entries, case3, case4, reseller_entries, case5, case6, case7, case8, case9, case10)
 		row = [domain, num_adstxt_entries, case1, case2, direct_entries, case3, case4, reseller_entries, case5, case6, case7, case8, case9, case10]
 		write_data.append(row)
@@ -213,8 +214,8 @@ def main():
 	global dfa;
 
 	# Parallelize misrepresentation computations with a pool of 3 agents, each having a chunk of size of 1 website until finished
-	agents = 3
-	chunksize = 1
+	agents = 2
+	chunksize = 2
 
 	# Defining output file path
 	output_file_path = os.path.join("", "adstxt_misrepresentations.csv")
@@ -229,11 +230,14 @@ def main():
 	# Distributing list of websites into chunks for parallel processing
 	websites = dfa[(dfa["adstxt_presence"] == "Yes")]["website_domain"].unique().tolist()
 	chunks = []
-	for site in websites:
+	current_index = 0
+	total_chunks = math.ceil(len(websites)/float(chunksize))
+	for i in range(total_chunks):
 		current_chunk = []
-		for i in range(chunksize):
+		for site in websites[current_index: current_index + chunksize]:
 			current_chunk.append(site)
 		chunks.append(current_chunk)
+		current_index += chunksize
 
 	# Parallelizing misrepresentation computations
 	with Pool(processes=agents) as pool:
@@ -241,7 +245,8 @@ def main():
 
 	# Writing the misrepresentation output to csv
 	for outp_row in write_rows:
-		writer.writerow(outp_row)
+		# print(type(outp_row[0]), outp_row[0])
+		writer.writerow(outp_row[0])
 
 
 
