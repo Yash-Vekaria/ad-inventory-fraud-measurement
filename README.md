@@ -44,10 +44,20 @@ In order to study these ads.txt misrepresentations, first step is to crawl ads.t
 
 The sellers.json standard (introduced in 2019), aims to mitigate inventory fraud by requiring each AdX and SSP to maintain a sellers.json file at the root level directory (e.g., adx.com/sellers.json). This sellers.json file must contain an entry for each entity that may be paid for inventory purchased through an AdX — i.e., one entry for each partner that is an inventory source for the AdX. Our work is based on [2019 IAB Specification](https://iabtechlab.com/wp-content/uploads/2019/07/Sellers.json_Final.pdf) for sellers.json.
 
-In order to study sellers.json misrepresentations, first step is to crawl sellers.json using the codes present in `sellers.json-crawler` directory.
+In order to study sellers.json misrepresentations, first step is to crawl sellers.json using the codes present in `sellers.json-crawler` directory. This is the most expensive crawler in terms of the amount of time it takes.
 
-1. 
+1. Considering that `ads.txt-crawler` was already set first and ran, `chromedriver` will be directly used from the path as per the above directory structure. Also, `crawl_sellersjson_recursively.py` (to be run as below) crawls sellers.json for all the distinct ad domains found in the `summary_adstxt.csv` during the first iteration. The crawler maintains a mapping of sellers to the presence of their sellers.json file in `sellersjson_presence.txt`. 
+   ```
+   python crawl_sellersjson_recursively.py
+   ```
+2. After each iteration, a summarized file is created for all the sellers.json files crawled until that point using the `parse_sellersjson.py` code internally called by `crawl_sellersjson_recursively.py`.
+3. For second iteration onwards, all the seller domains with `seller_type` as {"_INTERMEDIARY_" or "_BOTH_"} that are extracted from `summary_sellersjson.csv` and uncrawled, are crawled anew.
+4. Steps 2 and 3 are repeated for 5 iterations expecting that sellers.json of all possible sellers would have been crawled. `summary_sellersjson.csv` obtained after all 5 iterations contains entries for all the sellers.json files crawled in these 5 iterations.
+5. If any unexpected failure happens at any iteration, then the crawl can be restarted from that iteration by changing the line `range(1, 6)` in `crawl_sellersjson_recursively.py` to `range(x, 6)`, where x is the iteration in which the failure occured.
 
+**Note**: 
+* _Best effort crawling attempt is made using the above codes. However, there could be instances where the crawled sellers.json is syntactically incorrect and has may fail being parsed by our code. All such sellers.json filenames which are downloaded but have incorrect JSON format are saved in the file `failed_sellers.txt`._ These files can be opened to manually correct the  syntactical sellers.json formatting and the above steps can be rerun.
+* _Google has an extremely large number of sellers (5M+) in its sellers.json file, which is also hosted on a non-standard location: http://realtimebidding.google.com. So, its presence is hard-coded to "Yes" and the link has been opened on Safari to manually copy paste its entire content in `google_com.json` named file._
 
 
 ## Discovering misrepresentations
@@ -64,15 +74,17 @@ The following scenarios describe different misrepresentations in `sellers.json` 
   <img src="https://github.com/Yash-Vekaria/Ad-Inventory-Fraud-Measurement/files/9781965/sellersjson-inventory-fraud.pdf">
 </p>
 
-The counts for above misrepresentations can be discovered in ads.txt and sellers.json files using the `summary_adstxt.csv` and `summary_sellersjson.csv` files generated above. The following commands need to be run inside `Misrepresentations` directory:
-* **ads.txt misrepresentations**: Output file: `adstxt_misrepresentations.csv`
-  ```
-  python discover_adstxt_misrepresentations.py
-  ``` 
-* **sellers.json misrepresentations**: Output file: `sellersjson_misrepresentations.csv`
-  ```
-  python discover_sellersjson_misrepresentations.py
-  ``` 
+The counts for above misrepresentations can be discovered in ads.txt and sellers.json files using the `summary_adstxt.csv` and `summary_sellersjson.csv` files generated above. Misrepresentation codes have been parallelized using Python `multiprocessing` library because usually even for 100 websites, the `summary_sellersjson.csv` becomes very large and non-parallel processing can take more time. `chunksize` representing the number of websites to be assigned to each thread and `agents` representing the number of threads to be run in parallel are initialized inside the `main()` function. These should be customized as per the number of websites studied by you.
+
+The following commands need to be run inside `Misrepresentations` directory:
+1. **ads.txt misrepresentations**: Output file: `adstxt_misrepresentations.csv`
+   ```
+   python discover_adstxt_misrepresentations.py
+   ``` 
+2. **sellers.json misrepresentations**: Output file: `sellersjson_misrepresentations.csv`
+   ```
+   python discover_sellersjson_misrepresentations.py
+   ```
 
 
 ## Citation
