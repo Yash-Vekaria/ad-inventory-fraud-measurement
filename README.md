@@ -9,6 +9,8 @@ The dataset associated with our work can be accessed below. It can be used to re
 For further details, please check out the research paper associated with this work.\
 **Paper:** https://doi.org/10.48550/arXiv.2210.06654
 
+***
+
 We study Ad Inventory Fraud in three ways:
 1. ads.txt misrepresentations
 2. sellers.json misrepresentations
@@ -20,11 +22,14 @@ The overall methodology followed in this work can be described as follows:
   <img src="https://github.com/Yash-Vekaria/Ad-Inventory-Fraud-Measurement/files/9822194/misinfo_model.pdf">
 </p>
 
+***
 
 It is recommended to follow the same directory structure as used in the repository to avoid an errors. Primarily, all the Python dependencies required to run this project can be installed using the following command:
 ```
 pip install -r requirements.txt
 ```
+
+***
 
 ## ads.txt crawler
 
@@ -46,6 +51,7 @@ In order to study these ads.txt misrepresentations, first step is to crawl ads.t
    python parse_adstxt.py
    ```
 
+***
 
 ## sellers.json crawler
 
@@ -66,6 +72,7 @@ In order to study sellers.json misrepresentations, first step is to crawl seller
 * _Best effort crawling attempt is made using the above codes. However, there could be instances where the crawled sellers.json is syntactically incorrect and has may fail being parsed by our code. All such sellers.json filenames which are downloaded but have incorrect JSON format are saved in the file `failed_sellers.txt`._ These files can be opened to manually correct the  syntactical sellers.json formatting and the above steps can be rerun.
 * _Google has an extremely large number of sellers (5M+) in its sellers.json file, which is also hosted on a non-standard location: http://realtimebidding.google.com. So, its presence is hard-coded to "Yes" and the link has been opened on Safari to manually copy paste its entire content in `google_com.json` named file._
 
+***
 
 ## Discovering misrepresentations
 
@@ -94,6 +101,7 @@ The following commands need to be run inside `Misrepresentations` directory:
    python discover_sellersjson_misrepresentations.py
    ```
 
+***
 
 ## Discovering Pooling
 
@@ -175,7 +183,7 @@ Dynamic Pooling involves studying the signs of collusion between two or more web
   * `<crawl_number>|mapping|breitbart_com|18_10_2022.txt`: TXT file containing the same entries as above file, but it also has the URL of ad exchange that led to the brand page.
   * `<crawl_number>|error|breitbart_com|18_10_2022.txt`: TXT file logging all the minor exceptions that occured while performing the crawl for that website.
 
-
+***
 
 ## Discovering Brands
 
@@ -216,3 +224,4 @@ If you find this work useful, please cite our research paper:
   copyright = {Creative Commons Attribution 4.0 International}
 }
 ```
+***
