@@ -1,3 +1,3 @@
-http://nytimes.com, Yes
-http://breitbart.com, Yes
-http://tmz.com, Yes
+version https://git-lfs.github.com/spec/v1
+oid sha256:14cac7fa6dbeb85ec4c18e2db21a6500c77032d7cd7e9b0fba501f925285b8ea
+size 69

@@ -95,8 +95,8 @@ def main():
 
     # Enter the path to the file to store output about the presence of the ads.txt
     # adstxt_presence_directory, adstxt_presence_filename = "", "adstxt_presence.txt"
-    # adstxt_presence_directory, adstxt_presence_filename = "", "top100k_adstxt_presence.txt"
-    adstxt_presence_directory, adstxt_presence_filename = "", "temp.txt"
+    adstxt_presence_directory, adstxt_presence_filename = "", "top100k_adstxt_presence.txt"
+    # adstxt_presence_directory, adstxt_presence_filename = "", "temp.txt"
     adstxt_presence_filepath = os.path.join(adstxt_presence_directory, adstxt_presence_filename)
 
     # Define path to output directory
@@ -105,8 +105,8 @@ def main():
     
     # Read list of websites to crawl
     sites_to_crawl = read_websites_to_crawl(input_filepath)
-    # sites_to_crawl = sites_to_crawl[:70000]
-    sites_to_crawl = sites_to_crawl[70000:]
+    sites_to_crawl = sites_to_crawl[:70000]
+    # sites_to_crawl = sites_to_crawl[70000:]
     fc = open("crawled.txt")
     temp = fc.read().split("\n")
     crawled = [dom.split(", ")[0].strip() for dom in temp]
