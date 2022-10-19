@@ -186,9 +186,11 @@ Brands advertising on the set of websites being studied have already been obtain
 Input the list of folders of the dynamic crawls (generated in in `/Pooling/dynamic-crawler/`) that you want to summarise in the variable: `crawls_to_summarise`. The output is stored in the file `brands.csv` containing `{<study_website>, <brand>}` pairs.
 
 
+***
 
-For any issues pertaining to this repository, please raise a Pull Request (PR). For any additional questions related to this research, feel free to reach out to `yvekaria@ucdavis.edu`.
+**For any issues pertaining to this repository, please raise a Pull Request (PR). For any additional questions related to this research, feel free to reach out to `yvekaria@ucdavis.edu`.**
 
+***
 
 
 ## Citation
