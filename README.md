@@ -196,7 +196,7 @@ Input the list of folders of the dynamic crawls (generated in in `/Pooling/dynam
 
 ***
 
-**For any issues pertaining to this repository, please raise a Pull Request (PR). For any additional questions related to this research, feel free to reach out to `yvekaria@ucdavis.edu`.**
+**For any issues pertaining to this repository, please create a Pull Request (PR). For any additional questions related to this research, feel free to reach out to `yvekaria@ucdavis.edu`.**
 
 ***
 
