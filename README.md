@@ -14,6 +14,13 @@ We study Ad Inventory Fraud in three ways:
 2. sellers.json misrepresentations
 3. Dark Pooling
 
+The overall methodology followed in this work can be described as follows:
+
+<p align="center">
+  <img src="https://github.com/Yash-Vekaria/Ad-Inventory-Fraud-Measurement/files/9822194/misinfo_model.pdf">
+</p>
+
+
 It is recommended to follow the same directory structure as used in the repository to avoid an errors. Primarily, all the Python dependencies required to run this project can be installed using the following command:
 ```
 pip install -r requirements.txt
@@ -93,7 +100,7 @@ The following commands need to be run inside `Misrepresentations` directory:
 Pooling is a common strategy to share resources in online advertising. One way to identify the occurrence of pooling is by noting a single AdX-issued ‘publisher ID’ shared by multiple publisher websites. Dark pools are pools in which publisher IDs are shared by organizationally-unrelated publishers (possibly of different reputations). Dark pooling is a kind of ad fraud where advertisers are deceived during real-time bidding to think that they are buying an ad inventory on a premium website for instance, while their ad ends-up being shown on a low-end website due to a collusion between the premium and the low-end publisher in this case. Pooling can be studied statically as well as dynamically when websites are visited in real-time. The following diagram shows different kind scenarios related to Pooling.
 
 <p align="center">
-  <img src="">
+  <img src="https://github.com/Yash-Vekaria/Ad-Inventory-Fraud-Measurement/files/9822175/dark-pooling.pdf">
 </p>
 
 In order to study whether the websites under the study are involved in pooling, there should be a broader list of websites with whom they might share seller Ids. As a result, the Top 100K Tranco websites are used here, with the intuition that any website under study might want to pool their inventory with a reputable website. If required, any custom set of websites could be used instead of Top 100K.
