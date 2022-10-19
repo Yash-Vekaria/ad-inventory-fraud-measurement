@@ -200,7 +200,7 @@ def discover_misrepresentations(websites):
 		
 		case10 = "NA" if len(t_case10) == 0 else statistics.mean(t_case10)
 		
-        # Appending misrepresentations associated with current domain in ads.txt
+		# Appending misrepresentations associated with current domain in ads.txt
 		print(domain, num_adstxt_entries, case1, case2, direct_entries, case3, case4, reseller_entries, case5, case6, case7, case8, case9, case10)
 		row = [domain, num_adstxt_entries, case1, case2, direct_entries, case3, case4, reseller_entries, case5, case6, case7, case8, case9, case10]
 		write_data.append(row)

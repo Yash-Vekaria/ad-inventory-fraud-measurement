@@ -87,21 +87,51 @@ The following commands need to be run inside `Misrepresentations` directory:
    python discover_sellersjson_misrepresentations.py
    ```
 
+
 ## Discovering Pooling
 
-Pooling can be studied statically as well as dynamically when websites are visited in real-time.
+Pooling is a common strategy to share resources in online advertising. One way to identify the occurrence of pooling is by noting a single AdX-issued ‘publisher ID’ shared by multiple publisher websites. Dark pools are pools in which publisher IDs are shared by organizationally-unrelated publishers (possibly of different reputations). Dark pooling is a kind of ad fraud where advertisers are deceived during real-time bidding to think that they are buying an ad inventory on a premium website for instance, while their ad ends-up being shown on a low-end website due to a collusion between the premium and the low-end publisher in this case. Pooling can be studied statically as well as dynamically when websites are visited in real-time. The following diagram shows different kind scenarios related to Pooling.
+
+<p align="center">
+  <img src="">
+</p>
+
+In order to study whether the websites under the study are involved in pooling, there should be a broader list of websites with whom they might share seller Ids. As a result, the Top 100K Tranco websites are used here, with the intuition that any website under study might want to pool their inventory with a reputable website. If required, any custom set of websites could be used instead of Top 100K.
+
+The Top 100K Tranco websites are extracted from the Top 1M Tranco websites available at `https://tranco-list.eu/list/25749/1000000` and accesssed on 15th October 2022. 
+3. Top 100K domains are pasted from this list in `top_100k_websites.txt` and `ads.txt-crawler` is ran on these Top 100K domains to download their ads.txt files (wherever available) in the directory `./ads.txt-crawler/adstxt_top100k/` To run `ads.txt-crawler` for Top 100K domains, comment and uncomment the following lines in `crawl_adstxt.py`. It is recommended to download and use the latest tranco ranked list of domains whenever performing this study by updating the `top_100k_websites.txt` file and re-crawling their ads.txt files. 
+1. Lines to comment in `crawl_adstxt.py`:
+   ```
+   input_directory, input_filename = "..", "websites_to_crawl.txt"
+   adstxt_presence_directory, adstxt_presence_filename = "", "adstxt_presence.txt"
+   output_directory = "./adstxt/"
+   ```
+2. Lines to uncomment in `crawl_adstxt.py`:
+   ```
+   input_directory, input_filename = "..", "top_100k_websites.txt"
+   adstxt_presence_directory, adstxt_presence_filename = "", "top100k_adstxt_presence.txt"
+   output_directory = "./adstxt_top100k/"
+   ```
 
 ### Static Pooling
 
-1. Do something
-2. In order to obtain the parent organization of each domain under our study as well as for the top 100K tranco domains, Entity-Organization List provided by DuckDuckGo (DDG) in their `tracker-radar` repository is used. Since, this repository is huge, it is recommended to clone it in a temporary folder using the following command.
+Static Pooling involves studying the signs of collusion by analysing the static files of `ads.txt` of study websites and the Top 100K websites and the set of and `sellers.json` files. Follow the steps below:
+
+1. In order to obtain the parent organization of each domain under our study as well as for the Top 100K tranco domains, Entity-Organization List provided by DuckDuckGo (DDG) in their `tracker-radar` repository is used. Since, this repository is huge, it is recommended to clone it in a temporary folder using the following command.
    ```
    git clone https://github.com/duckduckgo/tracker-radar.git
    ```
-3. Once, cloning completes, cut the folder titled `entities` from the cloned repository and paste it inside the `Pooling` directory of the current project's folder. `entities` is referenced from this location by the `discover_static_pools.py` script. If it is placed at some other location, remember to change the location at the global variables defined in this script.
-4. The top 100K Tranco websites are extracted from the top 1M Tranco websites available at `https://tranco-list.eu/list/25749/1000000` and accesssed on 15th October 2022. 
-5. Top 100K domains are pasted from this list in `top_100k_websites.txt` and `ads.txt-crawler` is ran on these top 100K domains to download their ads.txt files (wherever available) in the directory `./ads.txt-crawler/adstxt_top100k/`. It is recommended to download and use the latest tranco ranked list of domains whenever performing this study by updating the `top_100k_websites.txt` file and re-crawling their ads.txt files. If required, even all the 1M websites can be used for the the Pooling study.
+2. Once, cloning completes, cut the folder titled `entities` from the cloned repository and paste it inside the `Pooling` directory of the current project's folder. `entities` is referenced from this location by the `discover_static_pools.py` script. If it is placed at some other location, remember to change the location at the global variables defined in this script. The temporary folder can be deleted.
+3. Now, the following command can be run to generate a file named `static_pools.csv` inside the `Pooling` directory. It contains all the pools discovered from the ads.txt files of study websites as well as Top 100K websites where more than 1 websites share the same seller Id. More details about this file can be obtained from our Dataset page.
+   ```
+   python discover_static_pools.py
+   ```
 
+### Dynamic Pooling
+
+Dynamic Pooling involves studying the signs of collusion between two or more websites (i.e., existence of static pools) by actually visiting the websites under study in real-time, capturing all the bid request, responses and post data and analysing them to find the evidence of such a collusion. We collect this data as explained in the Methodology diagram above.
+
+1. 
 
 ## Citation
 
