@@ -17,6 +17,7 @@ def get_chromedriver():
     return driver
 
 
+
 def read_websites_to_crawl(filepath):
     '''
     Reads and Returns websites from the file locations passed to it
@@ -89,28 +90,24 @@ def save_adstxt(filepath, content):
 def main():
 
     # Define path to list of websites to crawl
-    # input_directory, input_filename = "..", "websites_to_crawl.txt"
-    input_directory, input_filename = "..", "top_100k_websites.txt"
+    input_directory, input_filename = "..", "websites_to_crawl.txt"
+    # input_directory, input_filename = "..", "top_100k_websites.txt"
     input_filepath = os.path.join(input_directory, input_filename)
 
     # Enter the path to the file to store output about the presence of the ads.txt
-    # adstxt_presence_directory, adstxt_presence_filename = "", "adstxt_presence.txt"
-    adstxt_presence_directory, adstxt_presence_filename = "", "top100k_adstxt_presence.txt"
-    # adstxt_presence_directory, adstxt_presence_filename = "", "temp.txt"
+    adstxt_presence_directory, adstxt_presence_filename = "", "adstxt_presence.txt"
+    # adstxt_presence_directory, adstxt_presence_filename = "", "top100k_adstxt_presence.txt"
     adstxt_presence_filepath = os.path.join(adstxt_presence_directory, adstxt_presence_filename)
 
     # Define path to output directory
-    # output_directory = "./adstxt/"
-    output_directory = "./adstxt_top100k/"
+    output_directory = "./adstxt/"
+    # output_directory = "./adstxt_top100k/"
     
     # Read list of websites to crawl
     sites_to_crawl = read_websites_to_crawl(input_filepath)
-    sites_to_crawl = sites_to_crawl[:70000]
-    # sites_to_crawl = sites_to_crawl[70000:]
-    fc = open("crawled.txt")
-    temp = fc.read().split("\n")
-    crawled = [dom.split(", ")[0].strip() for dom in temp]
+    
     sites_to_crawl = list(set(sites_to_crawl).difference(set(crawled)))
+    print(len(sites_to_crawl))
 
     # Instantiate chromedriver
     web_driver = get_chromedriver()
