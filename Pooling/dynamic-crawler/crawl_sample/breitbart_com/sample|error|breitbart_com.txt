@@ -1,32 +1,3 @@
-
-Func AD [2]: 316 Anchor Tags extracted for domain: http://breitbart.com
-In a3: https://trends.revcontent.com/click.php?d=TaVr6sz4KBFUDI4UeNAT%2FPJVsYulxh7BMSu8Vphdhzv%2BEJI5BY7YnrSRnqi3jy%2FRxoaEstVNUQ%2FSAVnm%2BOjV%2B0riPNXcSMpLNxRM1%2BFrzGfGBLm%2BO80eysoPlRf4d9FshqsIF65lzvK8TFE38apVYMGuG6SAsf6IbBEnKn2YBmcxQyTDTdwXoikilV9GSqZVRp0%2BwJrLQREx5GKLYQzHxVtUHzFESCrrjno1Zex0uhoUcsLnRsCyKJEa4zRcxRTrHntmT4nZhJnlRtmhwYJNLO0lLcCcPuoMbb8vZ7xbYfEJLLP1I%2FQQzuwESbLpNVk0wLFP25IcAwX%2FKrUFpaQtglEzTJ1NhKlHIpnQgndmv4rshKxtymYMu7UkWom8IHqFjIxV7otyWBc5mD9Qpd3Js%2FyigDqrhDznkeQ6JCxIFtgr%2BOE%2BkulG%2BSow2dqfPyPo8ZJlaC9mNLkKd3WPy9s5D%2Bjih4%2FGtQDnljvTb0XSjA4R7mEBPlFPm2Qqazet5DmmTBQisLIX5TXURVjHN8GX9AwBT%2Bzx7B42q5azmsNvk9o%2BBU0%2BIwMjTpLhGFXBTFD9eD9XA%2FWqlS0wsbfUSyLunzhXqyNdSs4w0JVBPAV5i%2FcbiAHknj9Gn3YXLFjvmc1%2B6kunm0dF4tPehMqOZh%2FIpmBVuMI%2Fc5IgB%2BCPUjSc1n%2FhRzKAsxdgHnoDWLcolmvK1%2F5o0Z4qItFdTAxKpgAaq8QFc%2BUXCtHQrG%2F7yMhz1ACdXWVgv7RUmuZ8FXueki3p1%2BpGbMwlG%2FpReUDE3ErDpYEhtbXwZJ2jwus%2BgHN2cfS69ctp8IloQAWJVntPb3WsiimqtzXYAAmvdnXYxRr3A0dCM6kXbTA8twewJVY%2BthFOsL6QWFP5YHl3lxPM1HwQKvjYA0bG2lakxzj%2B89VP4qzLy%2BP088rjinSDvj5GgpVBcPkCiKyurFAqmWPNW72udE2xLe6wR3p0Z91ebp8Y4plLK1KIttD1UsR9RqDl%2Fddtgefkabt0t73bOBBxrb6CsNE1uIjOGowysGKZG%2Fm3tQdN7xr6C3jePS1k3MLoGhP9VK89Smr5EcRNpDr7vj8qCeSF0aIf45OKn0dvrHHPXokckbC6ZgZgH2A3ScgIGbAedbm%2Fsmzm069tAzpBcAnWo0Scp1mdni3nOytRu9VIUhAin%2BCP9J0NJLLNSBooPmwMnu4OCwyGMTgq0x0riBLOR74U9boV4AUEa5roZoF6LLFSwmAjnHkojhFGRogwRLL%2FJIeCoe21UlMHVXeYEqydqZAD3MrXSBtM2wIAFMa9fJNAFX1xqjG3LLniu3Tr7mpRPOLZqbXY5t0IUraP55%2BPVbJxwm1CF9tFFM6WYoRnzxpIrlK2A%2FBLEhCX%2Fqwqp4irMfc7yheYeHIpwER%2BTm%2BHLJ%2BDctp7AGLgRyWrpJxjNnpq%2FKjp%2B8q%2BY2qmnzcIL7WSQBDfg1RNYVvmq0NVaSNxYphG4Q5ExISN4yCpocYKlMX6kJCNGDYMlEvyNPxdejGodqOkTawr1h6HTwXOT%2Bni6YF337JsWnX7XwkppBrYNg5yaEQJeYaWlg8EkSa6tN9Zds52i3opQlum28x8lfbv9aa99%2BIbTumtNqvkSITpqfmv7iIEewoTQya%2BG0mCHVrpd1Gm1oTqFUCSdkVYsaRX&s2s=1&viewed=truelist index out of range
-In a1: None Is not a valid URL None!
-In a1: None Is not a valid URL None!
-In a1: None Is not a valid URL None!
-In a1: None Is not a valid URL None!
-Func AD [3]: 20 iframes extracted for domain: http://breitbart.com
-In i3_1 https://googleads.g.doubleclick.net/pagead/html/r20221013/r20190131/zrt_lookup.html
-In i3_2 https://googleads.g.doubleclick.net/pagead/html/r20221013/r20190131/zrt_lookup.html
-In i3_3 https://googleads.g.doubleclick.net/pagead/html/r20221013/r20190131/zrt_lookup.html
-In i4: https://googleads.g.doubleclick.net/pagead/html/r20221013/r20190131/zrt_lookup.htmllist index out of range
-In i1: Is not a valid URL !
-In i1: Is not a valid URL !
-In i5
-In i5
-In i5
-In i5
-In i5
-In i5
-In i5
-In i5
-In i5
-In i5
-In i5
-In i5
-In i5
-In i5
-In i5
-Func AD [4]: 11 missed_urls being traversed for domain: http://breitbart.com
-In m1: Is not a valid URL !
-In m1: Is not a valid URL !
+version https://git-lfs.github.com/spec/v1
+oid sha256:0ddf4423372ebc67146a9a5c48e07e2389f76c6b141e3734e110b4736981cdba
+size 2817

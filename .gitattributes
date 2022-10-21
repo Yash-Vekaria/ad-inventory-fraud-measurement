@@ -6,3 +6,4 @@
 # git push -u origin master
 google_com.json filter=lfs diff=lfs merge=lfs -text
 summary_sellersjson.csv filter=lfs diff=lfs merge=lfs -text
+*.txt filter=lfs diff=lfs merge=lfs -text

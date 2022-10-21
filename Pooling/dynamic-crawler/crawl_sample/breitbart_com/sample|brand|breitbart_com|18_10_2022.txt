@@ -1,6 +1,3 @@
-googlesyndication.com, moneymetals.com
-revcontent.com, gamedaynews.com
-revcontent.com, renewyourknees.com
-revcontent.com, brakeforit.com
-revcontent.com, thethriftytree.com
-revcontent.com, insidemystery.com
+version https://git-lfs.github.com/spec/v1
+oid sha256:5af4af5456881e0b92fd154c9f98225173d825fed6639a8d2885e602d6aad1c9
+size 206
