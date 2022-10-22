@@ -137,7 +137,7 @@ Static Pooling involves studying the signs of collusion by analysing the static 
    git clone https://github.com/duckduckgo/tracker-radar.git
    ```
 2. Once, cloning completes, cut the folder titled `entities` from the cloned repository and paste it inside the `Pooling` directory of the current project's folder. `entities` is referenced from this location by the `discover_static_pools.py` script. If it is placed at some other location, remember to change the location at the global variables defined in this script. The temporary folder can be deleted.
-3. Now, the following command can be run to generate a file named `static_pools.csv` inside the `Pooling` directory. It contains all the pools discovered from the ads.txt files of study websites as well as Top 100K websites where more than 1 websites share the same seller Id. More details about this file can be obtained from our Dataset page.
+3. Now, the following command can be run to generate a file named `static_pools.csv` inside the `Pooling` directory. It contains all the pools discovered from the ads.txt files of study websites as well as Top 100K websites where more than 1 websites share the same seller Id. This file has been compressed and added due to its file size. More details about this file can be obtained from our Dataset page.
    ```
    python discover_static_pools.py
    ```

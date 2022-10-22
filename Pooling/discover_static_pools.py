@@ -27,7 +27,7 @@ top100k_adstxt_directory = os.path.join(os.path.join("..", "ads.txt-crawler"), "
 # Path to the sellers.json directory
 sellersjson_directory = os.path.join(os.path.join("..", "sellers.json-crawler"), "sellersjson")
 # Path to the directory containing the entity-organization list downloaded from DDG tracker-radar Repo (https://github.com/duckduckgo/tracker-radar/tree/main/entities)
-os.path.join("", "entities")
+entity_dir = os.path.join("", "entities")
 
 
 
@@ -102,7 +102,7 @@ def process_ad_domain(domain_str):
 
 	return_map = {"adcolony.com 496220845654deec reseller 1ad675c9de6b5176": ["adcolony.com", True, "496220845654deec"], "adview.com 58850823 direct": ["adview.com", True, "58850823"], "criteo.com; 9332; direct": ["criteo.com", True, "9332"], "inmobi.com 94d702ada29c4b059e9aca837748b9fc reseller 83e75a7ae333ca9d": ["inmobi.com", True, "94d702ada29c4b059e9aca837748b9fc"], "jeeng.com||1937": ["jeeng.com", True, "1937"], "mars.media 102825": ["mars.media", True, "102825"], "mobilefuse.com 2281 reseller 71e88b065d69c021": ["mobilefuse.com", True, "2281"], "richaudience.com ua8biwjxkr reseller": ["richaudience.co", True, "ua8biwjxkr"], "run-syndicate.com 809": ["run-syndicate.com", True, "809"], "runative-syndicate.com 809": ["runative-syndicate.com", True, "809"], "sharethrough.com 0d60edd5 reseller": ["sharethrough.com", True, "0d60edd5"], "smartyads.com 23": ["smartyads.com", True, "23"], "yldbt.com 5b522cc167f6b300b89dc6d3 reseller cd184cb30abaabb5": ["yldbt.com", True, "5b522cc167f6b300b89dc6d3"], "appnexus": ["appnexus.com", True, "NA"]}
 	if dom in return_map.keys():
-		return return_map[0], return_map[1], return_map[2]
+		return return_map[dom][0], return_map[dom][1], return_map[dom][2]
 
 	if dom in ["adcolony", "adops", "adtag.vidmatic.com", "adtag.vidssp.com", "adyoulke.com", "apnexus.com", "app: aps.amazon.com", "appnexuscom", "bizzclick", "bizzclick.net", "brainly s2s yahoo.com", "ccontextweb.com", "ccoxmt.com", "chinatimes.com indexexchange.com", "cpmstar", "cpubmatic.com", "criteo.net", "dailymotion", "districtm", "districtm: appnexus.com", "eappnexus.com", "emxdgt.com", "emxdigital.com", "emxgdt.com", "emxgt.com", "engageadx", "eplanning.net", "epom", "epom.com", "exponential.com", "exponential.comi", "fmlabsonline", "freestar.io", "freewheel.tv", "freewheel", "go.sonobi.com", "i33across.com", "ijit.com", "index", "indexexchage.com", "indexexchange", "infolinks", "inventorypartnerdomain=failarmy.tv", "inventorypartnerdomain=firstimpression.io", "inventorypartnerdomain=peopleareawesome.tv", "inventorypartnerdomain=thepetcollective.tv", "inventorypartnerdomain=vuit.com", "inventorypartnerdomain=weatherspy.tv", "inventorypartnerdomain=wurl.com", "istrictm.io", "kiwihk", "kqd.com", "kqd.net", "ligit.com", "lijit.copenx.com", "limpid", "magnite", "magnite: rubiconproject.com", "mahimeta", "mapmyfitness liveintent.com", "media-net", "mediaonline.com", "mobfox", "mobupps", "mobuppsrtb.com", "ndexexchange.com", "nsightvideo.com", "o;google.com", "openx", "openx.comm", "openx.net", "outbrain.cbuffom", "penx.com", "pera.media", "potx.tv", "potxchange.com", "ppnexus.com", "publisher.phunware.com", "publishers.adlive.io", "publishers.logicad.jp", "publishers.teads.tv", "pubnative.com", "quantumdx.io", "relaido", "relaido.jp", "rhythmone", "rhythmone.cpm", "rhythomone.com", "riteo.com", "rtbhhouse.com", "rtbhouse", "sekindo", "sharethrough: sharethrough.com", "smartadserver", "sonictwist", "spot.im", "spotexchange.com", "spotim.market", "spotx.com","spotx.tvchange.com", "spotx.tvspotxchange.com", "spotxchange.com", "sulvo.co", "sulvo.com", "syancor.com", "teads.tv", "test.e-planning.net", "themediagrid.com", "themoneytizer.com‚", "tpmn.co.kr", "triplift.com", "viads.co", "video advertising.com", "website: interplaymedia.com.au", "yieldlab.de", "yieldlab.net", "yieldmo", "﻿anyclip.com", "﻿appnexus.com", "﻿google.com", "﻿improvedigital.com", "﻿spotxchange.com", "﻿﻿appnexus.com", "﻿﻿inmobi.com", "﻿﻿rubiconproject.com", "﻿﻿video.unrulymedia.com"]:
 		replace_map = {"adcolony": "adcolony.com", "adops": "adops.com", "adtag.": "", "adyoulke.com": "adyoulike.com", "apnexus.com": "appnexus.com", "app: ": "", "appnexuscom": "appnexus.com", "bizzclick": "bizzclick.com", "bizzclick.net": "bizzclick.com", "brainly s2s ": "", "ccontextweb.com": "contextweb.com", "ccoxmt.com": "coxmt.com", "chinatimes.com ": "", "cpmstar": "cpmstar.com", "cpubmatic.com": "pubmatic.com", "criteo.net": "criteo.com", "dailymotion": "dailymotion.com", "districtm": "districtm.io", "districtm: ": "", "eappnexus.com": "appnexus.com", "emxdgt.com": "emxdigital.com", "emxgdt.com": "emxdigital.com", "emxgt.com": "emxdigital.com", "engageadx": "engageadx.com", "epom": "epom.com", "exponential.comi": "exponential.com", "eplanning.net": "e-planning.net", "fmlabsonline": "fmlabsonline.com", "freestar.io": "freestar.com", "freewheel.tv": "freewheel.com", "freewheel": "freewheel.com", "go.sonobi.com": "sonobi.com", "i33across.com": "33across.com", "ijit.com": "lijit.com", "index": "indexexchange.com", "indexexchage.com": "indexexchange.com", "indexexchange": "indexexchange.com", "infolinks": "infolinks.com", "inventorypartnerdomain=": "", "istrictm.io": "districtm.io", "kiwihk": "kiwihk.net", "kqd.com": "lkqd.com", "kqd.net": "lkqd.net", "ligit.com": "lijit.com", "lijit.copenx.com": "openx.com", "limpid": "limpid.tv", "magnite: ": "", "mahimeta": "mahimeta.com", "mapmyfitness ": "", "media-net": "media.net", "mediaonline.com": "9mediaonline.com", "mobfox": "mobfox.com", "mobupps": "mobupps.com", "mobuppsrtb.com": "mobupps.com", "ndexexchange.com": "indexexchange.com", "o;google.com": "google.com", "openx": "openx.com", "openx.comm": "openx.com", "openx.net": "openx.com", "outbrain.cbuffo": "outbrain.com", "penx.com": "openx.com", "pera.media": "opera.com", "potx.tv": "spotx.tv", "potxchange.com": "spotx.tv", "ppnexus.com": "appnexus.com", "publisher.": "", "publishers.": "", "pubnative.com": "pubnative.net", "quantumdx.io": "quantumdex.io", "relaido": "relaido.jp", "rhythmone": "rhythmone.com", "rhythmone.cpm": "rhythmone.com", "rhythomone.com": "rhythmone.com", "riteo.com": "criteo.com", "rtbhouse": "rtbhouse.com", "rtbhhouse.com": "rtbhouse.com", "sekindo": "sekindo.com", "sharethrough: ": "", "smartadserver": "smartadserver.com", "sonictwist": "sonictwist.media", "spotexchange.com": "spotx.tv", "spotx.com": "spotx.tv", "spotx.tvchange.com": "spotx.tv", "spotx.tvspotxchange.com": "spotx.tv", "spotxchange.com": "spotx.tv", "sulvo.co": "sulvo.com", "syancor.com": "synacor.com", "teads.tv": "teads.com", "spot.im": "spotim.market", "test.e-planning.net": "e-planning.net", "themoneytizer.com‚": "themoneytizer.com", "tpmn.co.kr": "tpmn.io", "triplift.com": "triplelift.com", "viads.co": "viads.com", "video ": "", "weborama.nl": "", "website: ": "", "yieldlab.de": "yieldlab.com", "yieldlab.net": "yieldlab.com", "yieldmo": "yieldmo.com", "﻿": ""}
@@ -134,40 +134,52 @@ def get_pool_owner_domain(ad_domain, seller_id):
 	seller_domain = ""
 
 	# Parse google's sellers.json differently than others
-	if ad_domain in ["google.com"]:
-		ad_sellers = json.loads(ast.literal_eval(json.dumps(f.read())))
-	else:
-		json_string = json.load(f)
-		ad_sellers = json.loads(json_string)
+	try:
+		if ad_domain in ["google.com"]:
+			ad_sellers = json.loads(ast.literal_eval(json.dumps(f.read())))
+		else:
+			json_string = json.load(f)
+			ad_sellers = json.loads(json_string)
+	except json.JSONDecodeError as e:
+		try:
+			if json_string != "":
+				# Correcting some incorrect syntax of JSON
+				json_string.replace(" ","").replace("\n","").replace("\t","").replace(",]","]").replace(",}","}").strip(",")
+				ad_sellers = json.loads(json_string)
+		except:
+			return "sellersjson_not_available"
 
 	# Traverse through each entry of the sellers.json
-	for seller in ad_sellers["sellers"]:
-		sid, is_confidential, seller_domain = "NA", "False", "unused_seller_id"
+	try:
+		for seller in ad_sellers["sellers"]:
+			sid, is_confidential, seller_domain = "NA", "False", "unused_seller_id"
 
-		# If key: "seller_id" exists in the sellers.json entry and matched the currently passed seller_id to the function then do the following
-		if "seller_id" in seller.keys():
-			sid = str(seller["seller_id"]).strip().lower()
-			if sid == seller_id:
-				
-				# If current entry is confidential, then return "confidential_seller" as the owner_domain
-				# If the key "domain" is absent in the current sellers.json entry, then return "not available" as the owner domain
-				# Else, if the domain is present, return the domain as the owner domain
-				if "is_confidential" in seller.keys():
-					if seller["is_confidential"] == 1:
-						is_confidential = "True"
-						seller_domain = "confidential_seller"
+			# If key: "seller_id" exists in the sellers.json entry and matched the currently passed seller_id to the function then do the following
+			if "seller_id" in seller.keys():
+				sid = str(seller["seller_id"]).strip().lower()
+				if sid == seller_id:
+					
+					# If current entry is confidential, then return "confidential_seller" as the owner_domain
+					# If the key "domain" is absent in the current sellers.json entry, then return "not available" as the owner domain
+					# Else, if the domain is present, return the domain as the owner domain
+					if "is_confidential" in seller.keys():
+						if seller["is_confidential"] == 1:
+							is_confidential = "True"
+							seller_domain = "confidential_seller"
+						else:
+							if "domain" in seller.keys():
+								seller_domain = str(seller["domain"]).replace("https://","").replace("http://","").replace("www.","").strip().lower()
+							else:
+								seller_domain = "not_available"
 					else:
 						if "domain" in seller.keys():
 							seller_domain = str(seller["domain"]).replace("https://","").replace("http://","").replace("www.","").strip().lower()
 						else:
 							seller_domain = "not_available"
-				else:
-					if "domain" in seller.keys():
-						seller_domain = str(seller["domain"]).replace("https://","").replace("http://","").replace("www.","").strip().lower()
-					else:
-						seller_domain = "not_available"
-				break;
-		
+					break;
+	except:
+		return "sellersjson_not_available"
+	
 	# Performing some processing before returning the seller_domain as the owner domain
 	seller_domain = seller_domain.replace("​", "").replace("/", "").replace("aps.amazon.comapsindex.html", "aps.amazon.com").replace("disqus", "disqus.com").replace("mediavine.comsellers.json", "mediavine.com").replace("aps.amazon.comapsunified-ad-marketplace", "aps.amazon.com")
 	return seller_domain
@@ -312,7 +324,7 @@ def discover_pools_in_100k_domains():
 		if ".DS_Store" in file:
 			continue
 		
-		top_100k_domain = str(file.split("|")[1]).replace("_",".").replace(".txt","").strip().lower()
+		top_100k_domain = str(file).replace("_",".").replace(".txt","").strip().lower()
 		if top_100k_domain in study_domains:
 			continue
 		domain_str = top_100k_domain + "|O"
@@ -458,10 +470,10 @@ def main():
 
 		row = []
 
+		pool_type = str(list(static_pools[pool].keys())[0])
 		pool_size = len(list(set(static_pools[pool][pool_type])))
 		if pool_size <= 1:
 			continue
-		pool_type = str(static_pools[pool].keys()[0])
 		ad_domain = str(pool.split("|")[0].lower())
 		seller_id = str(pool.split("|")[1].lower())
 		owner_domain = get_pool_owner_domain(ad_domain, seller_id)
