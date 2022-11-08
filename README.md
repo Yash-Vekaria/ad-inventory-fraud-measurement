@@ -82,6 +82,8 @@ The following scenarios describe different misrepresentations in `ads.txt` file:
   <img src="https://github.com/Yash-Vekaria/Ad-Inventory-Fraud-Measurement/files/9793766/adstxt-inventory-fraud-toy-examples.pdf">
 </p>
 
+## 
+
 The following scenarios describe different misrepresentations in `sellers.json` file:
 
 <p align="center">
@@ -129,6 +131,7 @@ The Top 100K Tranco websites are extracted from the Top 1M Tranco websites avail
    adstxt_presence_directory, adstxt_presence_filename = "", "top100k_adstxt_presence.txt"
    output_directory = "./adstxt_top100k/"
    ```
+## 
 
 ### Static Pooling
 
@@ -143,6 +146,7 @@ Static Pooling involves studying the signs of collusion by analysing the static 
    ```
    python discover_static_pools.py
    ```
+## 
 
 ### Dynamic Pooling
 
