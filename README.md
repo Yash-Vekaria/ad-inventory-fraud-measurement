@@ -135,6 +135,8 @@ The Top 100K Tranco websites are extracted from the Top 1M Tranco websites avail
 
 ### Static Pooling
 
+## 
+
 Static Pooling involves studying the signs of collusion by analysing the static files of `ads.txt` of study websites and the Top 100K websites and the set of and `sellers.json` files. Follow the steps below:
 
 1. In order to obtain the parent organization of each domain under our study as well as for the Top 100K tranco domains, Entity-Organization List provided by DuckDuckGo (DDG) in their `tracker-radar` repository is used. Since, this repository is huge, it is recommended to clone it in a temporary folder using the following command.
@@ -149,6 +151,8 @@ Static Pooling involves studying the signs of collusion by analysing the static 
 ## 
 
 ### Dynamic Pooling
+
+## 
 
 Dynamic Pooling involves studying the signs of collusion between two or more websites (i.e., existence of static pools) by actually visiting the websites under study in real-time, capturing all the bid request, responses and post data and analysing them to find the evidence of such a collusion. We collect this data as explained in the Methodology diagram above. The codes are present in `/Pooling/dynamic-crawler/`. To perform dynamic crawls of a website perform the following steps:
 
