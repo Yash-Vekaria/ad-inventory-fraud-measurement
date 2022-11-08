@@ -88,6 +88,8 @@ The following scenarios describe different misrepresentations in `sellers.json` 
   <img src="https://github.com/Yash-Vekaria/Ad-Inventory-Fraud-Measurement/files/9793769/sellersjson-inventory-fraud.pdf">
 </p>
 
+## 
+
 The counts for above misrepresentations can be discovered in ads.txt and sellers.json files using the `summary_adstxt.csv` and `summary_sellersjson.csv` files respectively generated above. 
 
 The following commands need to be run inside `Misrepresentations` directory:
