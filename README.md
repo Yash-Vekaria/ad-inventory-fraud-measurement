@@ -10,7 +10,7 @@ For further details, please check out the research paper associated with this wo
 **Paper:** https://doi.org/10.48550/arXiv.2210.06654
 
 Our work was recently presented at AdExchanger's Programmatic I/O on May 16th 2023.\
-**Presentation:** https://docs.google.com/presentation/d/1Py40hK7Zl5wvXY5aYU98ffdC0ovch7gnGth94QEQp3M/edit?usp=sharing
+**Presentation:** [Google Slide Deck](https://docs.google.com/presentation/d/1Py40hK7Zl5wvXY5aYU98ffdC0ovch7gnGth94QEQp3M/edit?usp=sharing)
 
 ***
 
