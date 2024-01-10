@@ -219,22 +219,13 @@ Input the list of folders of the dynamic crawls (generated in in `/Pooling/dynam
 If you find this work useful, please cite our research paper:
 
 ```
-@misc{https://doi.org/10.48550/arxiv.2210.06654,
-  doi = {10.48550/ARXIV.2210.06654},
-  
-  url = {https://arxiv.org/abs/2210.06654},
-  
-  author = {Vekaria, Yash and Nithyanand, Rishab and Shafiq, Zubair},
-  
-  keywords = {Cryptography and Security (cs.CR), Computers and Society (cs.CY), Networking and Internet Architecture (cs.NI), Social and Information Networks (cs.SI), FOS: Computer and information sciences, FOS: Computer and information sciences},
-  
-  title = {The Inventory is Dark and Full of Misinformation: Understanding the Abuse of Ad Inventory Pooling in the Ad-Tech Supply Chain},
-  
-  publisher = {arXiv},
-  
-  year = {2022},
-  
-  copyright = {Creative Commons Attribution 4.0 International}
+@inproceedings{vekaria2023inventory,
+  title={The Inventory is Dark and Full of Misinformation: Understanding Ad Inventory Pooling in the Ad-Tech Supply Chain},
+  author={Vekaria, Yash and Nithyanand, Rishab and Shafiq, Zubair},
+  booktitle={2024 IEEE Symposium on Security and Privacy (SP)},
+  pages={3--3},
+  year={2023},
+  organization={IEEE Computer Society}
 }
 ```
 ***
