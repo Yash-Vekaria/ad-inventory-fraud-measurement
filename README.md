@@ -7,7 +7,7 @@ The dataset associated with our work can be accessed below. It can be used to re
 **Dataset:** [OSF Project Repository](https://osf.io/hxfkw/?view_only=bda006ebbd7d4ec2be869cbb198c6bd5)  
 
 For further details, please check out the research paper associated with this work.\
-**Publication:** https://doi.ieeecomputersociety.org/10.1109/SP54263.2024.00003\
+**Publication:** https://doi.ieeecomputersociety.org/10.1109/SP54263.2024.00003 <br>
 **Public Access via arxiv:** https://doi.org/10.48550/arXiv.2210.06654
 
 Our work was recently presented at AdExchanger's Programmatic I/O on May 16th 2023.\
