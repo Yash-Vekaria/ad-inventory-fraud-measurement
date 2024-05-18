@@ -7,7 +7,8 @@ The dataset associated with our work can be accessed below. It can be used to re
 **Dataset:** [OSF Project Repository](https://osf.io/hxfkw/?view_only=bda006ebbd7d4ec2be869cbb198c6bd5)  
 
 For further details, please check out the research paper associated with this work.\
-**Paper:** https://doi.org/10.48550/arXiv.2210.06654
+**Publication:** https://doi.ieeecomputersociety.org/10.1109/SP54263.2024.00003\
+**Public Access via arxiv:** https://doi.org/10.48550/arXiv.2210.06654
 
 Our work was recently presented at AdExchanger's Programmatic I/O on May 16th 2023.\
 **Presentation:** [Google Slide Deck](https://docs.google.com/presentation/d/1Py40hK7Zl5wvXY5aYU98ffdC0ovch7gnGth94QEQp3M/edit?usp=sharing)
@@ -219,13 +220,21 @@ Input the list of folders of the dynamic crawls (generated in in `/Pooling/dynam
 If you find this work useful, please cite our research paper:
 
 ```
-@inproceedings{vekaria2023inventory,
-  title={The Inventory is Dark and Full of Misinformation: Understanding Ad Inventory Pooling in the Ad-Tech Supply Chain},
-  author={Vekaria, Yash and Nithyanand, Rishab and Shafiq, Zubair},
-  booktitle={2024 IEEE Symposium on Security and Privacy (SP)},
-  pages={3--3},
-  year={2023},
-  organization={IEEE Computer Society}
+@INPROCEEDINGS{,
+  author = {Y. Vekaria and R. Nithyanand and Z. Shafiq},
+  booktitle = {2024 IEEE Symposium on Security and Privacy (SP)},
+  title = {The Inventory is Dark and Full of Misinformation: Understanding Ad Inventory Pooling in the Ad-Tech Supply Chain},
+  year = {2024},
+  volume = {},
+  issn = {2375-1207},
+  pages = {7-7},
+  keywords = {online advertising;ad fraud;dark pooling;brand safety;misinformation;misinformation monetization;deception;ad inventory;misrepresentation},
+  doi = {10.1109/SP54263.2024.00003},
+  url = {https://doi.ieeecomputersociety.org/10.1109/SP54263.2024.00003},
+  publisher = {IEEE Computer Society},
+  address = {Los Alamitos, CA, USA},
+  month = {may}
 }
+
 ```
 ***
